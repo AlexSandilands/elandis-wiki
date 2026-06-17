@@ -43,6 +43,8 @@ The Luminor Plains occupy the centre-east of [[Valtorra]], broad temperate grass
 
 The defining thread of the plains is the [[Luminor River]]. Rising in the [[Silver Mountains]] to the west, it runs across the breadth of the grasslands before reaching the sea at [[Val Miriel]], and at its midpoint it widens into the broad, slow channel where [[Val Luminor]] stands. Away from the river the plains are a patchwork of wheatfields, pasture, hedgerow, and small farming towns — among them [[Redhaven]], [[Nightstone]], [[Hillcrest]], [[Goldcrest]], and [[Ravencrest]] — laced together by the Imperial roads that carry the harvest toward the capital and the coast.
 
+![[Luminor_Plains_Location_small.webp]]
+
 ## History
 
 The Luminor Plains have always been the most coveted ground on [[Valtorra]] — flat, fertile, and central — and so they have always been the seat of whoever ruled the continent. Through the long rebuilding that followed the [[Chaos Wars]], the plains were settled and farmed by humans and halflings alike, and the human Kingdoms of Old set their greatest cities at the edges of this central country.

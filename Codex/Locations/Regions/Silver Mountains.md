@@ -42,6 +42,8 @@ The Silver Mountains rise through the centre of [[Valtorra]], a great twin range
 
 At the very heart of the range stands [[Valfyria]], a great active volcano whose column of smoke is a landmark visible for a hundred miles across the central continent. Below the snowline the slopes are bare rock and scree, riddled with the gates, chimneys, and spoil-heaps of generations of dwarven mining; the deepest shafts run far beneath the peaks, following gem-veins down into the dark. The valley floor holds still mountain lakes and the only open sky the range affords, while the high passes between the ridges are choked with snow for much of the year and crossed only with care.
 
+![[Silver_Mountains_Location_small.webp|right|350]]
+
 ## History
 
 The Silver Mountains were, for nearly two thousand years, the homeland of a single unified dwarven kingdom — one of the three great peoples who rebuilt [[Valtorra]] out of the long ruin of the [[Chaos Wars]], alongside the human Kingdoms of Old and the elves of [[Erivan Island]]. The dwarves seated their crown at [[Glimmerforge]], carved their wealth out of [[Gemhold]], smelted it at [[Orespire]], and traded it through [[Silverdeep]] on the valley floor. For centuries a fragile peace held between mountain, plain, and island.

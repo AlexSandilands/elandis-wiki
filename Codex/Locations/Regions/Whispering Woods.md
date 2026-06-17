@@ -32,7 +32,10 @@ tags:
 
 The woods lie within the [[Silver Mountains]], occupying part of the long valley that runs north to south between the range's eastern and western arms. The river that drains the valley — the same water that flows out past [[Orespire]] and on beyond the mountains — winds through the trees on its way south, and the woods cling to the slopes and valley floor around it. Tall conifers dominate, dark and close-grown, climbing the lower mountainsides until the timber thins toward the bare grey peaks above.
 
+![[Whispering_Woods_Location_small.webp|left|400]]
+
 Wind defines the place. The valley channels it without pause, and here, where the corridor narrows, it blows hardest of all — a perpetual breeze stirring the high branches so the forest seems forever murmuring to itself. That sound is the whole of the name: there is no magic in it, no voices, only wind in old trees. The same exposure gives the region its long-prized timber, and good bow-wood among it; the name still travels with the trade, carried as far as the workshop of the Whispering Woods Bowyer in distant [[Camaar]].
+
 
 ## History & Inhabitants
 

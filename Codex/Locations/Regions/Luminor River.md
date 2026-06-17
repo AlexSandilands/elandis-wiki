@@ -38,6 +38,8 @@ The Luminor River rises in the [[Silver Mountains]] and runs west-southwest acro
 
 Roughly at the midpoint of its crossing the river widens into a broad expanse of slow, deep water, and there it splits cleanly around Eventide Isle — the large, gently raised island on which the Imperial capital of [[Val Luminor]] is built, both channels running swift and deep before rejoining downstream. At its southern end the river reaches [[Val Miriel]], the continent's greatest port, where it cuts north-west to south-east through the heart of the city, dividing it into two banks joined at the single great span of [[Valena's Bridge]] before opening into the gulf. The river touches everyone's life along its course, and nowhere more visibly than in the [[Val Miriel River Market|River Market]] grown along its banks and the riverside taverns such as [[River's Watch]] that look out over the water.
 
+![[Luminor_Plains_Location_small.webp]]
+
 ## [[The Bloody Nails|Campaign: The Bloody Nails]]
 
 #### [[Session 19 - Blood and Sorrow]]

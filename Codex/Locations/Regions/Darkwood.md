@@ -36,7 +36,10 @@ The Darkwood is the vast, monster-haunted forest that sprawls across the eastern
 
 The Darkwood occupies the eastern coast of [[Valtorra]], in the continent's south-east, sprawling roughly a hundred and fifty miles across and a hundred deep. Its western edge brushes the hollow where [[Lighthaven]] sits; from there the forest runs unbroken east to the coastline and reaches south toward [[Val Miriel]] and the town of Sabine on the shore of the [[Gulf of Miriel]]. To the north the peaks of the [[Borealia Range]] wall it off from the north-eastern coast, and together range and forest seal the continent's eastern interior away from the sea.
 
+![[Darkwood_Location_small.webp|right|400]]
+
 Across so great an expanse the land is far from uniform. Dense stands of ancient pine give way to deep bramble-country where the undergrowth grows thick enough to swallow a path in a season; rivers cut steep gullies threaded with waterfalls, and boggy hollows lie waiting between the higher ground. At the forest's heart spreads a great lake, fed from somewhere beneath and draining out to the ocean by the only sizeable river the wood gives up. Over all of it hangs a near-perpetual fog, and beneath the canopy the light fails early — the wood is dark in the middle of the day, and pitch-black by dusk.
+
 
 ## History
 

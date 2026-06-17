@@ -39,6 +39,8 @@ The Borealia Range branches eastward from the northern end of the [[Silver Mount
 
 Its slopes are forested low and bare high — dark conifers climbing the foothills before giving way to rock and snow along the ridgeline. The range is colder and quieter than the plains it borders, a thinly travelled frontier of high passes and lonely valleys. Like the continent's other smaller mountain chains, it is home to scattered communities of gnomes, who keep to the higher reaches well away from Imperial notice.
 
+![[Borealia_Range_Location_small.webp]]
+
 ## Significance
 
 The Borealia Range matters chiefly for what it divides. Together with the [[Darkwood]] it walls the rich central interior off from the north-eastern coast, shaping where roads run, where cities can stand, and where the wilds begin. The saddle it forms with the [[Silver Mountains]] is the gateway to the far north, guarded by [[Val Aran]] — and so the range, for all that it is the lesser of the continent's mountains, helps decide how the cold north is reached and held.

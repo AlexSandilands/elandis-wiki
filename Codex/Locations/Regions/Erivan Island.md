@@ -33,6 +33,8 @@ The island lies across the Erivan Strait from the Valtorra mainland. It is a for
 
 A century without inhabitants has let the wilds reclaim what was built. Roads are cracked and rooted over, and the forests press steadily into the settlements. The elven cities remain intact — preserved exactly as their people left them — but the wards that seal them inflict mounting, ultimately fatal psychic agony on any non-elf who lingers. The [[Valtorran Empire]] tested those wards and found them unbreakable; it never held the island.
 
+![[Erivan_Island_Location_small.webp]]
+
 ## Settlements & Sites
 
 - [[Ithilmara]] — the principal elven city, on the eastern coast; the seat of material governance and home to the World Gate, the planar mechanism bound to the [[Silmara Family|Silmara]] bloodline that carried the elves to [[Sumara, The Shining City|Sumara]] at the Exile.

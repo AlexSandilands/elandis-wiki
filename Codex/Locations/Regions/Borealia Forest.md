@@ -31,4 +31,6 @@ tags:
 
 The Borealia Forest begins just north of [[Val Aran]] and stretches toward the northern coast of [[Valtorra]], its true extent unmapped and largely unvisited. The trees are ancient and enormous — dark-barked conifers packed so tightly that light rarely reaches the floor — and the air inside runs colder than it should, even in the height of summer. Dead wood is everywhere: pale, stripped trunks standing among the living like sentinels. The forest floor is carpeted with deep moss and shadow, and little that requires sunlight grows there. Somewhere far into the heart of the woodland, half-swallowed by centuries of growth, lie the ruins of a stone structure that dates to the era of the necromancer who once held sway here.
 
+![[Borealia_Forest_Location_small.webp|right]]
+
 Small numbers of undead have wandered the deep forest for as long as anyone in [[Val Aran]] can remember, a lingering consequence of what was done here long ago. The city's rangers learned to treat them as a hazard to be managed rather than a crisis to be solved. In recent years, however, that quiet understanding has broken down — the dead have grown more numerous and more aggressive, and the old equilibrium has not held.
