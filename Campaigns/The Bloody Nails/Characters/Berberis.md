@@ -47,9 +47,13 @@ A weathered, middle-aged human, his red hair and beard greying and woven through
 
 ## Personality
 
-Gruff and blunt to a fault, the militant edge of a gentler calling.
+Gruff and blunt to a fault — the militant edge of a gentler calling — with a dry, fatalistic humour and little patience for half-measures. He reads the weather and the men around him at a glance, and is rarely the one to flinch from an ugly decision.
 
 ## Role in the Party
 
-The party's druid, wielding the wild's own fury against the Empire's encroachment.
+The party's druid, and their eyes ahead of trouble. He slips between shapes — owl, weasel, badger, boar — to scout enemy camps, eavesdrop on Imperial officers and carry word back to the others, then turns the wild itself on the Empire when the fighting starts, binding foes with roots and summoning beasts to grapple and maul. He fell in with the Bloody Nails amid the defence of [[Val Noren]] and has marched at their side since.
+
+## Backstory
+
+Berberis came to the Bloody Nails already a man of the wild; his earlier years, and whatever set him against the Empire, are still his own to tell.
 
