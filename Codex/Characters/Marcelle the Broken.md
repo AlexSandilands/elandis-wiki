@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Marcelle the Broken
-> [![[Public/Codex/Assets/Characters/Marcelle_the_Broken_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Marcelle_the_Broken.webp)
+> [![[Marcelle_the_Broken_small.webp|cover hsmall]]](Marcelle_the_Broken.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

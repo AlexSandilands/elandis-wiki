@@ -1,11 +1,3 @@
-```
-[STYLE]: Fantasy RPG heraldic emblem. Soft painterly strokes, visible brushwork, digital painting aesthetic, rich but restrained colour palette. NOT photorealistic, NOT a flat inked vector logo, NOT a hard-outlined crest — stylized like a carved relief in official D&D 5e module artwork, the forms emerging from the stone through gentle modelling rather than bold outlines.
-[SUBJECT]: a heraldic coat of arms carved in relief into a square slab of weathered slate-grey stone that FILLS the entire frame edge to edge. At the centre, raised proud of the background, sits a classic heater shield (escutcheon) — broad and flat-topped, tapering to a point at the base — its face forming a recessed field. Displayed upon the shield as its sole charge is a sun in splendour — a full radiant sun shown face-on, a serene human-like face at its centre, ringed by a bold symmetrical corona of alternating straight and wavy rays radiating to the edges of the shield's field and rising above its top edge. The composition is bilaterally symmetrical and heraldically formal, the shield squarely centred and dominant. The sun stands raised against the shield's field, its rays and face catching warm tarnished bronze-gold leaf along the raised edges and tips, while faint copper and rust oxidation settle into the deep-cut hollows, set off against the cool grey stone. The stone surface is richly textured: pitted, faintly cracked, age-worn, with subtle mottling.
-[BORDER]: a wide double frame carved into the stone surrounding the central shield — an outer raised border and an inner border line, with a plain, bare recessed channel between them. NO pattern, NO runes, NO letters, NO glyphs, NO symbols — clean carved stone only.
-[MOOD]: exuberant, blazing and joyous — the unrestrained heat of high summer
-[LIGHTING]: flat, even, ambient illumination — no directional light source, no cast shadows, no candle, no props, no background scene; the relief reads through carved depth alone
-[FORMAT]: 1:1 square, the carved stone surface fills the frame as a centered emblem
-```
 ---
 Type: Faction
 Category: Seelie Court
@@ -20,10 +12,9 @@ tags:
   - faction
 aliases: [The Court of the High Sun]
 ---
-
 > [!infobox|wikipedia]
 > # Court of the High Sun
-> [![[Public/Codex/Assets/Factions/Court_of_the_High_Sun_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_the_High_Sun.webp)
+> [![[Public/Codex/Assets/Factions/Court_of_High_Sun_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_High_Sun.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

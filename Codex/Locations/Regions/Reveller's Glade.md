@@ -2,7 +2,7 @@
 Type: Region
 Plane: "[[Faewild]]"
 Defining Feature: A sweltering Seelie jungle of endless revelry where every emotion is magnified tenfold
-Ruling Court: "[[Court of the High Sun]]"
+Ruling Court: "[[Court of High Sun]]"
 Connections:
   - "[[Gossamer Woods]]"
   - "[[Briarshade]]"
@@ -25,14 +25,14 @@ tags:
 > Type | Region |
 > Plane | [[Faewild]] |
 > Defining Feature | A sweltering Seelie jungle of endless revelry where every emotion is magnified tenfold |
-> Ruling Court | [[Court of the High Sun]] |
+> Ruling Court | [[Court of High Sun]] |
 > Connections | [[Briarshade]] (the Unseelie counterpart across the Sundered Plateau)<br>[[Gossamer Woods]] (the southern approach)<br>[[Shimmering Peaks]] (beyond, to the north) |
 > ###### Status
 > Attribute |  Details |
 > ---|---|
 > Status | Active |
 
-The **Reveller's Glade** is a loud, passionate, aggressively hospitable stretch of the [[Faewild]], governed by the Seelie [[Court of the High Sun]]. It embodies the chaotic, unrestrained energy of high summer — a region where the very environment refuses to allow anyone to be sad, quiet, or still, and where that boundless joy becomes, for a weary traveller, a genuine and exhausting danger.
+The **Reveller's Glade** is a loud, passionate, aggressively hospitable stretch of the [[Faewild]], governed by the Seelie [[Court of High Sun]]. It embodies the chaotic, unrestrained energy of high summer — a region where the very environment refuses to allow anyone to be sad, quiet, or still, and where that boundless joy becomes, for a weary traveller, a genuine and exhausting danger.
 
 ## Geography & Landscape
 

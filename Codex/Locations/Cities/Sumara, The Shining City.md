@@ -17,7 +17,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Sumara, The Shining City
-> [![[Public/Codex/Assets/Locations/Cities/Sumara_The_Shining_City_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Sumara_The_Shining_City.webp)
+> [![[Sumara_The_Shining_City_small.webp|cover hsmall]]](Sumara_The_Shining_City.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

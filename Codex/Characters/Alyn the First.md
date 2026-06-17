@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Alyn the First
-> [![[Public/Codex/Assets/Characters/Alyn_the_First_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Alyn_the_First.webp)
+> [![[Alyn_the_First_small.webp|cover hsmall]]](Alyn_the_First.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

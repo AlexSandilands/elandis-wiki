@@ -27,7 +27,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Selûne
-> [![[Selune_small.webp|cover hsmall]]](Selune.webp)
+> [![[Public/Codex/Assets/Lore/Selune_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Selune.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

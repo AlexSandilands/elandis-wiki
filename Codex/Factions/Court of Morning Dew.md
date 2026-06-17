@@ -1,11 +1,3 @@
-```
-[STYLE]: Fantasy RPG heraldic emblem. Soft painterly strokes, visible brushwork, digital painting aesthetic, rich but restrained colour palette. NOT photorealistic, NOT a flat inked vector logo, NOT a hard-outlined crest — stylized like a carved relief in official D&D 5e module artwork, the forms emerging from the stone through gentle modelling rather than bold outlines.
-[SUBJECT]: a heraldic coat of arms carved in relief into a square slab of weathered slate-grey stone, faintly tinted with COOL ROSE-GOLD DAWN, that FILLS the entire frame edge to edge. At the centre, raised proud of the background, sits a classic heater shield (escutcheon) — broad and flat-topped, tapering to a point at the base — its face forming a recessed field. Displayed upon the shield as its sole charge is a faerie dragon rampant — a small slender serpentine dragon shown facing forward, its long sinuous neck curving up, with a pair of large broad butterfly-like wings spread wide and raised above the shield's top edge in a symmetric upward V, four delicate clawed limbs splayed heraldically, and a long coiling tail looping beneath. The composition is bilaterally symmetrical and heraldically formal, the shield squarely centred and dominant. The faerie dragon stands raised against the shield's field, its forms catching pale rose-gold leaf along the raised wing-edges and tips, while faint copper and soft green oxidation settle into the deep-cut hollows, set off against the cool grey stone. The stone surface is richly textured: pitted, faintly cracked, age-worn, with subtle mottling.
-[BORDER]: a wide double frame carved into the stone surrounding the central shield — an outer raised border and an inner border line, with a plain, bare recessed channel between them. NO pattern, NO runes, NO letters, NO glyphs, NO symbols — clean carved stone only.
-[MOOD]: whimsical, curious and disarming — gentle beauty with a mischievous edge
-[LIGHTING]: flat, even, ambient illumination — no directional light source, no cast shadows, no candle, no props, no background scene; the relief reads through carved depth alone
-[FORMAT]: 1:1 square, the carved stone surface fills the frame as a centered emblem
-```
 ---
 Type: Faction
 Category: Seelie Court
@@ -20,7 +12,6 @@ tags:
   - faction
 aliases: [The Court of Morning Dew]
 ---
-
 > [!infobox|wikipedia]
 > # Court of Morning Dew
 > [![[Public/Codex/Assets/Factions/Court_of_Morning_Dew_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_Morning_Dew.webp)
@@ -52,4 +43,4 @@ The Court is inseparable from its realm. The [[Gossamer Woods]] are a region of 
 
 ## History
 
-The origins of the Court of Morning Dew are unrecorded, as old as its domain. It stands as one of several independent courts of the known Faewild corridor — alongside the Seelie [[Court of the High Sun]] of the [[Reveller's Glade]], the Unseelie [[Court of Fallen Leaves]] of the [[Briarshade]], and the dominant Unseelie court of the [[Vale of Eternal Night]] under the archfae [[Mirileth]]. No grand high court rules above them; each holds its own territory and its own laws, and the Morning Dew keeps to its bright woods at the plane's southern threshold.
+The origins of the Court of Morning Dew are unrecorded, as old as its domain. It stands as one of several independent courts of the known Faewild corridor — alongside the Seelie [[Court of High Sun]] of the [[Reveller's Glade]], the Unseelie [[Court of Fallen Leaves]] of the [[Briarshade]], and the dominant Unseelie court of the [[Vale of Eternal Night]] under the archfae [[Mirileth]]. No grand high court rules above them; each holds its own territory and its own laws, and the Morning Dew keeps to its bright woods at the plane's southern threshold.
