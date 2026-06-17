@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Val Miriel
-> [![[Public/Codex/Assets/Locations/Cities/Val_Miriel_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Val_Miriel.webp)
+> [![[Val_Miriel_small.webp|cover hsmall]]](Val_Miriel.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

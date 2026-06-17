@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Fungrals
-> [![[Public/Codex/Assets/Lore/Fungrals_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Fungrals.webp)
+> [![[Fungrals_small.webp|cover hsmall]]](Fungrals.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

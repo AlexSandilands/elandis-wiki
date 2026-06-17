@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Elder Pip Glimmermoss
-> [![[Public/Codex/Assets/Characters/Elder_Pip_Glimmermoss_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Elder_Pip_Glimmermoss.webp)
+> [![[Elder_Pip_Glimmermoss_small.webp|cover hsmall]]](Elder_Pip_Glimmermoss.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

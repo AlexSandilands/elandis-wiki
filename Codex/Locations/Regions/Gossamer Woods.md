@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Gossamer Woods
-> [![[Public/Codex/Assets/Locations/Regions/Gossamer_Woods_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Gossamer_Woods.webp)
+> [![[Gossamer_Woods_small.webp|cover hsmall]]](Gossamer_Woods.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

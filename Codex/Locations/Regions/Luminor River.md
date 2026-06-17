@@ -17,7 +17,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Luminor River
-> [![[Public/Codex/Assets/Locations/Regions/Luminor_River_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Luminor_River.webp)
+> [![[Luminor_River_small.webp|cover hsmall]]](Luminor_River.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

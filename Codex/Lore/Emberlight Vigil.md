@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Emberlight Vigil
-> [![[Public/Codex/Assets/Lore/Emberlight_Vigil_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Emberlight_Vigil.webp)
+> [![[Emberlight_Vigil_small.webp|cover hsmall]]](Emberlight_Vigil.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

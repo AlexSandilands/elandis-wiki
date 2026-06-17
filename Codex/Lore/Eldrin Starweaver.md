@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Eldrin Starweaver
-> [![[Public/Codex/Assets/Lore/Eldrin_Starweaver_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Eldrin_Starweaver.webp)
+> [![[Eldrin_Starweaver_small.webp|cover hsmall]]](Eldrin_Starweaver.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

@@ -15,7 +15,7 @@ aliases: [Mawbreaker]
 ---
 > [!infobox|wikipedia]
 > # Mawbreakers
-> [![[Public/Codex/Assets/Factions/Mawbreakers_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Mawbreakers.webp)
+> [![[Mawbreakers_small.webp|cover hsmall]]](Mawbreakers.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

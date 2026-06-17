@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Lilliana Featherfoot
-> [![[Public/Codex/Assets/Characters/Lilliana_Featherfoot_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lilliana_Featherfoot.webp)
+> [![[Lilliana_Featherfoot_small.webp|cover hsmall]]](Lilliana_Featherfoot.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Underrun
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Underrun_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Underrun.webp)
+> [![[Underrun_small.webp|cover hsmall]]](Underrun.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

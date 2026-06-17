@@ -19,7 +19,7 @@ aliases: [Valen]
 ---
 > [!infobox|wikipedia]
 > # Valen Leafwhisper
-> [![[Public/Codex/Assets/Characters/Valen_Leafwhisper_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Valen_Leafwhisper.webp)
+> [![[Valen_Leafwhisper_small.webp|cover hsmall]]](Valen_Leafwhisper.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

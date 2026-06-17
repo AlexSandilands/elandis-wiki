@@ -15,7 +15,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # The Albatross
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/The_Albatross_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/The_Albatross.webp)
+> [![[The_Albatross_small.webp|cover hsmall]]](The_Albatross.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

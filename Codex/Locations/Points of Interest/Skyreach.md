@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Skyreach
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Skyreach_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Skyreach.webp)
+> [![[Skyreach_small.webp|cover hsmall]]](Skyreach.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

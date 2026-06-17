@@ -22,7 +22,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Lia
-> [![[Public/Codex/Assets/Characters/Lia_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lia.webp)
+> [![[Lia_small.webp|cover hsmall]]](Lia.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

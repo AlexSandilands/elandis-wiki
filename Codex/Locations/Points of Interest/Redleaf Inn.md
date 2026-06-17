@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Redleaf Inn
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Redleaf_Inn_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Redleaf_Inn.webp)
+> [![[Redleaf_Inn_small.webp|cover hsmall]]](Redleaf_Inn.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

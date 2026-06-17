@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Artisan Way
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Artisan_Way_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Artisan_Way.webp)
+> [![[Artisan_Way_small.webp|cover hsmall]]](Artisan_Way.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

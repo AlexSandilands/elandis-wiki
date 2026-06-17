@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Goblin Lair
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Goblin_Lair_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Goblin_Lair.webp)
+> [![[Goblin_Lair_small.webp|cover hsmall]]](Goblin_Lair.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -14,7 +14,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # Whispering Woods
-> [![[Public/Codex/Assets/Locations/Regions/Whispering_Woods_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Whispering_Woods.webp)
+> [![[Whispering_Woods_small.webp|cover hsmall]]](Whispering_Woods.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

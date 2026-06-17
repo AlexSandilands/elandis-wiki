@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Azara Flametongue
-> [![[Public/Codex/Assets/Lore/Azara_Flametongue_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Azara_Flametongue.webp)
+> [![[Azara_Flametongue_small.webp|cover hsmall]]](Azara_Flametongue.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

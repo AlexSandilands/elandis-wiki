@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Sanctum Canoporium
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Sanctum_Canoporium_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Sanctum_Canoporium.webp)
+> [![[Sanctum_Canoporium_small.webp|cover hsmall]]](Sanctum_Canoporium.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

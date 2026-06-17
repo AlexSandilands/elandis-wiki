@@ -15,7 +15,7 @@ aliases: [The Empire, Crimson Empire, Red Empire, Imperial, Empire]
 ---
 > [!infobox|wikipedia]
 > # Valtorran Empire
-> [![[Public/Codex/Assets/Factions/Valtorran_Empire_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Valtorran_Empire.webp)
+> [![[Valtorran_Empire_small.webp|cover hsmall]]](Valtorran_Empire.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

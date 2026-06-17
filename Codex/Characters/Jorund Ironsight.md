@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Jorund Ironsight
-> [![[Public/Codex/Assets/Characters/Jorund_Ironsight_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Jorund_Ironsight.webp)
+> [![[Jorund_Ironsight_small.webp|cover hsmall]]](Jorund_Ironsight.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

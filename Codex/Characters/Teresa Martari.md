@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Teresa Martari
-> [![[Public/Codex/Assets/Characters/Teresa_Martari_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Teresa_Martari.webp)
+> [![[Teresa_Martari_small.webp|cover hsmall]]](Teresa_Martari.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

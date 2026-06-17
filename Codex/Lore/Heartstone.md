@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Heartstone
-> [![[Public/Codex/Assets/Lore/Heartstone_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Heartstone.webp)
+> [![[Heartstone_small.webp|cover hsmall]]](Heartstone.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

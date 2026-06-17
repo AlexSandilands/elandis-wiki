@@ -15,7 +15,7 @@ aliases: [Scroll, Circle of the Scroll]
 ---
 > [!infobox|wikipedia]
 > # Circle of the Scroll
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Scroll_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Scroll.webp)
+> [![[Circle_of_the_Scroll_small.webp|cover hsmall]]](Circle_of_the_Scroll.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

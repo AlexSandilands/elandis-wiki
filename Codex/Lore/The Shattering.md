@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # The Shattering
-> [![[Public/Codex/Assets/Lore/The_Shattering_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/The_Shattering.webp)
+> [![[The_Shattering_small.webp|cover hsmall]]](The_Shattering.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

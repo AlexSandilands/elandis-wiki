@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Fur and Fang
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Fur_and_Fang_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Fur_and_Fang.webp)
+> [![[Fur_and_Fang_small.webp|cover hsmall]]](Fur_and_Fang.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

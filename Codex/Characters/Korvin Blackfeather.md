@@ -17,7 +17,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Korvin Blackfeather
-> [![[Public/Codex/Assets/Characters/Korvin_Blackfeather_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Korvin_Blackfeather.webp)
+> [![[Korvin_Blackfeather_small.webp|cover hsmall]]](Korvin_Blackfeather.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

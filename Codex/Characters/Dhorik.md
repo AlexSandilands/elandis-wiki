@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Dhorik
-> [![[Public/Codex/Assets/Characters/Dhorik_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Dhorik.webp)
+> [![[Dhorik_small.webp|cover hsmall]]](Dhorik.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -15,7 +15,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Everred Forest
-> [![[Public/Codex/Assets/Locations/Regions/Everred_Forest_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Everred_Forest.webp)
+> [![[Everred_Forest_small.webp|cover hsmall]]](Everred_Forest.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

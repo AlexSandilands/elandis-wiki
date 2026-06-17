@@ -14,7 +14,7 @@ aliases: [River Market]
 ---
 > [!infobox|wikipedia]
 > # Val Miriel River Market
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Val_Miriel_River_Market_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Val_Miriel_River_Market.webp)
+> [![[Val_Miriel_River_Market_small.webp|cover hsmall]]](Val_Miriel_River_Market.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Thaddeus Karr
-> [![[Public/Codex/Assets/Characters/Thaddeus_Karr_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Thaddeus_Karr.webp)
+> [![[Thaddeus_Karr_small.webp|cover hsmall]]](Thaddeus_Karr.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

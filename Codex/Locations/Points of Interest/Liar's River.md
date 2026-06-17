@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Liar's River
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Liars_River_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Liars_River.webp)
+> [![[Liars_River_small.webp|cover hsmall]]](Liars_River.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

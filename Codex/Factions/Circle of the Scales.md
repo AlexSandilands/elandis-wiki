@@ -15,7 +15,7 @@ aliases: [Scales, Circle of the Scales]
 ---
 > [!infobox|wikipedia]
 > # Circle of the Scales
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Scales_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Scales.webp)
+> [![[Circle_of_the_Scales_small.webp|cover hsmall]]](Circle_of_the_Scales.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

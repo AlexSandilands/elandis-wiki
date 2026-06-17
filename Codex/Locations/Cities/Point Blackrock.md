@@ -18,7 +18,7 @@ aliases: [Blackrock]
 
 > [!infobox|wikipedia]
 > # Point Blackrock
-> [![[Public/Codex/Assets/Locations/Cities/Point_Blackrock_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Point_Blackrock.webp)
+> [![[Point_Blackrock_small.webp|cover hsmall]]](Point_Blackrock.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

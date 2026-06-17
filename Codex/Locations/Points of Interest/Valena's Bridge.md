@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Valena's Bridge
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Valenas_Bridge_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Valenas_Bridge.webp)
+> [![[Valenas_Bridge_small.webp|cover hsmall]]](Valenas_Bridge.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

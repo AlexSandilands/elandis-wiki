@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Justiciar Naivara Siannodel
-> [![[Public/Codex/Assets/Characters/Justiciar_Naivara_Siannodel_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Justiciar_Naivara_Siannodel.webp)
+> [![[Justiciar_Naivara_Siannodel_small.webp|cover hsmall]]](Justiciar_Naivara_Siannodel.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -11,7 +11,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Elandis
-> [![[Public/Codex/Assets/Locations/Worlds/Elandis_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Worlds/Elandis.webp)
+> [![[Elandis_small.webp|cover hsmall]]](Elandis.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Skyguard
-> [![[Public/Codex/Assets/Factions/Skyguard_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Skyguard.webp)
+> [![[Skyguard_small.webp|cover hsmall]]](Skyguard.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

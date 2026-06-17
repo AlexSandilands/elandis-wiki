@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Teresa
-> [![[Public/Codex/Assets/Characters/Teresa_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Teresa.webp)
+> [![[Teresa_small.webp|cover hsmall]]](Teresa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

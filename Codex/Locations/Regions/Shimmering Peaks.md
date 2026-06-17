@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Shimmering Peaks
-> [![[Public/Codex/Assets/Locations/Regions/Shimmering_Peaks_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Shimmering_Peaks.webp)
+> [![[Shimmering_Peaks_small.webp|cover hsmall]]](Shimmering_Peaks.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

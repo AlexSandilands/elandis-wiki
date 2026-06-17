@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Prax Shea
-> [![[Public/Codex/Assets/Characters/Prax_Shea_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Prax_Shea.webp)
+> [![[Prax_Shea_small.webp|cover hsmall]]](Prax_Shea.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

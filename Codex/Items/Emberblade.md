@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Emberblade
-> [![[Public/Codex/Assets/Items/Emberblade_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Emberblade.webp)
+> [![[Emberblade_small.webp|cover hsmall]]](Emberblade.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

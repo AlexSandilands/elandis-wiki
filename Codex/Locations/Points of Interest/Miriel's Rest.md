@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Miriel's Rest
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Miriels_Rest_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Miriels_Rest.webp)
+> [![[Miriels_Rest_small.webp|cover hsmall]]](Miriels_Rest.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

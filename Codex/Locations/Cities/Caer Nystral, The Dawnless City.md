@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Caer Nystral
-> [![[Public/Codex/Assets/Locations/Cities/Caer_Nystral_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Caer_Nystral.webp)
+> [![[Caer_Nystral_small.webp|cover hsmall]]](Caer_Nystral.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -15,7 +15,7 @@ aliases: [The Order of Ravens, Ravens, Raven, OOR]
 ---
 > [!infobox|wikipedia]
 > # Order of Ravens
-> [![[Public/Codex/Assets/Factions/Order_of_Ravens_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Order_of_Ravens.webp)
+> [![[Order_of_Ravens_small.webp|cover hsmall]]](Order_of_Ravens.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

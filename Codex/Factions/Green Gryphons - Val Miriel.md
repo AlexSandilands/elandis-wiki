@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Green Gryphons — Val Miriel
-> [![[Public/Codex/Assets/Factions/Green_Gryphons_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Green_Gryphons.webp)
+> [![[Green_Gryphons_small.webp|cover hsmall]]](Green_Gryphons.webp)
 > ###### Chapter Information
 > Attribute |  Details |
 > ---|---|

@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Thane
-> [![[Public/Codex/Assets/Characters/Thane_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Thane.webp)
+> [![[Thane_small.webp|cover hsmall]]](Thane.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

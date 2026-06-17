@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Divine Way
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Divine_Way_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Divine_Way.webp)
+> [![[Divine_Way_small.webp|cover hsmall]]](Divine_Way.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

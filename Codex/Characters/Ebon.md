@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Ebon
-> [![[Public/Codex/Assets/Characters/Ebon_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ebon.webp)
+> [![[Ebon_small.webp|cover hsmall]]](Ebon.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Gaara
-> [![[Public/Codex/Assets/Characters/Gaara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Gaara.webp)
+> [![[Gaara_small.webp|cover hsmall]]](Gaara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

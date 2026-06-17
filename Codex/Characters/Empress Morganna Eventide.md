@@ -27,7 +27,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Empress Morganna Eventide
-> [![[Public/Codex/Assets/Characters/Empress_Morganna_Eventide_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Empress_Morganna_Eventide.webp)
+> [![[Empress_Morganna_Eventide_small.webp|cover hsmall]]](Empress_Morganna_Eventide.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

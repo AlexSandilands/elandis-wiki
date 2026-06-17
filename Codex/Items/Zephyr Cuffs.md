@@ -17,7 +17,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Zephyr Cuffs
-> [![[Public/Codex/Assets/Items/Zephyr_Cuffs_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Zephyr_Cuffs.webp)
+> [![[Zephyr_Cuffs_small.webp|cover hsmall]]](Zephyr_Cuffs.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

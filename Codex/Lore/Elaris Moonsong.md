@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Elaris Moonsong
-> [![[Public/Codex/Assets/Lore/Elaris_Moonsong_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Elaris_Moonsong.webp)
+> [![[Elaris_Moonsong_small.webp|cover hsmall]]](Elaris_Moonsong.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

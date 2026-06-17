@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Skyguard Caeryn
-> [![[Public/Codex/Assets/Characters/Skyguard_Caeryn_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Skyguard_Caeryn.webp)
+> [![[Skyguard_Caeryn_small.webp|cover hsmall]]](Skyguard_Caeryn.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

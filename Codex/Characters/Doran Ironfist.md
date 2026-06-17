@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Doran Ironfist
-> [![[Public/Codex/Assets/Characters/Doran_Ironfist_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Doran_Ironfist.webp)
+> [![[Doran_Ironfist_small.webp|cover hsmall]]](Doran_Ironfist.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

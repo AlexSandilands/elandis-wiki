@@ -18,7 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gale Winddancer
-> [![[Public/Codex/Assets/Lore/Gale_Winddancer_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Gale_Winddancer.webp)
+> [![[Gale_Winddancer_small.webp|cover hsmall]]](Gale_Winddancer.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

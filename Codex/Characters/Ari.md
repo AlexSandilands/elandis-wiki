@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Ari
-> [![[Public/Codex/Assets/Characters/Ari_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ari.webp)
+> [![[Ari_small.webp|cover hsmall]]](Ari.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

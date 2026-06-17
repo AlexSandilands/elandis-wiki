@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Bioluminescent Forest
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Bioluminescent_Forest_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Bioluminescent_Forest.webp)
+> [![[Bioluminescent_Forest_small.webp|cover hsmall]]](Bioluminescent_Forest.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

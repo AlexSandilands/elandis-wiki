@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Silver Mountains
-> [![[Public/Codex/Assets/Locations/Regions/Silver_Mountains_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Silver_Mountains.webp)
+> [![[Silver_Mountains_small.webp|cover hsmall]]](Silver_Mountains.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

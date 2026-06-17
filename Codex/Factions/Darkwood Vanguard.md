@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Darkwood Vanguard
-> [![[Public/Codex/Assets/Factions/Darkwood_Vanguard_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Darkwood_Vanguard.webp)
+> [![[Darkwood_Vanguard_small.webp|cover hsmall]]](Darkwood_Vanguard.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

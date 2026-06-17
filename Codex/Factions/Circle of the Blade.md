@@ -15,7 +15,7 @@ aliases: [Circle of Blades, The Blades]
 ---
 > [!infobox|wikipedia]
 > # Circle of the Blade
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Blade_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Blade.webp)
+> [![[Circle_of_the_Blade_small.webp|cover hsmall]]](Circle_of_the_Blade.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

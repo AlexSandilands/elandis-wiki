@@ -22,7 +22,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Praetor'Varanous
-> [![[Public/Codex/Assets/Characters/Praetor_Varanous_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Praetor_Varanous.webp)
+> [![[Praetor_Varanous_small.webp|cover hsmall]]](Praetor_Varanous.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Elara
-> [![[Public/Codex/Assets/Characters/Elara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Elara.webp)
+> [![[Elara_small.webp|cover hsmall]]](Elara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|12th Water, 3rd - 2507]]<br>to<br>[[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|13th Water, 3rd - 2507]] |
+> Date | [[03 - Water, 3rd.webp\|12th Water, 3rd - 2507]]<br>to<br>[[03 - Water, 3rd.webp\|13th Water, 3rd - 2507]] |
 > Location | [[Sumara, The Shining City\|Sumara]]
 > Characters | [[Ayana Syndrosa]]<br>[[Skyguard Caeryn]]<br>[[Elder Pip Glimmermoss]] |
 

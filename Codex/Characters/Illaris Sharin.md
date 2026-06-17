@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Illaris Sharin
-> [![[Public/Codex/Assets/Characters/Illaris_Sharin_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Illaris_Sharin.webp)
+> [![[Illaris_Sharin_small.webp|cover hsmall]]](Illaris_Sharin.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

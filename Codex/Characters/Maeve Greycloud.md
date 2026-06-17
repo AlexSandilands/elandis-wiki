@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Maeve Greycloud
-> [![[Public/Codex/Assets/Characters/Maeve_Greycloud_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Maeve_Greycloud.webp)
+> [![[Maeve_Greycloud_small.webp|cover hsmall]]](Maeve_Greycloud.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

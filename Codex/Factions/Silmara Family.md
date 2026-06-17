@@ -16,7 +16,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Silmara Family
-> ![[Public/Codex/Assets/Factions/Silmara_Family_small.webp|cover hsmall]]
+> ![[Silmara_Family_small.webp|cover hsmall]]
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

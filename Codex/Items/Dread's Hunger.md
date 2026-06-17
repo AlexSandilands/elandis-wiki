@@ -18,7 +18,7 @@ aliases: [Dread Sword]
 
 > [!infobox|wikipedia]
 > # Dread's Hunger
-> [![[Public/Codex/Assets/Items/Dreads_Hunger_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Dreads_Hunger.webp)
+> [![[Dreads_Hunger_small.webp|cover hsmall]]](Dreads_Hunger.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

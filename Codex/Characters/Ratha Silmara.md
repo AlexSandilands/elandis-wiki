@@ -21,7 +21,7 @@ aliases: [Ratha]
 ---
 > [!infobox|wikipedia]
 > # Ratha Silmara
-> [![[Public/Codex/Assets/Characters/Ratha_Silmara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ratha_Silmara.webp)
+> [![[Ratha_Silmara_small.webp|cover hsmall]]](Ratha_Silmara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

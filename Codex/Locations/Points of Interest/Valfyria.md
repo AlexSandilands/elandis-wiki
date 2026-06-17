@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Valfyria
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Valfyria_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Valfyria.webp)
+> [![[Valfyria_small.webp|cover hsmall]]](Valfyria.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

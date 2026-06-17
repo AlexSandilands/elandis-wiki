@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Military Way
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Military_Way_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Military_Way.webp)
+> [![[Military_Way_small.webp|cover hsmall]]](Military_Way.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

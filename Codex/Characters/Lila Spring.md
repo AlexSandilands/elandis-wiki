@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Lila Spring
-> [![[Public/Codex/Assets/Characters/Lila_Spring_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lila_Spring.webp)
+> [![[Lila_Spring_small.webp|cover hsmall]]](Lila_Spring.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

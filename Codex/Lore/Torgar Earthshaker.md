@@ -19,7 +19,7 @@ Related:
 ---
 > [!infobox|wikipedia]
 > # Torgar Earthshaker
-> [![[Public/Codex/Assets/Lore/Torgar_Earthshaker_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Torgar_Earthshaker.webp)
+> [![[Torgar_Earthshaker_small.webp|cover hsmall]]](Torgar_Earthshaker.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

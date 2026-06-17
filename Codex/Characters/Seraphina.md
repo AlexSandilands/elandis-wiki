@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Seraphina
-> [![[Public/Codex/Assets/Characters/Seraphina_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Seraphina.webp)
+> [![[Seraphina_small.webp|cover hsmall]]](Seraphina.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

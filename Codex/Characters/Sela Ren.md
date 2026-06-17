@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Sela Ren
-> [![[Public/Codex/Assets/Characters/Sela_Ren_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Sela_Ren.webp)
+> [![[Sela_Ren_small.webp|cover hsmall]]](Sela_Ren.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

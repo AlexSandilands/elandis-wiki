@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Reveller's Glade
-> [![[Public/Codex/Assets/Locations/Regions/Revellers_Glade_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Revellers_Glade.webp)
+> [![[Revellers_Glade_small.webp|cover hsmall]]](Revellers_Glade.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

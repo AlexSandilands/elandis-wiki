@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Lion
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/The_Lion_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/The_Lion.webp)
+> [![[The_Lion_small.webp|cover hsmall]]](The_Lion.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # The Chaos Wars
-> [![[Public/Codex/Assets/Lore/Chaos_Wars_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Chaos_Wars.webp)
+> [![[Chaos_Wars_small.webp|cover hsmall]]](Chaos_Wars.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

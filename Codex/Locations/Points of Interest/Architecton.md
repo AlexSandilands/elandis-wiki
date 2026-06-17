@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Architecton
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Architecton_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Architecton.webp)
+> [![[Architecton_small.webp|cover hsmall]]](Architecton.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

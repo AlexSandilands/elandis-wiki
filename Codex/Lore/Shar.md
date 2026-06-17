@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Shar
-> [![[Public/Codex/Assets/Lore/Shar_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Shar.webp)
+> [![[Shar_small.webp|cover hsmall]]](Shar.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Royal Way
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Royal_Way_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Royal_Way.webp)
+> [![[Royal_Way_small.webp|cover hsmall]]](Royal_Way.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

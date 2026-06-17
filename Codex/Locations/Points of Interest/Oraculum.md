@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Oraculum
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Oraculum_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Oraculum.webp)
+> [![[Oraculum_small.webp|cover hsmall]]](Oraculum.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

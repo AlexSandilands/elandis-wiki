@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Briarshade
-> [![[Public/Codex/Assets/Locations/Regions/Briarshade_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Briarshade.webp)
+> [![[Briarshade_small.webp|cover hsmall]]](Briarshade.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

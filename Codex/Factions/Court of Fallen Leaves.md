@@ -15,7 +15,7 @@ aliases: [Court of the Fallen Leaves]
 
 > [!infobox|wikipedia]
 > # Court of Fallen Leaves
-> [![[Public/Codex/Assets/Factions/Court_of_Fallen_Leaves_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_Fallen_Leaves.webp)
+> [![[Court_of_Fallen_Leaves_small.webp|cover hsmall]]](Court_of_Fallen_Leaves.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

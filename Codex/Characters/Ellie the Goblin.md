@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Ellie the Goblin
-> [![[Public/Codex/Assets/Characters/Ellie_the_Goblin_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ellie_the_Goblin.webp)
+> [![[Ellie_the_Goblin_small.webp|cover hsmall]]](Ellie_the_Goblin.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

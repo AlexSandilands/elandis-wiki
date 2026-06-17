@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Camaar
-> [![[Public/Codex/Assets/Locations/Cities/Camaar_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Camaar.webp)
+> [![[Camaar_small.webp|cover hsmall]]](Camaar.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

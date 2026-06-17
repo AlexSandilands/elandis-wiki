@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Freya Ironsong
-> [![[Public/Codex/Assets/Characters/Freya_Ironsong_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Freya_Ironsong.webp)
+> [![[Freya_Ironsong_small.webp|cover hsmall]]](Freya_Ironsong.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

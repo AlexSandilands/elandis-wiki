@@ -14,7 +14,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ithilmara
-> [![[Public/Codex/Assets/Locations/Cities/Ithilmara_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Ithilmara.webp)
+> [![[Ithilmara_small.webp|cover hsmall]]](Ithilmara.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

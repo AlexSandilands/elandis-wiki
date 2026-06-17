@@ -18,7 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Arcanist Levvel
-> [![[Public/Codex/Assets/Characters/Arcanist_Levvel_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Arcanist_Levvel.webp)
+> [![[Arcanist_Levvel_small.webp|cover hsmall]]](Arcanist_Levvel.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

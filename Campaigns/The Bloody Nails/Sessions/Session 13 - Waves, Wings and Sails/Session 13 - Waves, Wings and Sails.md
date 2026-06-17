@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|11th Water, 1st - 2507]]<br>to<br>[[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|17th Water, 1st - 2507]] |
+> Date | [[01 - Water, 1st.webp\|11th Water, 1st - 2507]]<br>to<br>[[01 - Water, 1st.webp\|17th Water, 1st - 2507]] |
 > Location | [[Val Noren]]
 > Characters | [[King Marius Noren]]<br>[[Ayana Syndrosa]] |
 

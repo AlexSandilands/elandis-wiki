@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/03 - Water, 3rd.webp\|7th Water, 3rd - 2507]] |
+> Date | [[03 - Water, 3rd.webp\|7th Water, 3rd - 2507]] |
 > Location | [[Camaar]]
 > Characters | [[Ellesar]]<br>[[Lia]]<br>[[Veiled Cubs]] |
 

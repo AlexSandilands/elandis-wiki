@@ -15,7 +15,7 @@ aliases: [The Shelters]
 
 > [!infobox|wikipedia]
 > # Blackrock Shelters
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Blackrock_Shelters_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Blackrock_Shelters.webp)
+> [![[Blackrock_Shelters_small.webp|cover hsmall]]](Blackrock_Shelters.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

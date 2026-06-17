@@ -14,7 +14,7 @@ aliases: [The Court of the High Sun]
 ---
 > [!infobox|wikipedia]
 > # Court of the High Sun
-> [![[Public/Codex/Assets/Factions/Court_of_High_Sun_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_High_Sun.webp)
+> [![[Court_of_High_Sun_small.webp|cover hsmall]]](Court_of_High_Sun.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

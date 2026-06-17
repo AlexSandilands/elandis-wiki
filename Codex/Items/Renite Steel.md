@@ -16,7 +16,7 @@ aliases: [Renite Steel]
 ---
 > [!infobox|wikipedia]
 > # Renite Steel
-> [![[Public/Codex/Assets/Items/Renite_Steel_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Renite_Steel.webp)
+> [![[Renite_Steel_small.webp|cover hsmall]]](Renite_Steel.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

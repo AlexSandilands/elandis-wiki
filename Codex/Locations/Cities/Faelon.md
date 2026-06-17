@@ -15,7 +15,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Faelon
-> [![[Public/Codex/Assets/Locations/Cities/Faelon_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Faelon.webp)
+> [![[Faelon_small.webp|cover hsmall]]](Faelon.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

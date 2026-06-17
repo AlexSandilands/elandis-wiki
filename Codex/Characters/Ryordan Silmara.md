@@ -22,7 +22,7 @@ aliases: [Ryordan the First, First of His Name]
 ---
 > [!infobox|wikipedia]
 > # Ryordan Silmara
-> [![[Public/Codex/Assets/Characters/Ryordan_Silmara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ryordan_Silmara.webp)
+> [![[Ryordan_Silmara_small.webp|cover hsmall]]](Ryordan_Silmara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

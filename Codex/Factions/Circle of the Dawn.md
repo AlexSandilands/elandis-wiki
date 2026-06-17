@@ -18,7 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Circle of the Dawn
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Dawn_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Dawn.webp)
+> [![[Circle_of_the_Dawn_small.webp|cover hsmall]]](Circle_of_the_Dawn.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

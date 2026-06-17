@@ -21,7 +21,7 @@ aliases: [Tarlis, Governor Tarlis]
 
 > [!infobox|wikipedia]
 > # Governor Tarlis Evandron
-> [![[Public/Codex/Assets/Characters/Governor_Tarlis_Evandron_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Governor_Tarlis_Evandron.webp)
+> [![[Governor_Tarlis_Evandron_small.webp|cover hsmall]]](Governor_Tarlis_Evandron.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

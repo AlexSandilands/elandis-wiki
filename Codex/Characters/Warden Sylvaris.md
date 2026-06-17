@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Warden Sylvaris
-> [![[Public/Codex/Assets/Characters/Warden_Sylvaris_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Warden_Sylvaris.webp)
+> [![[Warden_Sylvaris_small.webp|cover hsmall]]](Warden_Sylvaris.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

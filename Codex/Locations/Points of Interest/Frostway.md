@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Frostway
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Frostway_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Frostway.webp)
+> [![[Frostway_small.webp|cover hsmall]]](Frostway.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

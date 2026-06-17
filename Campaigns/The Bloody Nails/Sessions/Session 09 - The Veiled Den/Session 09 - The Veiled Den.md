@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|7th Water, 1st - 2507]]<br>to<br>[[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|8th Water, 1st - 2507]] |
+> Date | [[01 - Water, 1st.webp\|7th Water, 1st - 2507]]<br>to<br>[[01 - Water, 1st.webp\|8th Water, 1st - 2507]] |
 > Location | [[Camaar]]
 > Characters | [[Gemma Finegold]]<br>[[Ellesar]] |
 

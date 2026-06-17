@@ -18,7 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Circle of the Weave
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Weave_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Weave.webp)
+> [![[Circle_of_the_Weave_small.webp|cover hsmall]]](Circle_of_the_Weave.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

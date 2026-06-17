@@ -21,7 +21,7 @@ aliases: [Uric]
 ---
 > [!infobox|wikipedia]
 > # Uric Graad
-> [![[Public/Codex/Assets/Characters/Uric_Graad_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Uric_Graad.webp)
+> [![[Uric_Graad_small.webp|cover hsmall]]](Uric_Graad.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

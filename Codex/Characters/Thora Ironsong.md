@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Thora Ironsong
-> [![[Public/Codex/Assets/Characters/Thora_Ironsong_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Thora_Ironsong.webp)
+> [![[Thora_Ironsong_small.webp|cover hsmall]]](Thora_Ironsong.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

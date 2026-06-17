@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Hugor
-> [![[Public/Codex/Assets/Characters/Hugor_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Hugor.webp)
+> [![[Hugor_small.webp|cover hsmall]]](Hugor.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -17,7 +17,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Moonlit Aegis
-> [![[Public/Codex/Assets/Items/Moonlit_Aegis_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Moonlit_Aegis.webp)
+> [![[Moonlit_Aegis_small.webp|cover hsmall]]](Moonlit_Aegis.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

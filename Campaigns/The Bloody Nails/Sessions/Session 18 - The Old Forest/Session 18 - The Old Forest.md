@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|28th Water, 1st - 2507]] |
+> Date | [[01 - Water, 1st.webp\|28th Water, 1st - 2507]] |
 > Location | [[Farhaven]]<br>[[Ancient Woods]]
 > Characters | -- |
 

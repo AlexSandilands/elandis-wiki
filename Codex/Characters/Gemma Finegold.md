@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gemma Finegold
-> [![[Public/Codex/Assets/Characters/Gemma_Finegold_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Gemma_Finegold.webp)
+> [![[Gemma_Finegold_small.webp|cover hsmall]]](Gemma_Finegold.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -16,7 +16,7 @@ aliases: [Frostwarden, Frostwardens, Frostwarden Crews, Frostwarden Crew, Crews]
 
 > [!infobox|wikipedia]
 > # Frostwardens
-> [![[Public/Codex/Assets/Factions/Frostwardens_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Frostwardens.webp)
+> [![[Frostwardens_small.webp|cover hsmall]]](Frostwardens.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

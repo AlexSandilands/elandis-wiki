@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Riftshard
-> [![[Public/Codex/Assets/Lore/Riftshard_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Riftshard.webp)
+> [![[Riftshard_small.webp|cover hsmall]]](Riftshard.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

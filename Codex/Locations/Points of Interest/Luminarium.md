@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Luminarium
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Luminarium_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Luminarium.webp)
+> [![[Luminarium_small.webp|cover hsmall]]](Luminarium.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

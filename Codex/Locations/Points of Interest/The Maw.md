@@ -14,7 +14,7 @@ aliases: [Maw]
 ---
 > [!infobox|wikipedia]
 > # The Maw
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/The_Maw_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/The_Maw.webp)
+> [![[The_Maw_small.webp|cover hsmall]]](The_Maw.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

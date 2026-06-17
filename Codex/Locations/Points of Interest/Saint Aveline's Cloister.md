@@ -14,7 +14,7 @@ aliases: [St. Avelines, Cathedral of Saint Aveline, Saint Avelines]
 ---
 > [!infobox|wikipedia]
 > # Saint Aveline's Cloister
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Saint_Avelines_Cloister_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Saint_Avelines_Cloister.webp)
+> [![[Saint_Avelines_Cloister_small.webp|cover hsmall]]](Saint_Avelines_Cloister.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

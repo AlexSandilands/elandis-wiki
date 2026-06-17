@@ -19,7 +19,7 @@ aliases: [The Emerald Ceremony]
 
 > [!infobox|wikipedia]
 > # Emerald Ceremony
-> [![[Public/Codex/Assets/Lore/Emerald_Ceremony_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Emerald_Ceremony.webp)
+> [![[Emerald_Ceremony_small.webp|cover hsmall]]](Emerald_Ceremony.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

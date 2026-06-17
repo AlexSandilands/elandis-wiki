@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Lysa
-> [![[Public/Codex/Assets/Characters/Lysa_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lysa.webp)
+> [![[Lysa_small.webp|cover hsmall]]](Lysa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

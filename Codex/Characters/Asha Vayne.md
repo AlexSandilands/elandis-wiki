@@ -18,7 +18,7 @@ aliases: [Asha]
 ---
 > [!infobox|wikipedia]
 > # Asha Vayne
-> [![[Public/Codex/Assets/Characters/Asha_Vayne_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Asha_Vayne.webp)
+> [![[Asha_Vayne_small.webp|cover hsmall]]](Asha_Vayne.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

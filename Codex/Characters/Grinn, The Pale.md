@@ -18,7 +18,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Grinn, The Pale
-> [![[Public/Codex/Assets/Characters/Grinn_The_Pale_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Grinn_The_Pale.webp)
+> [![[Grinn_The_Pale_small.webp|cover hsmall]]](Grinn_The_Pale.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

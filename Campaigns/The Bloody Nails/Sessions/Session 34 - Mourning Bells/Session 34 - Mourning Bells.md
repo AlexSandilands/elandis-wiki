@@ -19,7 +19,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|25th Water, 2nd - 2507]]<br>to<br>[[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/02 - Water, 2nd.webp\|28th Water, 2nd - 2507]] |
+> Date | [[02 - Water, 2nd.webp\|25th Water, 2nd - 2507]]<br>to<br>[[02 - Water, 2nd.webp\|28th Water, 2nd - 2507]] |
 > Location | [[Frostway]]
 > Characters | [[Lysa]]<br>[[Sela Ren\|Sela]]<br>[[Dane Verric]] |
 

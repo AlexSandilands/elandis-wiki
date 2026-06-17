@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Justicium
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Justicium_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Justicium.webp)
+> [![[Justicium_small.webp|cover hsmall]]](Justicium.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # High Sept
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/High_Sept_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/High_Sept.webp)
+> [![[High_Sept_small.webp|cover hsmall]]](High_Sept.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

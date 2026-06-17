@@ -21,7 +21,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Lirien
-> [![[Public/Codex/Assets/Characters/Lirien_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lirien.webp)
+> [![[Lirien_small.webp|cover hsmall]]](Lirien.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

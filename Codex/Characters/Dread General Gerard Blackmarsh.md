@@ -25,7 +25,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Dread General Gerard Blackmarsh
-> [![[Public/Codex/Assets/Characters/Dread_General_Gerard_Blackmarsh_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Dread_General_Gerard_Blackmarsh.webp)
+> [![[Dread_General_Gerard_Blackmarsh_small.webp|cover hsmall]]](Dread_General_Gerard_Blackmarsh.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

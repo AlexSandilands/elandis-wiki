@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Bridge of Stars
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Bridge_of_Stars_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Bridge_of_Stars.webp)
+> [![[Bridge_of_Stars_small.webp|cover hsmall]]](Bridge_of_Stars.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

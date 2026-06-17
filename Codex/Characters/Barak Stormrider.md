@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Barak Stormrider
-> [![[Public/Codex/Assets/Characters/Barak_Stormrider_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Barak_Stormrider.webp)
+> [![[Barak_Stormrider_small.webp|cover hsmall]]](Barak_Stormrider.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

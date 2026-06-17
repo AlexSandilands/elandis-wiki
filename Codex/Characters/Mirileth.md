@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Mirileth
-> [![[Public/Codex/Assets/Characters/Mirileth_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Mirileth.webp)
+> [![[Mirileth_small.webp|cover hsmall]]](Mirileth.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

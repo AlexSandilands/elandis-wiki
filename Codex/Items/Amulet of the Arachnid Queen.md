@@ -15,7 +15,7 @@ aliases: [Arachnid Queen's Amulet, Spider Amulet]
 ---
 > [!infobox|wikipedia]
 > # Amulet of the Arachnid Queen
-> [![[Public/Codex/Assets/Items/Amulet_of_the_Arachnid_Queen_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Amulet_of_the_Arachnid_Queen.webp)
+> [![[Amulet_of_the_Arachnid_Queen_small.webp|cover hsmall]]](Amulet_of_the_Arachnid_Queen.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

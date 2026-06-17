@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Coal
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/The_Coal_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/The_Coal.webp)
+> [![[The_Coal_small.webp|cover hsmall]]](The_Coal.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

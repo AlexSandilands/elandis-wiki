@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Vallania Miriel
-> [![[Public/Codex/Assets/Characters/Vallania_Miriel_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Vallania_Miriel.webp)
+> [![[Vallania_Miriel_small.webp|cover hsmall]]](Vallania_Miriel.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

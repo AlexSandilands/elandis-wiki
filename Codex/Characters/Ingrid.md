@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ingrid
-> [![[Public/Codex/Assets/Characters/Ingrid_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ingrid.webp)
+> [![[Ingrid_small.webp|cover hsmall]]](Ingrid.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

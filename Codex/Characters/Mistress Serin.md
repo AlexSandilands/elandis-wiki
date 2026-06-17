@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Mistress Serin
-> [![[Public/Codex/Assets/Characters/Mistress_Serin_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Mistress_Serin.webp)
+> [![[Mistress_Serin_small.webp|cover hsmall]]](Mistress_Serin.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

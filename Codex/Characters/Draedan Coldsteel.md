@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Draedan Coldsteel
-> [![[Public/Codex/Assets/Characters/Draedan_Coldsteel_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Draedan_Coldsteel.webp)
+> [![[Draedan_Coldsteel_small.webp|cover hsmall]]](Draedan_Coldsteel.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

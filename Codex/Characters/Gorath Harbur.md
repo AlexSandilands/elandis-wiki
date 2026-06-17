@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gorath Harbur
-> [![[Public/Codex/Assets/Characters/Gorath_Harbur_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Gorath_Harbur.webp)
+> [![[Gorath_Harbur_small.webp|cover hsmall]]](Gorath_Harbur.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

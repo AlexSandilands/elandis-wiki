@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Gulf of Miriel
-> [![[Public/Codex/Assets/Locations/Regions/Gulf_of_Miriel_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Gulf_of_Miriel.webp)
+> [![[Gulf_of_Miriel_small.webp|cover hsmall]]](Gulf_of_Miriel.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

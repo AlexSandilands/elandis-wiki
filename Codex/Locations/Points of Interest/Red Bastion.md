@@ -15,7 +15,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Red Bastion
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Red_Bastion_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Red_Bastion.webp)
+> [![[Red_Bastion_small.webp|cover hsmall]]](Red_Bastion.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

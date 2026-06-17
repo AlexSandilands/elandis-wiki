@@ -14,7 +14,7 @@ aliases: [The Court of Morning Dew]
 ---
 > [!infobox|wikipedia]
 > # Court of Morning Dew
-> [![[Public/Codex/Assets/Factions/Court_of_Morning_Dew_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Court_of_Morning_Dew.webp)
+> [![[Court_of_Morning_Dew_small.webp|cover hsmall]]](Court_of_Morning_Dew.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

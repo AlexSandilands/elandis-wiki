@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Stonesworn
-> [![[Public/Codex/Assets/Factions/Stonesworn_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Stonesworn.webp)
+> [![[Stonesworn_small.webp|cover hsmall]]](Stonesworn.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Eldara
-> [![[Public/Codex/Assets/Locations/Continents/Eldara_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Continents/Eldara.webp)
+> [![[Eldara_small.webp|cover hsmall]]](Eldara.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

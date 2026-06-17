@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Silverforge
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Silverforge_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Silverforge.webp)
+> [![[Silverforge_small.webp|cover hsmall]]](Silverforge.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

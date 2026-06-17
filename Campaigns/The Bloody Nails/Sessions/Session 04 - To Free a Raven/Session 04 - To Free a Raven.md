@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|2nd Water, 1st - 2507]] |
+> Date | [[01 - Water, 1st.webp\|2nd Water, 1st - 2507]] |
 > Location | [[Darmouth]]
 > Characters | [[Gemma Finegold]]<br>[[Finegolds]]<br>[[Uric Graad]]<br>[[Ella Sable]] |
 

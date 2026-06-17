@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Harland Finegold
-> [![[Public/Codex/Assets/Characters/Harland_Finegold_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Harland_Finegold.webp)
+> [![[Harland_Finegold_small.webp|cover hsmall]]](Harland_Finegold.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

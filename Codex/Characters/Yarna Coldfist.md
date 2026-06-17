@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Yarna Coldfist
-> [![[Public/Codex/Assets/Characters/Yarna_Coldfist_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Yarna_Coldfist.webp)
+> [![[Yarna_Coldfist_small.webp|cover hsmall]]](Yarna_Coldfist.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

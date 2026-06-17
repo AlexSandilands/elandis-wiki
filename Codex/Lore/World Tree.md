@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # World Tree
-> [![[Public/Codex/Assets/Lore/World_Tree_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/World_Tree.webp)
+> [![[World_Tree_small.webp|cover hsmall]]](World_Tree.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

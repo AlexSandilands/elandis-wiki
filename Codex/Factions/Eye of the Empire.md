@@ -16,7 +16,7 @@ aliases: [Eyes of the Empire, Eye, Eyes]
 
 > [!infobox|wikipedia]
 > # Eye of the Empire
-> [![[Public/Codex/Assets/Factions/Eye_of_the_Empire_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Eye_of_the_Empire.webp)
+> [![[Eye_of_the_Empire_small.webp|cover hsmall]]](Eye_of_the_Empire.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

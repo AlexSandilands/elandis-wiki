@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Porta Hale
-> [![[Public/Codex/Assets/Characters/Porta_Hale_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Porta_Hale.webp)
+> [![[Porta_Hale_small.webp|cover hsmall]]](Porta_Hale.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

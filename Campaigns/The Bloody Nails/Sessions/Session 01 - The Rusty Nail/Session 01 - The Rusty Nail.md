@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|23rd Earth, 3rd - 2506]]<br>to<br>[[Public/Campaigns/The Bloody Nails/Calendar/Year - 2506/12 - Earth, 3rd.webp\|24rd Earth, 3rd - 2506]] |
+> Date | [[12 - Earth, 3rd.webp\|23rd Earth, 3rd - 2506]]<br>to<br>[[12 - Earth, 3rd.webp\|24rd Earth, 3rd - 2506]] |
 > Location | Travelling to [[Darmouth]]
 > Characters | [[Draedan Coldsteel]]<br>[[Seraphina]]<br>[[Gemma Finegold]]<br>[[Finegolds]] |
 

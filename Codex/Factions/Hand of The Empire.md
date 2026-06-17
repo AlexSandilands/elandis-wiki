@@ -14,7 +14,7 @@ aliases: [Hands of the Empire, Red Cloaks]
 ---
 > [!infobox|wikipedia]
 > # Hand of the Empire
-> [![[Public/Codex/Assets/Factions/Hand_of_the_Empire_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Hand_of_the_Empire.webp)
+> [![[Hand_of_the_Empire_small.webp|cover hsmall]]](Hand_of_the_Empire.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

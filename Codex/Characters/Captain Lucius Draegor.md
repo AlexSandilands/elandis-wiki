@@ -21,7 +21,7 @@ aliases: [Lucius Draegor, Captain Draegor]
 ---
 > [!infobox|wikipedia]
 > # Captain Lucius Draegor
-> [![[Public/Codex/Assets/Characters/Captain_Lucius_Draegor_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Captain_Lucius_Draegor.webp)
+> [![[Captain_Lucius_Draegor_small.webp|cover hsmall]]](Captain_Lucius_Draegor.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

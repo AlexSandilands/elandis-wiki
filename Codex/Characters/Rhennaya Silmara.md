@@ -27,7 +27,7 @@ aliases: [Rhennaya]
 ---
 > [!infobox|wikipedia]
 > # Rhennaya Silmara
-> [![[Public/Codex/Assets/Characters/Rhennaya_Silmara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Rhennaya_Silmara.webp)
+> [![[Rhennaya_Silmara_small.webp|cover hsmall]]](Rhennaya_Silmara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

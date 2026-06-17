@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Borealia Range
-> [![[Public/Codex/Assets/Locations/Regions/Borealia_Range_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Borealia_Range.webp)
+> [![[Borealia_Range_small.webp|cover hsmall]]](Borealia_Range.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

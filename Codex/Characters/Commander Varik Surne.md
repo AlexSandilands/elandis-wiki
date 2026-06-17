@@ -20,7 +20,7 @@ aliases: [Varik Surne]
 ---
 > [!infobox|wikipedia]
 > # Commander Varik Surne
-> [![[Public/Codex/Assets/Characters/Commander_Varik_Surne_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Commander_Varik_Surne.webp)
+> [![[Commander_Varik_Surne_small.webp|cover hsmall]]](Commander_Varik_Surne.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

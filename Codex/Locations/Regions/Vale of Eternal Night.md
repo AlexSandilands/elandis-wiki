@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Vale of Eternal Night
-> [![[Public/Codex/Assets/Locations/Regions/Vale_of_Eternal_Night_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Vale_of_Eternal_Night.webp)
+> [![[Vale_of_Eternal_Night_small.webp|cover hsmall]]](Vale_of_Eternal_Night.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

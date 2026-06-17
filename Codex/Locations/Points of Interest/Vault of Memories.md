@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Vault of Memories
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Vault_of_Memories_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Vault_of_Memories.webp)
+> [![[Vault_of_Memories_small.webp|cover hsmall]]](Vault_of_Memories.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

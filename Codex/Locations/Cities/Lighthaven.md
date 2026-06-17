@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Lighthaven
-> [![[Public/Codex/Assets/Locations/Cities/Lighthaven_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Lighthaven.webp)
+> [![[Lighthaven_small.webp|cover hsmall]]](Lighthaven.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -14,7 +14,7 @@ aliases: [The Emberspire]
 ---
 > [!infobox|wikipedia]
 > # Emberspire
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/The_Emberspire_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/The_Emberspire.webp)
+> [![[Emberspire_small.webp|cover hsmall]]](Emberspire.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

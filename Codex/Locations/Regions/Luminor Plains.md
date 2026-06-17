@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Luminor Plains
-> [![[Public/Codex/Assets/Locations/Regions/Luminor_Plains_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Luminor_Plains.webp)
+> [![[Luminor_Plains_small.webp|cover hsmall]]](Luminor_Plains.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

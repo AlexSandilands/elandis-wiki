@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Seraphon
-> [![[Public/Codex/Assets/Locations/Continents/Seraphon_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Continents/Seraphon.webp)
+> [![[Seraphon_small.webp|cover hsmall]]](Seraphon.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

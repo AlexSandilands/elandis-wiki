@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Northern Reaches
-> [![[Public/Codex/Assets/Locations/Regions/Northern_Reaches_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Northern_Reaches.webp)
+> [![[Northern_Reaches_small.webp|cover hsmall]]](Northern_Reaches.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

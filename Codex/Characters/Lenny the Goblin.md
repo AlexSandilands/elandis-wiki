@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Lenny the Goblin
-> [![[Public/Codex/Assets/Characters/Lenny_the_Goblin_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lenny_the_Goblin.webp)
+> [![[Lenny_the_Goblin_small.webp|cover hsmall]]](Lenny_the_Goblin.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Erivan Island
-> [![[Public/Codex/Assets/Locations/Regions/Erivan_Island_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Erivan_Island.webp)
+> [![[Erivan_Island_small.webp|cover hsmall]]](Erivan_Island.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

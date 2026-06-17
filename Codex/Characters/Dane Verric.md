@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Dane Verric
-> [![[Public/Codex/Assets/Characters/Dane_Verric_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Dane_Verric.webp)
+> [![[Dane_Verric_small.webp|cover hsmall]]](Dane_Verric.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

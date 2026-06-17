@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[Public/Campaigns/The Bloody Nails/Calendar/Year - 2507/01 - Water, 1st.webp\|4th Water, 1st - 2507]] |
+> Date | [[01 - Water, 1st.webp\|4th Water, 1st - 2507]] |
 > Location | [[Goblin Lair]]
 > Characters | [[Grakthor]]<br>[[Lenny the Goblin]]<br>[[Ellie the Goblin]]<br>[[Vallania Miriel\|Nia]] |
 

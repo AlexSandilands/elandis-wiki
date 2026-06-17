@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Serenity Plaza
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Serenity_Plaza_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Serenity_Plaza.webp)
+> [![[Serenity_Plaza_small.webp|cover hsmall]]](Serenity_Plaza.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

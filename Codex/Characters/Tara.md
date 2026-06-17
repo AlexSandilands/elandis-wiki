@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Tara
-> [![[Public/Codex/Assets/Characters/Tara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Tara.webp)
+> [![[Tara_small.webp|cover hsmall]]](Tara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

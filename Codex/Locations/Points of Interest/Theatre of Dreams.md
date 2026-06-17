@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Theatre of Dreams
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Theatre_of_Dreams_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Theatre_of_Dreams.webp)
+> [![[Theatre_of_Dreams_small.webp|cover hsmall]]](Theatre_of_Dreams.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

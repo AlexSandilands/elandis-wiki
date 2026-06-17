@@ -15,7 +15,7 @@ aliases: [Root, Circle of the Root]
 ---
 > [!infobox|wikipedia]
 > # Circle of the Root
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Root_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Root.webp)
+> [![[Circle_of_the_Root_small.webp|cover hsmall]]](Circle_of_the_Root.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

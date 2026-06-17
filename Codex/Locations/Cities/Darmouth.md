@@ -17,7 +17,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # Darmouth
-> [![[Public/Codex/Assets/Locations/Cities/Darmouth_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Darmouth.webp)
+> [![[Darmouth_small.webp|cover hsmall]]](Darmouth.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

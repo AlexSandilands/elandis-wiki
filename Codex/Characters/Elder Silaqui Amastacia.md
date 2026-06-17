@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Elder Silaqui Amastacia
-> [![[Public/Codex/Assets/Characters/Elder_Silaqui_Amastacia_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Elder_Silaqui_Amastacia.webp)
+> [![[Elder_Silaqui_Amastacia_small.webp|cover hsmall]]](Elder_Silaqui_Amastacia.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

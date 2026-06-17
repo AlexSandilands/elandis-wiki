@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Archivist Elrohir Gemflower
-> [![[Public/Codex/Assets/Characters/Elrohir_Gemflower_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Elrohir_Gemflower.webp)
+> [![[Elrohir_Gemflower_small.webp|cover hsmall]]](Elrohir_Gemflower.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -15,7 +15,7 @@ aliases: [Finegold Caravan]
 ---
 > [!infobox|wikipedia]
 > # Finegolds
-> [![[Public/Codex/Assets/Factions/Finegolds_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Finegolds.webp)
+> [![[Finegolds_small.webp|cover hsmall]]](Finegolds.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

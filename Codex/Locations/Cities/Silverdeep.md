@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Silverdeep
-> [![[Public/Codex/Assets/Locations/Cities/Silverdeep_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Silverdeep.webp)
+> [![[Silverdeep_small.webp|cover hsmall]]](Silverdeep.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

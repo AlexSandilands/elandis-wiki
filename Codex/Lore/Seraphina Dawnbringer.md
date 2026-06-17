@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Seraphina Dawnbringer
-> [![[Public/Codex/Assets/Lore/Seraphina_Dawnbringer_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Seraphina_Dawnbringer.webp)
+> [![[Seraphina_Dawnbringer_small.webp|cover hsmall]]](Seraphina_Dawnbringer.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

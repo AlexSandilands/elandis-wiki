@@ -14,7 +14,7 @@ aliases: [The Stoneheart]
 ---
 > [!infobox|wikipedia]
 > # Stoneheart
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Stoneheart_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Stoneheart.webp)
+> [![[Stoneheart_small.webp|cover hsmall]]](Stoneheart.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

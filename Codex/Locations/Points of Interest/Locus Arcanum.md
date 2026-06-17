@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Locus Arcanum
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Locus_Arcanum_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Locus_Arcanum.webp)
+> [![[Locus_Arcanum_small.webp|cover hsmall]]](Locus_Arcanum.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

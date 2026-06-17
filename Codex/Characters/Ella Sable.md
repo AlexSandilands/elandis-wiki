@@ -21,7 +21,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ella Sable
-> [![[Public/Codex/Assets/Characters/Ella_Sable_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ella_Sable.webp)
+> [![[Ella_Sable_small.webp|cover hsmall]]](Ella_Sable.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

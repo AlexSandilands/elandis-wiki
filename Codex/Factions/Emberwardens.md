@@ -16,7 +16,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Emberwardens
-> [![[Public/Codex/Assets/Factions/Emberwardens_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Emberwardens.webp)
+> [![[Emberwardens_small.webp|cover hsmall]]](Emberwardens.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

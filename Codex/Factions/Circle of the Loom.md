@@ -15,7 +15,7 @@ aliases: [Loom, Circle of the Loom]
 ---
 > [!infobox|wikipedia]
 > # Circle of the Loom
-> [![[Public/Codex/Assets/Factions/Circle_of_the_Loom_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Circle_of_the_Loom.webp)
+> [![[Circle_of_the_Loom_small.webp|cover hsmall]]](Circle_of_the_Loom.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

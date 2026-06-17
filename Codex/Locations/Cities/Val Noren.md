@@ -17,7 +17,7 @@ aliases: [Val Norren]
 ---
 > [!infobox|wikipedia]
 > # Val Noren
-> [![[Public/Codex/Assets/Locations/Cities/Val_Noren_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Val_Noren.webp)
+> [![[Val_Noren_small.webp|cover hsmall]]](Val_Noren.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -14,7 +14,7 @@ aliases: [The Ashen Forge]
 ---
 > [!infobox|wikipedia]
 > # Ashen Forge
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Ashen_Forge_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Ashen_Forge.webp)
+> [![[Ashen_Forge_small.webp|cover hsmall]]](Ashen_Forge.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

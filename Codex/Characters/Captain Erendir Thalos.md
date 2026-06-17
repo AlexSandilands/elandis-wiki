@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Captain Erendir Thalos
-> [![[Public/Codex/Assets/Characters/Captain_Erendir_Thalos_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Captain_Erendir_Thalos.webp)
+> [![[Captain_Erendir_Thalos_small.webp|cover hsmall]]](Captain_Erendir_Thalos.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

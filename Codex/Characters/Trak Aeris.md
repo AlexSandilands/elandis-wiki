@@ -22,7 +22,7 @@ aliases: [Trak, Shadow]
 
 > [!infobox|wikipedia]
 > # Trak Aeris
-> [![[Public/Codex/Assets/Characters/Trak_Aeris_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Trak_Aeris.webp)
+> [![[Trak_Aeris_small.webp|cover hsmall]]](Trak_Aeris.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

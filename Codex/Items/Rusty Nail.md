@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Rusty Nail
-> [![[Public/Codex/Assets/Items/Rusty_Nail_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Rusty_Nail.webp)
+> [![[Rusty_Nail_small.webp|cover hsmall]]](Rusty_Nail.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Gilded Crow
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Gilded_Crow_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Gilded_Crow.webp)
+> [![[Gilded_Crow_small.webp|cover hsmall]]](Gilded_Crow.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

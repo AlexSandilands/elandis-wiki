@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Nelfandriss the Banished
-> [![[Public/Codex/Assets/Characters/Nelfandriss_the_Banished_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Nelfandriss_the_Banished.webp)
+> [![[Nelfandriss_the_Banished_small.webp|cover hsmall]]](Nelfandriss_the_Banished.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

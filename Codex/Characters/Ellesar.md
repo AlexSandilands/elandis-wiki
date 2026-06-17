@@ -21,7 +21,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # Ellesar
-> [![[Public/Codex/Assets/Characters/Ellesar_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ellesar.webp)
+> [![[Ellesar_small.webp|cover hsmall]]](Ellesar.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Tumbler's Crag
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Tumblers_Crag_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Tumblers_Crag.webp)
+> [![[Tumblers_Crag_small.webp|cover hsmall]]](Tumblers_Crag.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

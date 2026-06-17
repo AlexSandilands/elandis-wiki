@@ -21,7 +21,7 @@ aliases: [Gideon]
 ---
 > [!infobox|wikipedia]
 > # Gideon Blackthorn
-> [![[Public/Codex/Assets/Characters/Gideon_Blackthorn_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Gideon_Blackthorn.webp)
+> [![[Gideon_Blackthorn_small.webp|cover hsmall]]](Gideon_Blackthorn.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

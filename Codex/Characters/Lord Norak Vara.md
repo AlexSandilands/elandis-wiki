@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Lord Norak Vara
-> [![[Public/Codex/Assets/Characters/Lord_Norak_Vara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Lord_Norak_Vara.webp)
+> [![[Lord_Norak_Vara_small.webp|cover hsmall]]](Lord_Norak_Vara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

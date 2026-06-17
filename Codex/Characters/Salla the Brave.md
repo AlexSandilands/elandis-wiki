@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Salla the Brave
-> [![[Public/Codex/Assets/Characters/Salla_the_Brave_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Salla_the_Brave.webp)
+> [![[Salla_the_Brave_small.webp|cover hsmall]]](Salla_the_Brave.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

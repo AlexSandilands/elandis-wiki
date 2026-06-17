@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Joffee
-> [![[Public/Codex/Assets/Items/Joffee_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Joffee.webp)
+> [![[Joffee_small.webp|cover hsmall]]](Joffee.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

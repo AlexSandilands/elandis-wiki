@@ -14,7 +14,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # The Veiled Den
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Veiled_Den_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Veiled_Den.webp)
+> [![[Veiled_Den_small.webp|cover hsmall]]](Veiled_Den.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

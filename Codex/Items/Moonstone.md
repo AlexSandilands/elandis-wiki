@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Moonstone
-> [![[Public/Codex/Assets/Items/Moonstone_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Moonstone.webp)
+> [![[Moonstone_small.webp|cover hsmall]]](Moonstone.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

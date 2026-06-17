@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Kaelen Vayne
-> [![[Public/Codex/Assets/Characters/Kaelen_Vayne_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Kaelen_Vayne.webp)
+> [![[Kaelen_Vayne_small.webp|cover hsmall]]](Kaelen_Vayne.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -23,7 +23,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # General Varan Brado
-> [![[Public/Codex/Assets/Characters/General_Varan_Brado_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/General_Varan_Brado.webp)
+> [![[General_Varan_Brado_small.webp|cover hsmall]]](General_Varan_Brado.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

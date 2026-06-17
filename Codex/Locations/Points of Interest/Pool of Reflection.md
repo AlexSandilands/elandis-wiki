@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Pool of Reflection
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Pool_of_Reflection_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Pool_of_Reflection.webp)
+> [![[Pool_of_Reflection_small.webp|cover hsmall]]](Pool_of_Reflection.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

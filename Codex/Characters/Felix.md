@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Felix
-> [![[Public/Codex/Assets/Characters/Felix_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Felix.webp)
+> [![[Felix_small.webp|cover hsmall]]](Felix.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

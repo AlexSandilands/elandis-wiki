@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # World Gates
-> [![[Public/Codex/Assets/Lore/World_Gates_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/World_Gates.webp)
+> [![[World_Gates_small.webp|cover hsmall]]](World_Gates.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

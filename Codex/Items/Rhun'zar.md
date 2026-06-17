@@ -16,7 +16,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Rhun'zar
-> [![[Public/Codex/Assets/Items/Rhunzar_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Rhunzar.webp)
+> [![[Rhunzar_small.webp|cover hsmall]]](Rhunzar.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

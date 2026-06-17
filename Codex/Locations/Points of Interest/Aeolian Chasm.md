@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Aeolian Chasm
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Aeolian_Chasm_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Aeolian_Chasm.webp)
+> [![[Aeolian_Chasm_small.webp|cover hsmall]]](Aeolian_Chasm.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

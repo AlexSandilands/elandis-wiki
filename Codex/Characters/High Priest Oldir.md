@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # High Priest Oldir
-> [![[Public/Codex/Assets/Characters/High_Priest_Oldir_2_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/High_Priest_Oldir_2.webp)
+> [![[High_Priest_Oldir_2_small.webp|cover hsmall]]](High_Priest_Oldir_2.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

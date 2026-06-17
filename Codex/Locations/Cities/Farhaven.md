@@ -15,7 +15,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Farhaven
-> [![[Public/Codex/Assets/Locations/Cities/Farhaven_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Cities/Farhaven.webp)
+> [![[Farhaven_small.webp|cover hsmall]]](Farhaven.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

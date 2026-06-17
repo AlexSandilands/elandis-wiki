@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Kharazoth the Crimson Shadow
-> [![[Public/Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Kharazoth_the_Crimson_Shadow.webp)
+> [![[Kharazoth_the_Crimson_Shadow_small.webp|cover hsmall]]](Kharazoth_the_Crimson_Shadow.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

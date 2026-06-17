@@ -14,7 +14,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Veiled Cubs
-> [![[Public/Codex/Assets/Factions/Veiled_Cubs_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Veiled_Cubs.webp)
+> [![[Veiled_Cubs_small.webp|cover hsmall]]](Veiled_Cubs.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

@@ -22,7 +22,7 @@ aliases: [Ellesandra]
 
 > [!infobox|wikipedia]
 > # Ellesandra Silmara
-> [![[Public/Codex/Assets/Characters/Ellesandra_Silmara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ellesandra_Silmara.webp)
+> [![[Ellesandra_Silmara_small.webp|cover hsmall]]](Ellesandra_Silmara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

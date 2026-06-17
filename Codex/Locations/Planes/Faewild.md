@@ -15,7 +15,7 @@ aliases: [The Faewild, The Fae Realm]
 ---
 > [!infobox|wikipedia]
 > # Faewild
-> [![[Public/Codex/Assets/Locations/Planes/Faewild_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Planes/Faewild.webp)
+> [![[Faewild_small.webp|cover hsmall]]](Faewild.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

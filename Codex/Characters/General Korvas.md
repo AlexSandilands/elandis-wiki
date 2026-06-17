@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # General Korvas
-> [![[Public/Codex/Assets/Characters/General_Korvas_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/General_Korvas.webp)
+> [![[General_Korvas_small.webp|cover hsmall]]](General_Korvas.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

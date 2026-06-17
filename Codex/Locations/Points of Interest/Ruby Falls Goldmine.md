@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Ruby Falls Goldmine
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Ruby_Falls_Goldmine_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Ruby_Falls_Goldmine.webp)
+> [![[Ruby_Falls_Goldmine_small.webp|cover hsmall]]](Ruby_Falls_Goldmine.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

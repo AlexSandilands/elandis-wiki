@@ -24,7 +24,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # King Marius Noren
-> [![[Public/Codex/Assets/Characters/King_Marius_Noren_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/King_Marius_Noren.webp)
+> [![[King_Marius_Noren_small.webp|cover hsmall]]](King_Marius_Noren.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -27,7 +27,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Ayana Syndrosa
-> [![[Public/Codex/Assets/Characters/Ayana_Syndrosa_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Ayana_Syndrosa.webp)
+> [![[Ayana_Syndrosa_small.webp|cover hsmall]]](Ayana_Syndrosa.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

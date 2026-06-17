@@ -20,7 +20,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Kira
-> [![[Public/Codex/Assets/Characters/Kira_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Kira.webp)
+> [![[Kira_small.webp|cover hsmall]]](Kira.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

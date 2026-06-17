@@ -18,7 +18,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Grakthor
-> [![[Public/Codex/Assets/Characters/Grakthor_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Grakthor.webp)
+> [![[Grakthor_small.webp|cover hsmall]]](Grakthor.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -16,7 +16,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Gossamer Dust
-> [![[Public/Codex/Assets/Items/Gossamer_Dust_small.webp|cover hsmall]]](Public/Codex/Assets/Items/Gossamer_Dust.webp)
+> [![[Gossamer_Dust_small.webp|cover hsmall]]](Gossamer_Dust.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

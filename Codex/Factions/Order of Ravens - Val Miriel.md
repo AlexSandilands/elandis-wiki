@@ -20,7 +20,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Order of Ravens — Val Miriel
-> [![[Public/Codex/Assets/Factions/Order_of_Ravens_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Order_of_Ravens.webp)
+> [![[Order_of_Ravens_small.webp|cover hsmall]]](Order_of_Ravens.webp)
 > ###### Chapter Information
 > Attribute |  Details |
 > ---|---|

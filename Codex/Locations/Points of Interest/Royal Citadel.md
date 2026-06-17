@@ -14,7 +14,7 @@ aliases: [Royal Citadel of Sumara]
 ---
 > [!infobox|wikipedia]
 > # Royal Citadel
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Royal_Citadel_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Royal_Citadel.webp)
+> [![[Royal_Citadel_small.webp|cover hsmall]]](Royal_Citadel.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

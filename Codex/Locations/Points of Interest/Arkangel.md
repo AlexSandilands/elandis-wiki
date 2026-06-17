@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Arkangel
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Arkangel_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Arkangel.webp)
+> [![[Arkangel_small.webp|cover hsmall]]](Arkangel.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -17,7 +17,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Aetheris
-> [![[Public/Codex/Assets/Locations/Continents/Aetheris_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Continents/Aetheris.webp)
+> [![[Aetheris_small.webp|cover hsmall]]](Aetheris.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -17,7 +17,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Darkwood
-> [![[Public/Codex/Assets/Locations/Regions/Darkwood_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Darkwood.webp)
+> [![[Darkwood_small.webp|cover hsmall]]](Darkwood.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

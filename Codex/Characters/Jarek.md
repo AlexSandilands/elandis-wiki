@@ -21,7 +21,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Jarek
-> [![[Public/Codex/Assets/Characters/Jarek_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Jarek.webp)
+> [![[Jarek_small.webp|cover hsmall]]](Jarek.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

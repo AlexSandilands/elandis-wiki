@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Borealia Forest
-> [![[Public/Codex/Assets/Locations/Regions/Borealia_Forest_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Regions/Borealia_Forest.webp)
+> [![[Borealia_Forest_small.webp|cover hsmall]]](Borealia_Forest.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

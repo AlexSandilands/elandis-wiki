@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # The Pantheon
-> [![[Public/Codex/Assets/Lore/The_Pantheon_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/The_Pantheon.webp)
+> [![[The_Pantheon_small.webp|cover hsmall]]](The_Pantheon.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

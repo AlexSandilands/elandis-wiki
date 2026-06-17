@@ -21,7 +21,7 @@ aliases: [Belinda]
 ---
 > [!infobox|wikipedia]
 > # Belinda Bubblegum
-> [![[Public/Codex/Assets/Characters/Belinda_Bubblegum_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Belinda_Bubblegum.webp)
+> [![[Belinda_Bubblegum_small.webp|cover hsmall]]](Belinda_Bubblegum.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

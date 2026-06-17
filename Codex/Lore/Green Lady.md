@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Green Lady
-> [![[Public/Codex/Assets/Lore/Green_Lady_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Green_Lady.webp)
+> [![[Green_Lady_small.webp|cover hsmall]]](Green_Lady.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

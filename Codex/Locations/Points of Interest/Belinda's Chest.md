@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Belinda's Chest
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Belindas_Chest_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Belindas_Chest.webp)
+> [![[Belindas_Chest_small.webp|cover hsmall]]](Belindas_Chest.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

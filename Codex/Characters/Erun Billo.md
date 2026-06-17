@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Erun Billo
-> [![[Public/Codex/Assets/Characters/Erun_Billo_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Erun_Billo.webp)
+> [![[Erun_Billo_small.webp|cover hsmall]]](Erun_Billo.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -17,7 +17,7 @@ aliases: [Tobias Gristle]
 ---
 > [!infobox|wikipedia]
 > # Tobias
-> [![[Public/Codex/Assets/Characters/Tobias_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Tobias.webp)
+> [![[Tobias_small.webp|cover hsmall]]](Tobias.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

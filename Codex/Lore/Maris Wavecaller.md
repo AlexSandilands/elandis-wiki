@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Maris Wavecaller
-> [![[Public/Codex/Assets/Lore/Maris_Wavecaller_small.webp|cover hsmall]]](Public/Codex/Assets/Lore/Maris_Wavecaller.webp)
+> [![[Maris_Wavecaller_small.webp|cover hsmall]]](Maris_Wavecaller.webp)
 > ###### Lore Information
 > Attribute |  Details |
 > ---|---|

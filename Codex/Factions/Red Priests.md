@@ -15,7 +15,7 @@ aliases: [The Red Priests, The Red Priest, Red Priest]
 ---
 > [!infobox|wikipedia]
 > # Red Priests
-> [![[Public/Codex/Assets/Factions/Red_Priests_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Red_Priests.webp)
+> [![[Red_Priests_small.webp|cover hsmall]]](Red_Priests.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

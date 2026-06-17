@@ -19,7 +19,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Gromdal
-> [![[Public/Codex/Assets/Characters/Gromdal_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Gromdal.webp)
+> [![[Gromdal_small.webp|cover hsmall]]](Gromdal.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

@@ -18,7 +18,7 @@ aliases: [Grumble, Uncle Grumble]
 ---
 > [!infobox|wikipedia]
 > # Grumble, The Anniahilator
-> [![[Public/Codex/Assets/Characters/Grumble_The_Anniahilator_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Grumble_The_Anniahilator.webp)
+> [![[Grumble_The_Anniahilator_small.webp|cover hsmall]]](Grumble_The_Anniahilator.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

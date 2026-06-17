@@ -15,7 +15,7 @@ aliases: [Voices of the Empire]
 
 > [!infobox|wikipedia]
 > # Voice of the Empire
-> [![[Public/Codex/Assets/Factions/Voice_of_the_Empire_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Voice_of_the_Empire.webp)
+> [![[Voice_of_the_Empire_small.webp|cover hsmall]]](Voice_of_the_Empire.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

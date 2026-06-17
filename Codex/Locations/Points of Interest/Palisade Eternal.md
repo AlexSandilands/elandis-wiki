@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # The Palisade Eternal
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Palisade_Eternal_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Palisade_Eternal.webp)
+> [![[Palisade_Eternal_small.webp|cover hsmall]]](Palisade_Eternal.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

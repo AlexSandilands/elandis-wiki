@@ -14,7 +14,7 @@ aliases: [Governor's Keep, Miriel Castle]
 ---
 > [!infobox|wikipedia]
 > # Miriel Keep
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Miriel_Keep_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Miriel_Keep.webp)
+> [![[Miriel_Keep_small.webp|cover hsmall]]](Miriel_Keep.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

@@ -19,7 +19,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Valtorra
-> [![[Public/Codex/Assets/Locations/Continents/Valtorra_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Continents/Valtorra.webp)
+> [![[Valtorra_small.webp|cover hsmall]]](Valtorra.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

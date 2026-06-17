@@ -14,7 +14,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # Shadow Serpents
-> [![[Public/Codex/Assets/Factions/Shadow_Serpents_small.webp|cover hsmall]]](Public/Codex/Assets/Factions/Shadow_Serpents.webp)
+> [![[Shadow_Serpents_small.webp|cover hsmall]]](Shadow_Serpents.webp)
 > ###### Faction Information
 > Attribute |  Details |
 > ---|---|

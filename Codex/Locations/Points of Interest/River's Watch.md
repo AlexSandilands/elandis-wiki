@@ -14,7 +14,7 @@ tags:
 
 > [!infobox|wikipedia]
 > # River's Watch
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Rivers_Watch_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Rivers_Watch.webp)
+> [![[Rivers_Watch_small.webp|cover hsmall]]](Rivers_Watch.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

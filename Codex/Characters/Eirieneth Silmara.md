@@ -23,7 +23,7 @@ aliases: [Eirieneth]
 
 > [!infobox|wikipedia]
 > # Eirieneth Silmara
-> [![[Public/Codex/Assets/Characters/Eirieneth_Silmara_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Eirieneth_Silmara.webp)
+> [![[Eirieneth_Silmara_small.webp|cover hsmall]]](Eirieneth_Silmara.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|

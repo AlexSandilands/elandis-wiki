@@ -13,7 +13,7 @@ tags:
 ---
 > [!infobox|wikipedia]
 > # Gilded Grimoire
-> [![[Public/Codex/Assets/Locations/Points_of_Interest/Gilded_Grimoire_small.webp|cover hsmall]]](Public/Codex/Assets/Locations/Points_of_Interest/Gilded_Grimoire.webp)
+> [![[Gilded_Grimoire_small.webp|cover hsmall]]](Gilded_Grimoire.webp)
 > ###### Location Information
 > Attribute |  Details |
 > ---|---|

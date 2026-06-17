@@ -22,7 +22,7 @@ aliases:
 ---
 > [!infobox|wikipedia]
 > # Master Artisan Fenian
-> [![[Public/Codex/Assets/Characters/Master_Artisan_Fenian_small.webp|cover hsmall]]](Public/Codex/Assets/Characters/Master_Artisan_Fenian.webp)
+> [![[Master_Artisan_Fenian_small.webp|cover hsmall]]](Master_Artisan_Fenian.webp)
 > ###### Basic Information
 > Attribute |  Details |
 > ---|---|
