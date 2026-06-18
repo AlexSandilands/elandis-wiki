@@ -48,6 +48,8 @@ In the south, the [[Aeolian Chasm|Aeolian Mountains]] and the colossal chasm the
 
 Its climate runs the full range of the world: frozen sea-ice across the north-eastern reaches where the Frostway forms; cold boreal winters under the northern forest; temperate, fertile weather across the central plains; arid heat in the western desert; and warm, wet, storm-prone air around the southern Gulf.
 
+
+
 ## History
 
 Valtorra's deep history is the world's history. Before the cataclysm there were advanced civilisations whose works survive only as overgrown ruins and half-remembered legend; then came [[The Shattering]] — though the rift itself was torn far to the east, on [[Aetheris]], not here — and the five centuries of the [[Chaos Wars]] that followed, ended at last by the Sacrifice of the Seven. From the wreckage of that age, over nearly two thousand years, three great peoples rebuilt the continent: the six human Kingdoms of Old, a unified dwarven kingdom seated in the [[Silver Mountains]] at [[Glimmerforge]], and the elves upon [[Erivan Island]] in the south. For centuries, a fragile peace held between them.

@@ -39,7 +39,8 @@ Three terms come up constantly. Here they are in plain English:
   it as the shared folder for the world.
 - **Branch** — your own private copy of the pages to scribble on. You make your changes on a
   branch so the live wiki is never touched until your work is approved. Creating a branch is
-  cheap and safe — it's just a workspace with your name on it.
+  cheap and safe — it's just a workspace with your name on it. Always create a new branch for each set of changes you want to make.
+  These are automatically deleted when a pull request is completed.
 - **Pull request ("PR")** — when your branch is ready, you open a pull request. That's simply
   you saying *"here are my changes — please review them and pull them into the real wiki."*
   Riv gets notified, reads your changes, and either approves them (they go live) or leaves a
