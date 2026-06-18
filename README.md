@@ -17,8 +17,6 @@ a homebrew world of four continents remade by catastrophe.</em></p>
 
 ---
 
-Test Change from Wiki
-
 Welcome, players. This repository holds the **public** half of the Elandis vault — every
 page you can see on the wiki. It is yours to help build. Spotted a typo? Know more about a
 place your character has been? Want to flesh out your own character page? You are warmly
