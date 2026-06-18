@@ -1,0 +1,30 @@
+# This file becomes the .gitignore at the root of the public wiki repo.
+# It keeps players' local working files out of the wiki when they clone it
+# and open this folder as an Obsidian vault.
+
+# Obsidian — each player's local config, workspace and caches are personal
+# and must never be committed to the shared wiki.
+.obsidian/
+.trash/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.tmp
+*.swp
+
+# Image policy: only WebP belongs in the wiki. Source and large image
+# formats are ignored — don't add images yourself; ask the DM to publish
+# them through the art pipeline.
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.avif
+*.heic
+# (WebP is intentionally not ignored — it is the published image format.)
