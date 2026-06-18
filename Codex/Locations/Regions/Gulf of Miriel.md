@@ -48,6 +48,8 @@ The climate is warm and wet. Storms boil up across the gulf in the late-year gal
 
 The [[Luminor River]] is the gulf's most important geographical feature after the Maw itself: it runs from [[Val Miriel]] north through the central plains of [[Valtorra]] all the way to the capital, [[Val Luminor]]. Goods and orders flow both ways along it. The gulf is, in effect, the saltwater end of the Empire's spine.
 
+<br>
+
 ## History
 
 [[Val Miriel]] was one of the six human Kingdoms of Old — alongside [[Val Noren]], [[Val Luminor]], [[Val Solis]], [[Val Aran]], and [[Val Aerie]] — and it predates the [[Valtorran Empire|Empire]] by roughly a thousand years. Of the six, the Miriel line were the sea-facing people: Val Miriel grew into the continent's great port and the key gateway to [[Val Luminor]] up the river. Their wealth and power came from the ocean and the trade it carried — though they were never sea-raiders or sealords in the proper sense. They were a port kingdom, and the gulf was the source of everything that made them powerful.

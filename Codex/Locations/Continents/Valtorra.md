@@ -48,7 +48,12 @@ In the south, the [[Aeolian Chasm|Aeolian Mountains]] and the colossal chasm the
 
 Its climate runs the full range of the world: frozen sea-ice across the north-eastern reaches where the Frostway forms; cold boreal winters under the northern forest; temperate, fertile weather across the central plains; arid heat in the western desert; and warm, wet, storm-prone air around the southern Gulf.
 
+### High Quality Maps
 
+> [!example]+ *Links*
+> *Once open: Right Click Image > Open image in new tab*
+> - [[Valtorra-Parchment.jpg|Valtorra - Parchment]]
+> - [[Valtorra.jpg|Valtorra - Colour]]
 
 ## History
 
