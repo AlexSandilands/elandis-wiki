@@ -1,0 +1,4 @@
+# Every change to the wiki requires review from the DM.
+# This makes @AlexSandilands a required reviewer on all pull requests
+# when "Require review from Code Owners" is enabled in branch protection.
+* @AlexSandilands
