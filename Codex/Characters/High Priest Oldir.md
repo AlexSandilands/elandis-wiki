@@ -57,7 +57,7 @@ When [[Kai]] visited The High Sept and revealed the starry markings on his arms,
 
 #### [[Session 26 - A Midnight Romp]]
 
-Oldir confronted Kai and his companion after they infiltrated The High Sept under cover of a *Fog Cloud* during the city lockdown. He refused Kai's request to perform a ceremony attuning the temple's clerics to Selûne, troubled by the black stars visible in Kai's Starry Form — a mark he recognised as the influence of the Dark Sister. After Kai produced a moonstone that matched a gem in the altar of [[Elaris Moonsong - Restricted]], Oldir's scepticism broke. He acknowledged Kai as a potential, if corrupted, Chosen, sheltered the pair for the night, and urged Kai to walk the path of light to purge the darkness taking hold of him.
+Oldir confronted Kai and his companion after they infiltrated The High Sept under cover of a *Fog Cloud* during the city lockdown. He refused Kai's request to perform a ceremony attuning the temple's clerics to Selûne, troubled by the black stars visible in Kai's Starry Form — a mark he recognised as the influence of the Dark Sister. After Kai produced a moonstone that matched a gem in the altar of [[Elaris Moonsong]], Oldir's scepticism broke. He acknowledged Kai as a potential, if corrupted, Chosen, sheltered the pair for the night, and urged Kai to walk the path of light to purge the darkness taking hold of him.
 
 #### [[Session 49 - The Silver Sage]]
 
