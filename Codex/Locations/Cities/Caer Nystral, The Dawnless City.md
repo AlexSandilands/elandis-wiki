@@ -3,7 +3,9 @@ Type: City
 Plane: Faewild
 Region: "[[Vale of Eternal Night]]"
 Defining Feature: Seat of the Unseelie Court, built in the crater where the sky fell
-Government: The Unseelie Court; [[Mirileth|the Star-Veiled Queen]]
+Government:
+  - "The Unseelie Court"
+  - "[[Mirileth|the Star-Veiled Queen]]"
 Importance: Major
 Status: Active
 NoteIcon: city

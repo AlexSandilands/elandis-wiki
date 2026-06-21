@@ -30,6 +30,7 @@ The people of Elandis — heroes and villains, rulers and rogues, gods walking a
 - [[Belinda Bubblegum]]
 - [[Captain Erendir Thalos]]
 - [[Captain Lucius Draegor]]
+- [[Caradoc]]
 - [[Commander Varik Surne]]
 - [[Dane Verric]]
 - [[Dhorik]]
@@ -196,6 +197,7 @@ Every place worth naming, from the world itself down to a single back-alley tave
 - [[Pool of Reflection]]
 - [[Red Bastion]]
 - [[Redleaf Inn]]
+- [[River of Night]]
 - [[River's Watch]]
 - [[Royal Citadel]]
 - [[Royal Way]]
@@ -262,6 +264,7 @@ Notable artifacts, relics and magic items — the named blades, talismans and cu
 
 - [[Moonstone]]
 - [[Rusty Nail]]
+- [[Soulstone Anchor]]
 
 ### Very Rare
 
