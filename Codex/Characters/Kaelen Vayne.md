@@ -57,3 +57,11 @@ Confronted [[Ayana Syndrosa]]'s return and [[Ryo]]'s claim to the [[Silmara Fami
 #### [[Session 50 - A New Morning in Sumara]]
 
 Though absent, Kaelen loomed over the party's morning in [[Sumara, The Shining City|Sumara]]. In the Heartstone Commons, the farmer Gav described him as the pillar who had held the city together after the loss of the Silmaras, through the worst of the skirmishes with the Hunt. [[Warden Sylvaris]], confirming [[Ryo]]'s lineage, was less reverent — *"That old fool Kaelen, I don't know how he could possibly have seen otherwise."* Most significantly, Sylvaris reopened the wound of his lost son: [[Asha Vayne|Asha]] had vanished on the borders of the [[Vale of Eternal Night]] sixty years ago, presumed killed alongside an important member of the Hunt, but never recovered. She doubted [[Mirileth|the Star-Veiled Queen]]'s style would have permitted a simple disappearance — *"Wouldn't be surprised if there was more to the story"* — a thread the party resolved to pull as they prepared to enter the Vale.
+
+#### [[Session 51 - The Last Light]]
+
+The shape of Kaelen's grief came clearer through [[Skyguard Caeryn]]'s account at the Ironsward. After [[Asha Vayne|Asha]] was lost on the borders of the [[Vale of Eternal Night]] some sixty years ago — in a costly clash that may also have claimed a senior figure of the Hunt — Kaelen pulled the border patrols back to the city rather than risk open war, and has blamed himself for the loss ever since.
+
+#### [[Session 52 - The Star-Veiled Queen]]
+
+Though far away in [[Sumara, The Shining City|Sumara]], Kaelen's lost son surfaced in the party's audience with [[Mirileth]], who confirmed that [[Asha Vayne|Asha]] yet lives within her court. The party recognised that returning him could go a long way toward smoothing the frayed relations between the two courts — making Kaelen's old wound a possible key to the diplomacy ahead.

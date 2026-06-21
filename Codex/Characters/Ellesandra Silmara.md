@@ -59,3 +59,7 @@ Ellesandra made a pact with the archfae queen to end the conflict: the queen wou
 #### [[Session 50 - A New Morning in Sumara]]
 
 [[Warden Sylvaris]] told [[Ryo]] and the party the story of the Long Hunt beneath the bioluminescent fields of the Greensward, naming Ellesandra as an ancestor of Ryo's line and recounting her solitary journey into the Vale — and her return with the Hunt-leader's head. The account was delivered as received history: what she did is documented; how she did it is not.
+
+#### [[Session 52 - The Star-Veiled Queen]]
+
+The truth of Ellesandra's walk into the Vale, untold for two thousand years, was finally spoken — by the one who had been there. When [[Mirileth|the Star-Veiled Queen]] stayed her hand from killing [[Ryo]] and recognised the [[Silmara Family|Silmara]] blood in him, she revealed that she and Ellesandra are one. The pact that ended the Long Hunt was a trade of flesh: Ellesandra surrendered her body for the archfae to wear, in exchange for the toppling of the Hunt and the seizing of the Vale. Her recorded death in [[Sumara, The Shining City|Sumara]] years later was in truth her return to the Vale to give up that body, and the two minds have shared one form ever since. In moments of strain a flicker of Ellesandra still surfaces behind the Queen's eyes — enough, the party sensed, to have stirred her mercy toward her own descendant.

@@ -27,7 +27,7 @@ aliases: []
 > Attribute |  Details |
 > ---|---|
 > Species | Human |
-> Class | Druid |
+> Class | Ranger / Druid |
 > Pronouns | He/Him |
 > Player | Vael |
 > ###### Affiliation

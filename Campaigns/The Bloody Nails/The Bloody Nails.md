@@ -16,19 +16,19 @@ The Bloody Nails are a band of seven strangers thrown together by fate — and b
 
 ## The Party
 
-| Character    | Species  | Class          | Role                            | Player              |
-| ------------ | -------- | -------------- | ------------------------------- | ------------------- |
-| [[Vaeleran]] | Human    | Fighter        | Frontline, and the party's voice | Vael                |
-| [[Ryo]]      | Elf      | Ranger         | Scout, tracker and marksman     | JC                  |
-| [[Eryndor]]  | Half-elf | Rogue          | Infiltrator and blade in the dark | Deathmouse        |
-| [[Dondar]]   | Dwarf    | Wizard         | Arcane support and loremaster   | Kiwi                |
-| [[Kai]]      | Half-elf | Cleric / Druid | Healer, shapeshifter and chosen of [[Selûne]] | Lacer8 |
-| [[Berberis]] | Human    | Druid          | Scout and shapeshifter          | Vael                |
-| [[Neros]]    | Half-elf | Druid          | Early companion, since departed | Woop `(inactive)`   |
+| Character    | Species  | Class          | Role                                          | Player            |
+| ------------ | -------- | -------------- | --------------------------------------------- | ----------------- |
+| [[Vaeleran]] | Human    | Fighter        | Frontline, and the party's voice              | Vael              |
+| [[Ryo]]      | Elf      | Ranger         | Scout, tracker and marksman                   | JC                |
+| [[Eryndor]]  | Half-elf | Rogue          | Infiltrator and blade in the dark             | Deathmouse        |
+| [[Dondar]]   | Dwarf    | Wizard         | Arcane support and loremaster                 | Kiwi              |
+| [[Kai]]      | Half-elf | Cleric / Druid | Healer, shapeshifter and chosen of [[Selûne]] | Lacer8            |
+| [[Berberis]] | Human    | Ranger / Druid | Scout and shapeshifter                        | Vael              |
+| [[Neros]]    | Half-elf | Druid          | Early companion, since departed               | Woop `(inactive)` |
 
 ## The Story So Far
 
-From a shipwreck on Valtorra's southern coast to the threshold of the lightless Vale far to the north, the Bloody Nails have grown from escaped prisoners into a name the Empire has learned to fear. What began as survival became rebellion, and what looked like a war against an Empress has revealed itself as something far older and far darker.
+From a shipwreck on Valtorra's southern coast to the dawnless heart of the lightless Vale far to the north, the Bloody Nails have grown from escaped prisoners into a name the Empire has learned to fear. What began as survival became rebellion, and what looked like a war against an Empress has revealed itself as something far older and far darker.
 
 ### Part I — Chains and the Long Road (Sessions 1–7)
 
@@ -112,17 +112,18 @@ A secret surfaced that changed everything: [[Ryo]] is the last heir of the elven
 - [[Session 45 - Pieces on a Board|45 — Pieces on a Board]]
 - [[Session 46 - The Shining City|46 — The Shining City]]
 
-### Part VIII — The Vault and the Vale (Sessions 47–51)
+### Part VIII — The Vault and the Vale (Sessions 47–52)
 
-Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails set out for the [[Vale of Eternal Night]] and the dawnless city at its heart.
+Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails crossed into the [[Vale of Eternal Night]] and were brought before its ruler in the dawnless city of [[Caer Nystral, The Dawnless City|Caer Nystral]]. There the [[Mirileth|Star-Veiled Queen]] revealed herself as Ryo's own ancestor [[Ellesandra Silmara|Ellesandra]] — and named a terrible price for the soulstone they had come to claim.
 
 - [[Session 47 - Confluence of the Seven|47 — Confluence of the Seven]]
 - [[Session 48 - The Vault of Memories|48 — The Vault of Memories]]
 - [[Session 49 - The Silver Sage|49 — The Silver Sage]]
 - [[Session 50 - A New Morning in Sumara|50 — A New Morning in Sumara]]
 - [[Session 51 - The Last Light|51 — The Last Light]]
+- [[Session 52 - The Star-Veiled Queen|52 — The Star-Veiled Queen]]
 
-*As of the latest session, the Bloody Nails stand at 10th level on the threshold of the [[Vale of Eternal Night]], carrying a secret that might unmake the Empire — and a price that one of them may have to pay.*
+*As of the latest session, the Bloody Nails stand at 10th level deep within the [[Vale of Eternal Night]], bound to a perilous bargain with the [[Mirileth|Star-Veiled Queen]] — to topple a crone, loose an ancient devil, and carry the fight into the Hells themselves.*
 
 ## Allies & Adversaries
 

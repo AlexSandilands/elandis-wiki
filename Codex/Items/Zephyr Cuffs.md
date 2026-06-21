@@ -86,6 +86,10 @@ When [[The Bloody Nails]] needed a way down from the [[Shimmering Peaks]] toward
 
 The party collected their five sets in the [[Sumara, The Shining City#The Ironsward Canton — Circle of the Blade|Ironsward]], where [[Skyguard Caeryn]] — the same officer who had clapped them in irons on their arrival — handed the cuffs over grudgingly to settle a debt he owed [[Ayana Syndrosa|Ayana]], on the promise of their swift return. After [[Berberis]] read the weather as calm, the party attuned to the cuffs within a Tiny Hut, climbed to the high peaks, and leapt into open air. The cuffs hauled their arms wide and bore them north at breakneck speed; the [[Shimmering Peaks]] warped away into the distance the instant they crossed the [[Liar's River]] — until a Roc the size of a house stooped out of the sky to hunt them. They angled down, the cuffs flared to set them gently on the ground, and the party broke into a run for the wall of eternal night.
 
+#### [[Session 52 - The Star-Veiled Queen]]
+
+The cuffs earned the party one more crossing inside the Vale. Following the black [[River of Night]] to a road on its far bank, they recharged the bands, climbed a rise, and glided over the cursed water rather than risk its touch — sparing themselves a hard scramble and the river's withering curse before they were run down by the Hunt.
+
 ## Trivia
 
 - Despite borne aloft by magic, the cuffs are valued as much for sport as survival — the daring leaps of the peaks were a pastime long before they were a means of escape.

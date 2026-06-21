@@ -69,3 +69,7 @@ Illythia appeared briefly in a sending from [[Ayana Syndrosa]] — a soft blue o
 #### [[Session 50 - A New Morning in Sumara]]
 
 With the immediate crisis resolved, the party returned to the Locus Arcanum to find [[Ayana Syndrosa]] reclined in a chair in a dressing gown, a glass of wine in hand — the look of a woman who had been on edge for forty years and had finally set the weight down. Illythia was in the kitchen, making breakfast. When Ayana joked about raiding the Ironsward for griffins to spite [[Kaelen Vayne]], she mock-deferred to Illythia — who heard every word from the other room and called out, flatly: *"Yep. I heard that."*
+
+#### [[Session 51 - The Last Light]]
+
+On the party's final morning in [[Sumara, The Shining City|Sumara]], Illythia shared fae [[Joffee|joffee]] with the group at the [[Locus Arcanum]] and agreed to bring the question of [[Eirieneth Silmara|Eirieneth]]'s captivity — and the matter of her [[Silmara Family|Silmara]] line — before the next [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] on [[Ayana Syndrosa|Ayana]]'s behalf. She arranged griffin-riders of the mage guard to ferry [[The Bloody Nails]] toward the Mnemorium Canton, where their research into the [[Vale of Eternal Night|Vale]] would begin.

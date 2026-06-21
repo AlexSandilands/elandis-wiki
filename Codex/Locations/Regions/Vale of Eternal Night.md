@@ -110,7 +110,7 @@ The main city of the Vale, raised on a dark plateau near the Court's traditional
 - Permanent residents: ~12,000 (long-lived fae; population shifts slowly)
 - When the Court is in residence: ~25,000–30,000, swelled by the riding-bands, lesser fae, and visiting covens
 
-Where [[Sumara, The Shining City|Sumara]] is named the Shining City, Caer Nystral is named the Dawnless — the city on which the sun has never risen and never will. The mirroring is deliberate, and pointed.
+Where [[Sumara, The Shining City|Sumara]] is named the Shining City, [[Caer Nystral, The Dawnless City|Caer Nystral]] is named the Dawnless — the city on which the sun has never risen and never will. The mirroring is deliberate, and pointed.
 
 ## Relations with Sumara
 
@@ -166,3 +166,7 @@ In the Greensward of Sumara, [[Warden Sylvaris]] told the party the long history
 #### [[Session 51 - The Last Light]]
 
 Researching in the archives of the [[Circle of the Scroll]], the party uncovered the true origin of the Vale's darkness: when [[Ryordan Silmara]] sundered the [[World Tree]], a piece of the sky fell upon the northern Vale and drowned it in endless night, and [[Caer Nystral, The Dawnless City|Caer Nystral]] rose in the crater it left. Then they made the crossing — gliding north across the no-man's-land beyond the [[Liar's River]], driving off a hunting Roc, and reaching the towering shroud of eternal night at the Vale's edge. [[Kai]] sent a bat through the veil and glimpsed the world beyond: silver needle-trees and glowing fungi, a river of black water, and far across the plain the eclipse-dark moon burning in its ring of white fire. The party made camp at the threshold, resolving to walk into the Vale openly, as envoys, come the dark morning.
+
+#### [[Session 52 - The Star-Veiled Queen]]
+
+The party walked into the Vale at last. Beyond the shroud they found the country [[Kai]]'s bat had glimpsed — silver needle-trees, glowing fungus, and the black [[River of Night]], whose touch withered and cursed [[Dondar]]'s familiar. Gliding across the river to a carved road, they were run down by the Hunt and encircled by a riding-band of centaurs under the grey, one-eyed warden [[Caradoc]], who disarmed them and — rather than taking them to the Antler Gates — diverted them into the barrow-mounds of the outer Vale. There the night-hag [[Ymrageth]] bound them in thorns and pressed a poisoned bargain on them, then sent them on under escort through the tiers of [[Caer Nystral, The Dawnless City|Caer Nystral]] — the Lower Warren, the Muster Yards, the dark-elven Court Tiers — to the Veiled Citadel and an audience with [[Mirileth]] herself, where the true shape of the Vale's secrets finally came apart.

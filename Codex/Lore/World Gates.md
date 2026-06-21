@@ -85,6 +85,10 @@ The deepest truth of the Gates — that the roads they open are the literal root
 
 In the archives of the Circle of the Scroll, an old elven archivist told the party how [[Ryordan Silmara]], First of His Name, sundered the [[World Tree]] to save creation and bound his bloodline to it forever — and why, in consequence, the Silmara alone may command the World Gates. In the same days the party weighed using the [[Royal Citadel|Citadel's]] World Gate to send [[Ayana Syndrosa|Ayana]] home and to visit [[Praetor'Varanous]] once more on the way.
 
+#### [[Session 52 - The Star-Veiled Queen]]
+
+The Gates surfaced again in the bargain struck in the Vale. [[Mirileth]] observed that [[Ryo]], as a [[Silmara Family|Silmara]], could carry the party to the Hells by World Gate rather than by raw planeshifting — the safe road that wounds nothing — when the time came to destroy the reforming [[Maloreth the Patient|Maloreth]]. The same pact would also see the Queen herself brought through to the [[Vault of Memories]] beneath [[Sumara, The Shining City|Sumara]], binding the Gates once more to the unfolding deal.
+
 ## Trivia
 
 - The signet ring that opens the Gates is the same key that unseals the [[Vault of Memories]] — two doors, one bloodline, one bond made at the roots of the world.

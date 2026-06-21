@@ -83,6 +83,10 @@ The dragon named himself [[Praetor'Varanous]] and led the party deeper, raising 
 
 Before leaving Sumara, the party resolved to research at the [[Circle of the Scroll]] before risking the Vault again — wary of what the living chamber might demand of them on a second descent.
 
+#### [[Session 52 - The Star-Veiled Queen]]
+
+The Vault became a bargaining chip in the Vale. Among the terms [[Mirileth]] set for surrendering the [[Soulstone Anchor]], she demanded that the party win her entry into the Vault of Memories — a thing only [[Silmara Family|Silmara]] blood can open — using [[Ryo]]. The Queen, herself carrying the body of the Silmara [[Ellesandra Silmara|Ellesandra]], means to walk down into the sealed chamber and to its bound guardian; the party left the Vale weighing what it would mean to bring the ruler of the Unseelie Court to [[Praetor'Varanous|Praetor's]] door.
+
 ## Trivia
 
 - The doors answer only to Silmara blood, which is precisely why the Confluence could accept the Vault as unforgeable proof of a royal claim: no spell, tool, or force has ever been known to open them otherwise.

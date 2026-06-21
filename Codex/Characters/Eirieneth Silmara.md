@@ -79,3 +79,7 @@ She was taken by the Empire while [[Eryndor]] was still a young child, vanishing
 #### [[Session 49 - The Silver Sage]]
 
 [[Eryndor]] named rescuing his mother from the Empress's tower in [[Val Luminor]] as his driving purpose — and admitted, quietly, that he had given up hope before the events of recent sessions had reignited it.
+
+#### [[Session 51 - The Last Light]]
+
+Eirieneth became the subject of the party's last conversation in [[Sumara, The Shining City|Sumara]] when [[Ayana Syndrosa|Ayana]] revealed she had tried to scry on her the night before and could not perceive her at all — only a blank wall where the woman should have been, despite knowing her well. Ayana hesitated over whether to act, warning that Eirieneth had chosen to leave elven society and might be forced back into it if her line were made known; [[Eryndor]] judged she would choose freedom over a cell, and the question of her rescue was left for [[Illythia Voss|Illythia]] to raise at the next [[Sumara, The Shining City#The Confluence of the Seven|Confluence]].
