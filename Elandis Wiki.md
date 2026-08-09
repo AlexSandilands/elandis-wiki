@@ -10,17 +10,6 @@ aliases:
 
 ---
 
->[!quote]+ *Riv*
-> This is a love letter to five awesome players who somehow have managed to keep together a long form DND campaign in my stupid world for ***three years***, despite timezone differences and conflicting schedules, jobs, etc.
-> 
-> I've been chipping away at this for the better part of a year. I really wanted to have it ready for our three year anniversary, but then only the most busy and insane time of my career was dropped on my head and most evenings are being taken up with work.
-> 
-> I also have extreme impostor syndrome and nothing ever seems good enough to me, so I kept making excuses for why I shouldn't just release it, so eventually I forced myself to have a hard deadline - hence the ARG and countdown timer!
-> 
-> Don't feel like you need to spend any time reading through this or contributing (see [[Elandis Wiki#Contributing|below]]!) as I'll be continuing to update and use them myself either way, but now at least, no matter what ends up happening, we'll have a permanent documented record of these past three years!
-
----
-
 Welcome to the living encyclopaedia of **Elandis** — a homebrew world of four continents remade by catastrophe, and the home of an ongoing Dungeons & Dragons campaign. This wiki is the player-facing record of that world: its peoples and places, its histories and gods, and the story of the adventurers writing the next chapter of it.
 
 Everything here is the world as the players have come to know it. Secrets the table hasn't uncovered yet live elsewhere, behind the curtain.
