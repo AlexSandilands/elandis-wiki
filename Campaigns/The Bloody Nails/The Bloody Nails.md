@@ -112,9 +112,9 @@ A secret surfaced that changed everything: [[Ryo]] is the last heir of the elven
 - [[Session 45 - Pieces on a Board|45 — Pieces on a Board]]
 - [[Session 46 - The Shining City|46 — The Shining City]]
 
-### Part VIII — The Vault and the Vale (Sessions 47–52)
+### Part VIII — The Vault and the Vale (Sessions 47–53)
 
-Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails crossed into the [[Vale of Eternal Night]] and were brought before its ruler in the dawnless city of [[Caer Nystral, The Dawnless City|Caer Nystral]]. There the [[Mirileth|Star-Veiled Queen]] revealed herself as Ryo's own ancestor [[Ellesandra Silmara|Ellesandra]] — and named a terrible price for the soulstone they had come to claim.
+Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails crossed into the [[Vale of Eternal Night]] and were brought before its ruler in the dawnless city of [[Caer Nystral, The Dawnless City|Caer Nystral]]. There the [[Mirileth|Star-Veiled Queen]] revealed herself as Ryo's own ancestor [[Ellesandra Silmara|Ellesandra]] — and named a terrible price for the soulstone they had come to claim. Entering her service, the Nails passed a strange night as guests of the Dawnless City, spent most of the Queen's patience with a disastrous shopping expedition in borrowed faces, and slipped back out to the Barrow-Ring to settle her first demand: the death of the crone [[Ymrageth]].
 
 - [[Session 47 - Confluence of the Seven|47 — Confluence of the Seven]]
 - [[Session 48 - The Vault of Memories|48 — The Vault of Memories]]
@@ -122,8 +122,9 @@ Before the elven Confluence, Ryo's claim was tested in the Vault of Memories ben
 - [[Session 50 - A New Morning in Sumara|50 — A New Morning in Sumara]]
 - [[Session 51 - The Last Light|51 — The Last Light]]
 - [[Session 52 - The Star-Veiled Queen|52 — The Star-Veiled Queen]]
+- [[Session 53 - The Blunt Tools|53 — The Blunt Tools]]
 
-*As of the latest session, the Bloody Nails stand at 10th level deep within the [[Vale of Eternal Night]], bound to a perilous bargain with the [[Mirileth|Star-Veiled Queen]] — to topple a crone, loose an ancient devil, and carry the fight into the Hells themselves.*
+*As of the latest session, the Bloody Nails stand at 10th level in the Barrow-Ring outside [[Caer Nystral, The Dawnless City|Caer Nystral]], a hundred feet from the den of the crone [[Ymrageth]] — the first payment on their bargain with the [[Mirileth|Star-Veiled Queen]], with an ancient devil and the Hells themselves still waiting on the bill.*
 
 ## Allies & Adversaries
 

@@ -112,6 +112,7 @@ The people of Elandis — heroes and villains, rulers and rogues, gods walking a
 - [[Vallania Miriel]]
 - [[Warden Sylvaris]]
 - [[Yarna Coldfist]]
+- [[Ymrageth]]
 
 ## Locations
 

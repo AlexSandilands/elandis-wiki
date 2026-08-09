@@ -60,3 +60,8 @@ Beside him always loped Moss, his dire worg — a beast the size of a horse and 
 * Overruled his arguing lieutenant and diverted the party off the road to the barrow of his secret mistress, [[Ymrageth]], rather than to the Antler Gates.
 * Escorted the party on to the Veiled Citadel to ensure they delivered the Crone's poisoned amulet to the Queen.
 * **Death:** slain instantly by [[Mirileth]] in the throne room — her hand thrust through his skull — for having heard the forbidden word *soulstone*.
+
+#### [[Session 53 - The Blunt Tools]]
+
+* His and his lieutenant's bodies, still lying where they fell, were swept into the throne room's black channel at a twist of [[Mirileth]]'s fingers and washed away to nothing.
+* [[Eryndor]] later invoked his name in the Court Tiers, claiming trinkets traded from *"Caradoc, a member of the Hunt"* — a story that earned only a wary look from the shopkeeper who heard it.

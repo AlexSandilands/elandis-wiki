@@ -58,3 +58,7 @@ Named by [[Warden Sylvaris]] during her account of the Long Hunt's history. Sylv
 #### [[Session 52 - The Star-Veiled Queen]]
 
 In the throne room of the Veiled Citadel, [[Mirileth]] confirmed what [[Warden Sylvaris]] had only suspected: Asha is alive. She let slip that the lost son had been kept within her court for just such an occasion — leverage for any future dealing with [[Sumara, The Shining City|Sumara]] — and remarked that the party had likely walked past him in the halls without knowing it. How to reach and recover him remains an open thread.
+
+#### [[Session 53 - The Blunt Tools]]
+
+The search reached inside the Veiled Citadel itself. Housed overnight as [[Mirileth]]'s guests, the party was watched by a court guard who gave his name, reluctantly, as [[Evrath]] — a knight whose skin showed pale where every other soldier of the Citadel runs storm-grey, and who was glared at by his fellow soldiers and sneered at as the Queen's pet. When [[Ryo]] asked the guard whether he had ever heard the name Asha, a shiver passed through the man — caught only by Ryo's sharp eyes — before he denied ever hearing it. The party left the city with no answer, but with one more oddity noted about the strange, pale guard of the high halls.

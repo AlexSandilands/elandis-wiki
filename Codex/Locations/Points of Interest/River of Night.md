@@ -46,3 +46,7 @@ First glimpsed from beyond the veil, when [[Kai]] sent his bat familiar through 
 #### [[Session 52 - The Star-Veiled Queen]]
 
 The party crossed the Vale alongside the river and learned its nature the hard way. [[Kai]]'s attempt to shape the water failed utterly — it would not move — and when [[Dondar]]'s newly-summoned bat dipped into it, the creature surfaced greyed, shrunken, and cursed, its life half stripped away. Thoroughly warned, the party kept well clear of the bank and used their [[Zephyr Cuffs]] to glide across the river to the road rather than risk another touch.
+
+#### [[Session 53 - The Blunt Tools]]
+
+The Curse of Night proved curable — by a sufficiently exalted hand. In the Veiled Citadel, [[Mirileth]] beckoned [[Dondar]]'s greyed and shivering bat to her palm and stroked the curse out of it, its fur and vigour returning as she remarked that a mere brush with the river needs only a simple decursing magic — though she would not recommend swimming. The channel of the same black substance running through her throne room showed a darker use: at a twist of her fingers it carried the remains of [[Caradoc]] and his lieutenant away to nothing, leaving no trace the dead had ever lain there.

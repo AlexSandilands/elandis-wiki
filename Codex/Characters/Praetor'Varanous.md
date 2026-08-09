@@ -96,6 +96,10 @@ Before the party departed, Praetor returned [[Ryo]] to the dais and showed him t
 
 Though far beneath [[Sumara, The Shining City|Sumara]] and unaware of it, Praetor was named aloud in the throne room of the Vale. Pressed by [[Mirileth]] to reveal who had told them a [[Soulstone Anchor]] existed, the party gave up the Silver Sage — and the Queen, who claimed to know him of old, was untroubled. Her price for the Anchor would bring her to his very threshold: she demanded entry to the [[Vault of Memories]], the chamber Praetor has guarded for centuries. Unknown to the dragon, the soulstone he sent the party to claim is no empty vessel but the cage of a sleeping archdevil — and the Star-Veiled Queen now means to come calling.
 
+#### [[Session 53 - The Blunt Tools]]
+
+Reached by [[Kai]]'s sending from the throne room of the Vale, Praetor heard the party's report — the Queen holds the stone, wants a meeting, and demands entry to the Vault — and answered that it was good they had not come to violence. Told that the Star-Veiled Queen is also [[Ryo]]'s ancestor, he replied that this was *"a piece of the puzzle that fits more perfectly than I expected."* On admitting her to the [[Vault of Memories]] he gave his counsel and then set it aside in the same breath: inadvisable, but ultimately the [[Silmara Family|Silmara]]'s decision. Whether the ruler of the Unseelie Court will be brought to his door now rests with Ryo alone.
+
 ## Trivia
 
 - The vault's ceiling has an observable response to Praetor'Varanous's internal state — silver light pulses and dims in time with his breathing when he is deep in thought or reaching for a distant memory. Whether he commands it or the vault simply answers, he does not say.

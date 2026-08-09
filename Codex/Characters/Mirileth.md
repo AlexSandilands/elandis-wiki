@@ -79,6 +79,12 @@ The party gained their audience in the throne room of the Veiled Citadel, where 
 
 Recognising her own descendant, she revealed herself fully — Mirileth, and also [[Ellesandra Silmara|Ellesandra]] — and told the whole history of her ascension, her bargain with the young Silmara, and the archdevil [[Maloreth the Patient|Maloreth]] sealed inside the stone the party sought. She confirmed, too, that the lost [[Asha Vayne]] yet lives within her court. Rather than kill them she proposed a bargain of her own: destroy the traitor crone [[Ymrageth]] and her coven, win her entry to the [[Vault of Memories]] through Ryo's bloodline, and travel into the Hells to end Maloreth's reforming body once the soulstone is broken — and the Anchor would be theirs.
 
+#### [[Session 53 - The Blunt Tools]]
+
+With the bargain laid out, the Queen showed the party both faces of her patronage. She refused [[Kai]]'s plea to spare [[Ymrageth]] — she had known of the crone's plotting for an age and judged it no true threat, but the politics of her court forbade her own hand being seen in the killing; outsiders would do the deed and carry the blame. In exchange she armed them well: the secret of the crone's coven of three lesser hags, an illusion cloaking them as soldiers of her own court, and chambers in the Citadel for the night. She showed smaller graces too — beckoning [[Dondar]]'s river-cursed bat to her palm and stroking the grey from its fur — and when [[Eryndor]] muttered that patrons never call back as promised, a voice at his shoulder answered *"I always will,"* though the Queen never appeared to speak.
+
+Her patience was spent by morning. Hauled before her throne after being caught mid-theft in the Court Tiers, the party watched her scrub the arrest from her own soldiers' memories with a thrown rune, then received a warning delivered without warmth: *"Do not disappoint me a second time. There will not be a second chance."*
+
 ## Trivia
 
 - She has ruled the [[Vale of Eternal Night]] for some two thousand years, longer than most living kingdoms have existed.
