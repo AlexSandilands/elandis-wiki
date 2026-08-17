@@ -59,6 +59,6 @@ The resurrection ritual, for spells such as Raise Dead and Resurrection:
 3. After the contributions, the DM rolls a final resurrection success check with no modifier. The base DC is 10, adjusted by the contribution results and the circumstances of the death.
 4. If the final check fails, the soul is lost — permanently, barring True Resurrection or Wish.
 
-Rapid resurrection, for Revivify and similar one-action effects: no contribution checks are allowed. Instead the caster alone makes a rapid resurrection check. If it fails, no further attempts can be made until someone performs a full ritual with a spell whose casting time is longer than one action.
+**Rapid resurrection**, for Revivify and similar one-action effects: no contribution checks are allowed. Instead the caster alone makes a rapid resurrection check. If it fails, no further attempts can be made until someone performs a full ritual with a spell whose casting time is longer than one action.
 
-Escalating difficulty: each time a character is successfully returned to life, the DC for any later resurrection of that character increases by 1, reflecting the soul's eroding connection to the physical world. Mercer notes this can be raised to +2 per death for a harsher campaign, though he has warned that this may be too punishing at low levels where deaths are common.
+**Escalating difficulty**: each time a character is successfully returned to life, the DC for any later resurrection of that character increases by 1, reflecting the soul's eroding connection to the physical world. Mercer notes this can be raised to +2 per death for a harsher campaign, though he has warned that this may be too punishing at low levels where deaths are common.
