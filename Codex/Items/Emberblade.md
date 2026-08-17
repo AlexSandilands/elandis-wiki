@@ -80,6 +80,10 @@ The half-stirring lingered in [[Eryndor]]'s mind. As he drifted off, his thought
 
 At the Diminished Trove in [[Sumara, The Shining City|Sumara]], the ancient [[Arcanist Levvel]] of the [[Circle of the Weave]] wove a ritual of light around the Emberblade and went still, naming it *"one of the more powerful items I think I've ever seen."* She told [[Eryndor]] to set aside his component pouch and channel his magic through the sword instead; when he did, it was like a key turning in a lock — a vast ocean of power beneath the blade, the steel pulsing with a faint glow, and the unmistakable sense that the sword could yet grow.
 
+#### [[Session 54 - The Crone]]
+
+In the battle against [[Ymrageth]] and her coven, the blade behaved strangely: its glow lingered far longer than it should have after each thunderous strike [[Eryndor]] channelled through it, and even after the last hag fell it went on humming and glowing with magical energy that would not settle — another step, it seems, in whatever the sword is becoming.
+
 ## Trivia
 
 - The Emberblade takes both its name and its power from the [[Emberspire]] and the [[Emberlight Vigil]], the festival on whose 457th night it was made.

@@ -13,7 +13,7 @@ Connections:
   - "[[Caradoc]]"
 Profession: Grand Crone of the Barrow-Ring
 Importance: Major
-Status: Alive
+Status: Dead
 NoteIcon: npc
 cssclasses:
   - hide-header-underline-3
@@ -44,9 +44,9 @@ aliases:
 > ###### Status
 > Attribute |  Details |
 > ---|---|
-> Status | Alive |
+> Status | Dead |
 
-Ymrageth, called the Barrow-Crone, is an ancient night hag who rules a coven from the Barrow-Ring outside [[Caer Nystral, The Dawnless City|Caer Nystral]]. She greets the guests the Hunt marches to her door as a kindly grandmother — and has, by the Star-Veiled Queen's own account, spent a very long time plotting against the throne she smiles at.
+Ymrageth, called the Barrow-Crone, was an ancient night hag who ruled a coven from the Barrow-Ring outside [[Caer Nystral, The Dawnless City|Caer Nystral]]. She greeted the guests the Hunt marched to her door as a kindly grandmother — and had, by the Star-Veiled Queen's own account, spent a very long time plotting against the throne she smiled at. Her long game ended in her own den, where she and her coven were slain by the [[The Bloody Nails|Bloody Nails]] at the Queen's behest.
 
 ## Description
 
@@ -79,3 +79,7 @@ Her hall is a barrow-tomb at the heart of her mound, reached through web-choked 
 #### [[Session 53 - The Blunt Tools]]
 
 The reckoning gathered at her door. Her amulet had already been dissolved to dust before the throne, and in the Citadel the party learned how completely her gambit had failed: [[Mirileth]] refused [[Kai]]'s proposal to spare the crone through transformation and penance, revealing she had known of Ymrageth's plotting all along — but that the deniable hands of outsiders must do what the throne cannot be seen to. The Queen gave up the coven's secret: three lesser hags always within reach, strong together, vulnerable apart. By the end of that long dark day the party had crept unseen through the barrow-mounds and halted a hundred feet from the mouth of her den, weapons ready.
+
+#### [[Session 54 - The Crone]]
+
+The crone's last day opened with a final performance. As the party crept in through a fume-choked tunnel at the crown of her mound, they found three soldiers of the Citadel bound on the floor of her den — one wearing the face of [[Evrath]] — while her disembodied voice worked at them with honeyed reason: the Queen was the truly evil one, scheming to reignite the old war and drop the protections of the [[Liar's River]] through the [[Vault of Memories]], and if they sided with the crone instead she would deliver them the soulstone with no strings attached. When they gave her lies no answer she called them fools, and the trap closed — the freed "soldier" twisted into a night hag and drove [[Kai]]'s own gifted knife into his chest. The battle that followed filled her hall with waking nightmares, grasping black tentacles, and the crone herself flickering from shadow to shadow, until all three of her coven-sisters lay dead. Her final trick — an effigy of [[Ryo]] woven from his stolen hair, raised above him — broke against his will, and Ryo took her head from her shoulders with a barrage of arrows. The party stripped her den of its trophy-hoard: her grimoire, her staff, her scrying ball, her scroll case, and the soul-debt gems worked into the walls.

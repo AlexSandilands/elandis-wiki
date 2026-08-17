@@ -85,7 +85,9 @@ With the bargain laid out, the Queen showed the party both faces of her patronag
 
 Her patience was spent by morning. Hauled before her throne after being caught mid-theft in the Court Tiers, the party watched her scrub the arrest from her own soldiers' memories with a thrown rune, then received a warning delivered without warmth: *"Do not disappoint me a second time. There will not be a second chance."*
 
-## Trivia
+#### [[Session 54 - The Crone]]
+
+The Queen did not appear this session, but her first demand was answered in full: the party stormed [[Ymrageth]]'s barrow den and slew the crone and all three of her coven-sisters. Before the fight, the crone's disembodied voice made one last bid to turn the party against their patron — naming Mirileth the truly evil one, claiming she sought to reignite the old war and wanted into the [[Vault of Memories]] so she could drop the protections of the [[Liar's River]] and destroy [[Sumara, The Shining City|Sumara]] from within, and promising to deliver the soulstone with no strings attached if they sided with her instead. The party gave her lies no answer, and the deniable hands the Queen had asked for did their work.
 
 - She has ruled the [[Vale of Eternal Night]] for some two thousand years, longer than most living kingdoms have existed.
 - The body on her throne is the elven hero [[Ellesandra Silmara]]'s own — making any living member of the Silmara line literal kin to the Star-Veiled Queen, a fact that spared the party their lives.

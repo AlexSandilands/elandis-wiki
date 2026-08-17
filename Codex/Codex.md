@@ -270,6 +270,7 @@ Notable artifacts, relics and magic items — the named blades, talismans and cu
 ### Very Rare
 
 - [[Emberblade]]
+- [[Ymrageth's Grimoire]]
 
 ### Rare
 
