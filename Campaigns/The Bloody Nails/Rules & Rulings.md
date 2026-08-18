@@ -62,3 +62,16 @@ The resurrection ritual, for spells such as Raise Dead and Resurrection:
 **Rapid resurrection**, for Revivify and similar one-action effects: no contribution checks are allowed. Instead the caster alone makes a rapid resurrection check. If it fails, no further attempts can be made until someone performs a full ritual with a spell whose casting time is longer than one action.
 
 **Escalating difficulty**: each time a character is successfully returned to life, the DC for any later resurrection of that character increases by 1, reflecting the soul's eroding connection to the physical world. Mercer notes this can be raised to +2 per death for a harsher campaign, though he has warned that this may be too punishing at low levels where deaths are common.
+
+### Hovering and Prone
+
+How does the [prone](https://www.dndbeyond.com/sources/dnd/phb-2024/rules-glossary#ProneCondition) condition interact with a creature that can hover?
+
+> [!check] Ruling
+> A creature that can hover may voluntarily go prone at no cost and gains none of the prone condition's effects, positive or negative. If it is forced prone, the condition applies in full.
+
+Details of the ruling:
+
+- A voluntarily prone hovering creature keeps its body fully under its control, so it can right itself freely at no movement cost.
+- Being forced prone — by an effect such as Topple or Tasha's Hideous Laughter — represents a forced loss of bodily control, so the full prone condition applies. This is true even if the creature was already voluntarily prone when the effect hit.
+- Standing up from forced prone costs half the creature's Fly Speed as normal.
