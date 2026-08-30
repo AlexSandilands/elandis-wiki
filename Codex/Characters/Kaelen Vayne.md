@@ -65,3 +65,7 @@ The shape of Kaelen's grief came clearer through [[Skyguard Caeryn]]'s account a
 #### [[Session 52 - The Star-Veiled Queen]]
 
 Though far away in [[Sumara, The Shining City|Sumara]], Kaelen's lost son surfaced in the party's audience with [[Mirileth]], who confirmed that [[Asha Vayne|Asha]] yet lives within her court. The party recognised that returning him could go a long way toward smoothing the frayed relations between the two courts — making Kaelen's old wound a possible key to the diplomacy ahead.
+
+#### [[Session 55 - The Long Hunt]]
+
+Kaelen's son is on his way home. Freed from the [[Vale of Eternal Night]] and woken as himself with no memory of the last sixty years, [[Asha Vayne|Asha]] rode with the party to the gates of [[Sumara, The Shining City|Sumara]], having offered to ask his father to find a home for the elven girl brought out of the Vale with him. Kaelen does not yet know.

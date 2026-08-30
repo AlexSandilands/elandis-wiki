@@ -146,6 +146,10 @@ The party reached the Dawnless City at last, and were taken by the Hunt before t
 
 The party spent a full night and day inside the city as [[Mirileth|the Queen's]] uneasy guests. Quartered high in the Veiled Citadel — redcap servants in fine black linen, platters of strange fae fare, a knight posted at the door — they were sent out come morning cloaked in illusion as soldiers of the court. In the Court Tiers they found a marketplace of manors and fine shops, and inside an arcane shop learned something worth more than any purchase: its keeper is forging enchanted swords under contract to bolster the city's arms. The excursion collapsed when material-realm gold betrayed them — no soldier of the Vale carries coin, and fae of certain bloodlines are wounded by true iron, so the city trades in barter and favours — and they were marched in manacles up the Midnight Procession past gossiping nobles and riders on smoke-maned steeds whose hooves left prints of embers. Spared by the Queen's intervention, they left through the Antler Gates in proper soldier's order and slipped off the road into the Barrow-Ring, whose boulders, mounds, and web-choked hollows carried them unseen to the crone's den.
 
+#### [[Session 55 - The Long Hunt]]
+
+The party did not return to the city. Having killed [[Ymrageth]] in the Barrow-Ring, they set her den ablaze and fled as its smoke rose over the crater — a beacon answered by wolf howls from deep within Caer Nystral. Unknown outsiders who had just slain one of the Vale's high figures, they judged the city closed to them and struck out for the wilds; the Hunt rode out of the city after them, and a rider on nightmare steeds followed later on the [[Mirileth|Queen]]'s errand to see them out.
+
 ## Trivia
 
 - Where Sumara is named the Shining City, Caer Nystral is named the Dawnless. The two cities are deliberate mirrors of one another, and the people of the Vale never let the comparison be forgotten.

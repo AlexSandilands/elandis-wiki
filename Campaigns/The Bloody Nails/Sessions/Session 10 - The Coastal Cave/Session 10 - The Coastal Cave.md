@@ -18,7 +18,7 @@ tags:
 > # Session Details
 > Attribute |  Details |
 > ---|---|
-> Date | [[03 - Water, 3rd.webp\|7th Water, 3rd - 2507]] |
+> Date | [[01 - Water, 1st.webp\|7th Water, 1st - 2507]] |
 > Location | [[Camaar]]
 > Characters | [[Ellesar]]<br>[[Lia]]<br>[[Veiled Cubs]] |
 

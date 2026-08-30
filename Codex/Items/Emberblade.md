@@ -84,6 +84,10 @@ At the Diminished Trove in [[Sumara, The Shining City|Sumara]], the ancient [[Ar
 
 In the battle against [[Ymrageth]] and her coven, the blade behaved strangely: its glow lingered far longer than it should have after each thunderous strike [[Eryndor]] channelled through it, and even after the last hag fell it went on humming and glowing with magical energy that would not settle — another step, it seems, in whatever the sword is becoming.
 
+#### [[Session 55 - The Long Hunt]]
+
+On the late watch of a long rest hidden in the jungle of the [[Vale of Eternal Night]], [[Eryndor]] drew the blade and found it responding to his touch: spirals of golden energy running up and down the steel and around his hand. Holding the sword upright between his palms and meditating on it, he felt it awakening — there is more to the Emberblade than he had anticipated, and its true properties have now revealed themselves to him.
+
 ## Trivia
 
 - The Emberblade takes both its name and its power from the [[Emberspire]] and the [[Emberlight Vigil]], the festival on whose 457th night it was made.

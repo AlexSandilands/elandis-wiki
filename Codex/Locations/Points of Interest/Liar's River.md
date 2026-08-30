@@ -59,6 +59,10 @@ Emerging from the [[Briarshade]], the party reached the Shimmering Peaks and fou
 
 After weeks in Sumara, the party left the Peaks travelling north. Borrowing [[Zephyr Cuffs]] from the Ironsward, they leapt from the high peaks into open air, the cuffs bearing them north at breakneck speed — and the Shimmering Peaks warped away into the far distance the very instant they crossed the Liar's River. A Roc the size of a house hunted them down the sky in a running battle before they drove it off and reached the threshold of the [[Vale of Eternal Night]].
 
+#### [[Session 55 - The Long Hunt]]
+
+Returning from the [[Vale of Eternal Night]] with [[Asha Vayne]] and a small elven girl calling herself Ellessa, the party found [[Grumble, The Anniahilator|Grumble]] at his table on the bridge once more. He welcomed Asha home, then barred the girl with a raised hand and a long stare before settling matters over three games of chess, which she won two to one. Only then did the party cross — and once again the mountains folded close the moment they were over the water. The girl's mood visibly brightened on the far bank.
+
 ## Trivia
 
 - No source in the Faewild explains why the river is called the Liar's River, and none of those who dwell beside it will give the same answer twice. The name simply stands.

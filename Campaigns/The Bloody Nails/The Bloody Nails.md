@@ -26,6 +26,10 @@ The Bloody Nails are a band of seven strangers thrown together by fate — and b
 | [[Berberis]] | Human    | Ranger / Druid | Scout and shapeshifter                        | Vael              |
 | [[Neros]]    | Half-elf | Druid          | Early companion, since departed               | Woop `(inactive)` |
 
+## Calendar
+
+The campaign keeps time by the [[Calendar of Elandis]] — a year of twelve twenty-eight-day months, each day marked by the phases of the two moons. Every month the party has lived through is recorded on the campaign [[Calendar|calendar]], annotated day by day with where they went and what they did.
+
 ## The Story So Far
 
 From a shipwreck on Valtorra's southern coast to the dawnless heart of the lightless Vale far to the north, the Bloody Nails have grown from escaped prisoners into a name the Empire has learned to fear. What began as survival became rebellion, and what looked like a war against an Empress has revealed itself as something far older and far darker.
@@ -112,9 +116,9 @@ A secret surfaced that changed everything: [[Ryo]] is the last heir of the elven
 - [[Session 45 - Pieces on a Board|45 — Pieces on a Board]]
 - [[Session 46 - The Shining City|46 — The Shining City]]
 
-### Part VIII — The Vault and the Vale (Sessions 47–54)
+### Part VIII — The Vault and the Vale (Sessions 47–55)
 
-Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails crossed into the [[Vale of Eternal Night]] and were brought before its ruler in the dawnless city of [[Caer Nystral, The Dawnless City|Caer Nystral]]. There the [[Mirileth|Star-Veiled Queen]] revealed herself as Ryo's own ancestor [[Ellesandra Silmara|Ellesandra]] — and named a terrible price for the soulstone they had come to claim. Entering her service, the Nails passed a strange night as guests of the Dawnless City, spent most of the Queen's patience with a disastrous shopping expedition in borrowed faces, and slipped back out to the Barrow-Ring to settle her first demand: the death of the crone [[Ymrageth]]. They paid it in full — descending into the barrow through a tunnel at its crown, cutting through the crone's last honeyed lies, and destroying her and her entire coven before stripping her den of its trophy-hoard.
+Before the elven Confluence, Ryo's claim was tested in the Vault of Memories beneath the World Tree's petrified root, where a cursed dragon-sage revealed the true enemy: the Empress is a lich, and behind her stands [[Kharazoth the Crimson Shadow]], older than the Empire and beyond ordinary death. Armed with a desperate plan, the Nails crossed into the [[Vale of Eternal Night]] and were brought before its ruler in the dawnless city of [[Caer Nystral, The Dawnless City|Caer Nystral]]. There the [[Mirileth|Star-Veiled Queen]] revealed herself as Ryo's own ancestor [[Ellesandra Silmara|Ellesandra]] — and named a terrible price for the soulstone they had come to claim. Entering her service, the Nails passed a strange night as guests of the Dawnless City, spent most of the Queen's patience with a disastrous shopping expedition in borrowed faces, and slipped back out to the Barrow-Ring to settle her first demand: the death of the crone [[Ymrageth]]. They paid it in full — descending into the barrow through a tunnel at its crown, cutting through the crone's last honeyed lies, and destroying her and her entire coven before stripping her den of its trophy-hoard. Then came the long hunt home: the den burned behind them as a beacon, the wilds of the Vale swallowed Ryo in a pit of false ground, and a band of the Hunt — armoured centaurs and a monstrous worg — ran them up a mountainside until they leapt clear on the [[Zephyr Cuffs]]. The Queen's own steeds carried them through the Wall of Night, and with them came her pale guard Evrath, who woke as [[Asha Vayne]], Kaelen's son, sixty years lost — and a small elven girl calling herself Ellessa, whom [[Grumble, The Anniahilator|Grumble]] let across the [[Liar's River]] only after a stare-down and a game of chess.
 
 - [[Session 47 - Confluence of the Seven|47 — Confluence of the Seven]]
 - [[Session 48 - The Vault of Memories|48 — The Vault of Memories]]
@@ -124,8 +128,9 @@ Before the elven Confluence, Ryo's claim was tested in the Vault of Memories ben
 - [[Session 52 - The Star-Veiled Queen|52 — The Star-Veiled Queen]]
 - [[Session 53 - The Blunt Tools|53 — The Blunt Tools]]
 - [[Session 54 - The Crone|54 — The Crone]]
+- [[Session 55 - The Long Hunt|55 — The Long Hunt]]
 
-*As of the latest session, the Bloody Nails stand at 10th level in the plundered den of the crone [[Ymrageth]], her head taken and her coven destroyed — the first payment on their bargain with the [[Mirileth|Star-Veiled Queen]] made in full, with an ancient devil and the Hells themselves still waiting on the bill.*
+*As of the latest session, the Bloody Nails stand at 10th level at the gates of [[Sumara, The Shining City|Sumara]], out of the Vale with the crone's head on their tally, [[Asha Vayne]] returned from sixty years in the dark, and a strange child in tow whom the bridge-warden would not name — the Star-Veiled Queen's remaining demands, the Vault, and the Hells still waiting on the bill.*
 
 ## Allies & Adversaries
 

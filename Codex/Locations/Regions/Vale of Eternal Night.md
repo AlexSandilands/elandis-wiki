@@ -139,7 +139,7 @@ The diplomat disappeared and was never seen again. To this day no one knows whet
 
 After the rise of the [[Valtorran Empire]], the remaining elves of the Material Plane withdrew to Sumara, and elven scouts in the Faewild became more numerous than they had been in generations. Encounters grew sharper.
 
-Sixty years ago, in a skirmish at the borders, [[Asha Vayne]] — son of [[Kaelen Vayne]] and an aspiring commander in the Circle of the Blade — was killed. A senior leader of the Hunt fell in the same engagement.
+Sixty years ago, in a skirmish at the borders, [[Asha Vayne]] — son of [[Kaelen Vayne]] and an aspiring commander in the Circle of the Blade — was lost and presumed killed. A senior leader of the Hunt fell in the same engagement. Only sixty years later did the truth surface: Asha had been taken alive into the Star-Veiled Queen's court.
 
 The double loss nearly tipped the long cold peace into open war. Only quick, careful negotiation between the Star-Veiled Queen and the [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] kept the conflict from kindling. The truce held — but Kaelen Vayne has not been the same man since.
 
@@ -174,3 +174,7 @@ The party walked into the Vale at last. Beyond the shroud they found the country
 #### [[Session 54 - The Crone]]
 
 One of the Vale's old powers fell. In the Barrow-Ring beyond [[Caer Nystral, The Dawnless City|Caer Nystral]], the party slipped into the den of the crone [[Ymrageth]] through a fume-choked tunnel at the crown of her mound and, after cutting through her last deceptions, slew her and her entire coven — the first of the Deep Things of the outer Vale to be destroyed, at the quiet behest of the [[Mirileth|Star-Veiled Queen]] herself. The crone's barrow-hall, hung with the trophies and grave-goods of centuries of bargains, was stripped of its hoard.
+
+#### [[Session 55 - The Long Hunt]]
+
+The party fled the Vale with the Hunt at their heels. After burning [[Ymrageth]]'s den, they left the road and climbed out of the crater into the wilds beyond, picking through the ruins of some ancient, swept-away civilisation — fallen walls and a giant stone head half-sunk in the earth — where a patch of false ground swallowed [[Ryo]] whole and withered, black-splotched fungi burst into clouds of necrotic spores. A band of the Hunt — half a dozen heavily armoured centaurs with spears and bows, and an unnaturally huge, long-eared worg that pushed straight through magical overgrowth — tracked them by scent up into the mountains before the party escaped off a cliff on the [[Zephyr Cuffs]]. Seven nightmare steeds with ember manes, sent by the [[Mirileth|Queen]], later bore them through the Wall of Night; the steeds would go no further for fear of outsiders, and one, having poked its head into the light, told [[Berberis]] simply *"I prefer the night."*

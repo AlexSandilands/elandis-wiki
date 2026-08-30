@@ -90,6 +90,10 @@ The party collected their five sets in the [[Sumara, The Shining City#The Ironsw
 
 The cuffs earned the party one more crossing inside the Vale. Following the black [[River of Night]] to a road on its far bank, they recharged the bands, climbed a rise, and glided over the cursed water rather than risk its touch — sparing themselves a hard scramble and the river's withering curse before they were run down by the Hunt.
 
+#### [[Session 55 - The Long Hunt]]
+
+The cuffs carried the party out of the Hunt's reach. Chased up a mountainside in the [[Vale of Eternal Night]] by a band of armoured centaurs and a monstrous worg, the party charged the bands at the clifftop and leapt into the air as arrows flew — the shots fell short, the worg was left howling on the edge, and hours of gliding carried them most of the way to the Vale's border, buying a full day on their pursuers.
+
 ## Trivia
 
 - Despite borne aloft by magic, the cuffs are valued as much for sport as survival — the daring leaps of the peaks were a pastime long before they were a means of escape.

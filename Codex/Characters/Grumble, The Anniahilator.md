@@ -54,3 +54,7 @@ The party encountered Grumble on the bridge crossing the [[Liar's River]] while 
 #### [[Session 49 - The Silver Sage]]
 
 [[Dondar]] extended an offer of a future chess game with Master Grumble to the Silver Sage [[Praetor'Varanous]], who accepted in passing — a small measure of Grumble's reputation reaching even into the vaults of a reclusive sage.
+
+#### [[Session 55 - The Long Hunt]]
+
+Grumble was at his table on the bridge when the party returned from the [[Vale of Eternal Night]] with [[Asha Vayne]] and a small elven girl calling herself Ellessa. He greeted Asha by name — *"Welcome back, child. Too long, too long"* — then raised a hand against the girl and locked her in a long, silent stare, until he broke it with *"Would you like to play a game?"* The two played three lightning-fast games of chess; Grumble took the first, the child took the second and the third, pinning his king with a rook, and he nodded her across. [[Berberis]] stayed behind for a game of his own, staking a story, and lost — Grumble took his king and heard the whole tale of the Vale in payment. Asked whether the girl was a threat, he answered *"She is a threat. But she is not... We made an agreement. She knows what is at stake."* When [[Eryndor]] asked whether the soul-taking was a joke, Grumble produced a rattling pouch from under his cloak, faint screams within, and offered him a game; Eryndor declined.
