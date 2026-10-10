@@ -32,27 +32,27 @@ aliases:
 > ---|---|
 > Status | Active |
 
-The **Circle of the Weave** is [[Sumara, The Shining City|Sumara]]'s arcane order — keeper of the city's magical wards, researcher of planar phenomena, and trainer of its casters. Once the most resource-rich of the seven Circles, the Weave has operated in a state of quiet diminishment ever since the [[Emerald Ceremony]], forty years ago, consumed the finest instruments and artifacts it possessed — a wound still visible on every shelf of the Etherean Canton's near-empty magic shop.
+The **Circle of the Weave** is [[Sumara, The Shining City|Sumara]]'s arcane order — keeper of the city's magical wards, researcher of planar phenomena, and trainer of its casters. Once the most resource-rich of the seven Circles, the Weave has operated in a state of quiet diminishment ever since the [[Emerald Ceremony]], sixty-eight years ago, consumed the finest instruments and artifacts it possessed — a wound still visible on every shelf of the Etherean Canton's near-empty magic shop.
 
 ## Purpose & Goals
 
 The Circle carries three responsibilities within Sumara's life: the maintenance of the arcane wards and defensive enchantments that keep the city sealed and safe; the study of planar and magical phenomena; and the training of new arcane practitioners. In a city that has chosen isolation as its chief defence, the Weave's warding work is the foundation of that choice — constant, invisible, and enormously demanding.
 
-When the [[Sumara, The Shining City#The Confluence of the Seven|Council of the Seven Circles]] authorised the [[Emerald Ceremony]] — a controlled, heavily warded passage back to the Material Plane for intelligence-gathering — it fell to the Weave to make it possible. The Circle committed its finest instruments and artifacts to the working, the most deliberate and costly it had ever attempted. The volunteers who crossed did not return. The Weave's stores have barely recovered in the forty years since, and the Ceremony is not spoken of as a failure — but it is not celebrated.
+When the [[Sumara, The Shining City#The Confluence of the Seven|Council of the Seven Circles]] authorised the [[Emerald Ceremony]] — a controlled, heavily warded passage back to the Material Plane for intelligence-gathering — it fell to the Weave to make it possible. The Circle committed its finest instruments and artifacts to the working, the most deliberate and costly it had ever attempted. For a lifetime, none of the volunteers who crossed returned. The Weave's stores have barely recovered in the sixty-eight years since, and the Ceremony is not spoken of as a failure — but it is not celebrated.
 
 ## Structure & Leadership
 
 The Circle is led by a **Meridian**, who holds a seat on the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] and represents the Weave's interests in city governance. The Meridian's authority within the Etherean Canton is absolute; by long tradition, arcane matters within Sumara defer to the Weave. Below the Meridian, the Circle organises into research working groups and warding teams, senior arcanists taking lead positions and newer casters working under their mentorship.
 
-[[Illythia Voss]] has led the Circle for forty years, since her predecessor stepped forward to lead the Emerald Ceremony and did not come back. She governs with precision and patience, holding the Weave's institutional interests steady in a council increasingly shaped by the weight of [[Kaelen Vayne]]'s personality. Brilliant and open-minded, she is warm beneath a composed exterior — a leader who has had forty years to learn that the council's slow rhythms require more endurance than force.
+[[Illythia Voss]] has led the Circle for sixty-eight years, since her predecessor stepped forward to go with the Emerald Ceremony. Ayana returned only recently, once a Silmara heir reopened the road home. She governs with precision and patience, holding the Weave's institutional interests steady in a council increasingly shaped by the weight of [[Kaelen Vayne]]'s personality. Brilliant and open-minded, she is warm beneath a composed exterior — a leader who has had nearly seventy years to learn that the council's slow rhythms require more endurance than force.
 
 ### Notable Members
 
 | Member              | Role                       | Notes                                                                           |
 | ------------------- | -------------------------- | ------------------------------------------------------------------------------- |
-| [[Illythia Voss]]   | Meridian                   | Current leader; forty years in post; Ayana Syndrosa's former second and partner |
+| [[Illythia Voss]]   | Meridian                   | Current leader; sixty-eight years in post; Ayana Syndrosa's former second and partner |
 | [[Ayana Syndrosa]]  | Former Meridian            | Departed during the Emerald Ceremony; youngest Meridian in living memory        |
-| [[Arcanist Levvel]] | Arcanist, Diminished Trove | Elderly; speaks at length on lore to those who treat him with respect           |
+| [[Arcanist Levvel]] | Arcanist, Diminished Trove | Elderly; speaks at length on lore to those who treat her with respect          |
 
 ## Canton & Nexus
 
@@ -64,7 +64,7 @@ Within the Canton, the **Diminished Trove** serves as the Circle's magic-item sh
 
 The Seven Circles are ancient elven orders, older than the city itself, each tending one facet of elven civilisation and long established in Sumara before the Exile brought the elves of Valtorra through the [[Silmara Family|Silmara]] gateway. The Weave's role — keeping the city sealed against passage in or out — long predates that arrival, and the sudden influx of refugees only deepened how essential that task became.
 
-Some decades into the Century of Silence, the council authorised the Emerald Ceremony: a one-time exception to the crossing prohibition, intended to gather intelligence on what had become of Valtorra. After years of debate, the Weave was given the mandate and committed fully. [[Ayana Syndrosa]] — its Meridian, and the youngest to hold that post in living memory — led the small band of volunteers who crossed. None of them came back. [[Illythia Voss]], Ayana's second-in-command, assumed leadership in her absence, and has held it in the forty years since.
+Thirty-two years into the Century of Silence, sixty-eight years ago, the council authorised the Emerald Ceremony: a one-time exception to the crossing prohibition, intended to gather intelligence on what had become of Valtorra. After years of debate, the Weave was given the mandate and committed fully. [[Ayana Syndrosa]] — its Meridian, and the youngest to hold that post in living memory — led the small band of volunteers who crossed. None of them came back. [[Illythia Voss]], Ayana's second-in-command, assumed leadership in her absence, and has held it in the sixty-eight years since.
 
 The Ceremony's cost has never been recovered. The Weave continues its warding work and its training of new casters, but operates without the instruments and artifacts that once marked it as the most capable of the seven Circles.
 
@@ -78,15 +78,15 @@ The Weave and the [[Circle of the Blade]] share the [[Sumara, The Shining City#T
 
 #### [[Session 46 - The Shining City]]
 
-Entering Sumara for the first time, the party learned that [[Ayana Syndrosa]] — their companion for weeks on the road — had once been the Meridian of the Circle of the Weave, and had left the city forty years ago when the Emerald Ceremony's volunteers failed to return.
+Entering Sumara for the first time, the party learned that [[Ayana Syndrosa]] — their companion for weeks on the road — had once been the Meridian of the Circle of the Weave, and had left the city sixty-eight years ago with the Emerald Ceremony's volunteers.
 
 #### [[Session 47 - Confluence of the Seven]]
 
-[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and the [[Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]].
+[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion nearly seventy years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]], [[Kharazoth the Crimson Shadow]], and the [[Red Priests]] — and when [[Ryo]] silently turned his hand to show the [[Silmara Family|Silmara]] signet ring, Illythia's composure broke completely: *"Your parents were [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. How do you exist?"* The [[Locus Arcanum]] rose as Illythia signalled the start of the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]].
 
 #### [[Session 50 - A New Morning in Sumara]]
 
-In the Etherean Canton, the party visited the Diminished Trove, where Arcanist Levvel examined the [[Emberblade]] and read [[Dread's Hunger]] — and flinched away, having seen through it the deaths of [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. [[Ryo]] collected a blue cloak in the colours of the Weave. That evening the party returned to the [[Locus Arcanum]] to find [[Ayana Syndrosa]] off-duty for the first time in forty years, reclined in a dressing gown with [[Illythia Voss]] making breakfast nearby. Ayana arranged five sets of Zephyr Cuffs for the party's descent into the [[Vale of Eternal Night]].
+In the Etherean Canton, the party visited the Diminished Trove, where Arcanist Levvel examined the [[Emberblade]] and read [[Dread's Hunger]] — and flinched away, having seen through it the deaths of [[Ratha Silmara|Ratha]] and [[Rhennaya Silmara|Rhennaya]]. [[Ryo]] collected a blue cloak in the colours of the Weave. That evening the party returned to the [[Locus Arcanum]] to find [[Ayana Syndrosa]] off-duty for the first time in nearly seventy years, reclined in a dressing gown with [[Illythia Voss]] making breakfast nearby. Ayana arranged five sets of Zephyr Cuffs for the party's descent into the [[Vale of Eternal Night]].
 
 #### [[Session 51 - The Last Light]]
 

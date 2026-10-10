@@ -94,6 +94,10 @@ Vallania revealed her true identity to the party at [[Miriel's Rest]], arriving 
 
 A recovered memory surfaced of Vallania presenting the party to her father in the war room. The memory confirmed that Tarlis arrived alone, without guards — a detail that sharpened the image of how much trust she had placed in the party before her father gave any.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Ryo]] found Vallania through his newly attuned crystal ball, hooded with a bow on her back and slipping up an alley of a [[Val Miriel]] whose uprising had spread. [[Kai]]'s sending startled her into the shadows. Her reply: *"Kai, you startled me. Things are tense in the city… Father is playing both sides right now. I'm trying to do what I can. He doesn't know. Hoping for reinforcement soon."* Told the party would send what help it could, she answered *"Please hurry."* A last sending that night, *"Help is coming. Stay safe,"* reached her but drew no reply.
+
 ## Trivia
 
 - Vallania's alias, Nia, is common enough that several party members knew her for sessions before learning her full name or understanding who she was.

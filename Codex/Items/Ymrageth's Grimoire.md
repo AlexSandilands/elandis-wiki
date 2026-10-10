@@ -45,3 +45,7 @@ Within, the pages are written in dream-script — a swirling, restless hand that
 #### [[Session 54 - The Crone]]
 
 Recovered from [[Ymrageth|Ymrageth's]] barrow den among the trophies of her hoard after the crone and her coven were slain. The party identified it as her spellbook, though its swirling script defied any attempt to read it.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Kai]] showed the grimoire to [[Illythia Voss|Illythia]], dropping it in fright when he feared it would speak. She opened it with a click of her fingers onto endlessly swirling text, and its real fingers clenched and relaxed. She judged it a spellbook written in a difficult dream script, likely full of powerful and nasty spells: dangerous, but not cursed. She could teach [[Dondar]] to read it, but warned him to study no more than an hour a day, or the script would bring restless nightmares.

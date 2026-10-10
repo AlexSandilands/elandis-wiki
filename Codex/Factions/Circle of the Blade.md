@@ -48,7 +48,7 @@ Commander [[Kaelen Vayne]] has held the Meridian post for over a century. A heav
 | Member | Role | Notes |
 |---|---|---|
 | [[Kaelen Vayne]] | Meridian (Commander) | De facto head of the Seven Circles council |
-| [[Asha Vayne]] | Field commander (†) | Kaelen's son; killed in a Vale border skirmish sixty years ago |
+| [[Asha Vayne]] | Field commander | Kaelen's son; lost on the Vale border sixty-one years ago and presumed dead, returned home alive |
 | [[Ratha Silmara]] | Senior officer (former) | Left the Circle before the Exile to marry [[Rhennaya Silmara]]; his eventual consent to the withdrawal carried decisive weight |
 
 ## Military Units
@@ -69,7 +69,7 @@ The Exile divided the order. When the elves of Valtorra arrived through the [[Si
 
 In the century since, with the Royal Citadel sealed and the Silmara line believed extinct, the Circle became Sumara's de facto governing arm. Kaelen consolidated the council's authority quietly, and the other Circles accepted it — not out of submission, but because someone had to hold the line.
 
-Sixty years ago, [[Asha Vayne]] — Kaelen's son and a rising officer of the Circle — was killed in a border skirmish with the [[Vale of Eternal Night]]. A senior leader of the Hunt fell in the same engagement. The double loss nearly tipped the cold peace into open war; only careful negotiation at the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] kept it from igniting. The peace held, and Kaelen has not forgiven it.
+Sixty-one years ago, [[Asha Vayne]] — Kaelen's son and a rising officer of the Circle — was lost in a border skirmish with the [[Vale of Eternal Night]] and believed killed. A senior leader of the Hunt fell in the same engagement. The double loss nearly tipped the cold peace into open war; only careful negotiation at the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] kept it from igniting. The peace held, and Kaelen never forgave it. Asha had not died: he came home alive in the present day, with no memory of the decades between.
 
 ## Relations
 
@@ -79,7 +79,7 @@ Commander [[Kaelen Vayne]] serves the [[Sumara, The Shining City#The Confluence 
 
 ### Vale of Eternal Night
 
-Cold hostility toward the [[Vale of Eternal Night]], contained by a fragile truce. The killing of [[Asha Vayne]] sixty years ago left a wound in the Blade that has never closed; Kaelen has tolerated the peace because the council requires it, nothing more.
+Cold hostility toward the [[Vale of Eternal Night]], contained by a fragile truce. The loss of [[Asha Vayne]] sixty-one years ago left a wound in the Blade that never closed; Kaelen has tolerated the peace because the council requires it, nothing more. Asha's return alive has not softened the Blade's view of the Vale.
 
 ### Silmara Family
 
@@ -98,3 +98,11 @@ Kaelen attended the [[Sumara, The Shining City#The Confluence of the Seven|Confl
 #### [[Session 51 - The Last Light]]
 
 [[Ayana Syndrosa|Ayana]] told the party that [[Ratha Silmara]] had once held a high-ranking post in the Circle before giving it up to marry into the Silmara line — context that framed not only Ratha's standing within the order, but the weight his eventual acquiescence to the Exile had carried, and the shape of Kaelen's long resentment.
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Ryo]] brought [[Asha Vayne]] home to the [[Royal Citadel]], sixty-one years after the Circle had mourned him. [[Kaelen Vayne|Kaelen]] dropped his glass at the sight of his son, then apologised to Ryo and bowed to him. Kaelen also laid out the city's defences for [[Berberis]]: the ceremonial royal guard at the Nexuses and the Citadel, the [[Skyguard]], and the [[Palisade Eternal]] where martial training is done.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+At the Palisade Eternal, Kaelen told Ryo the Circle's strength lies in the soldiers of the Blade, the mages of the Weave, and the Skyguard. At Ryo's urging he agreed to begin quietly readying Sumara's forces for war on the Material Plane, and to put a stealthy strike force for [[Val Miriel]] before the Council.

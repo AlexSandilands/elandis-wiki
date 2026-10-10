@@ -44,7 +44,7 @@ The city is organised entirely by elevation, descending the caldera's interior w
 - **Mid Cantons** — the mid-elevation terraces: the Ironsward, Luminary, and Judicant's cantons.
 - **Lower Cantons** — the caldera floor and valley: the Fundament and Greensward cantons.
 
-A great waterfall, the **Shivering Veil**, pours down from the southern rim — from a distance, a curtain of silver light. It splits around the Luminary Canton before being channelled into glowing blue aqueducts that thread the city below; its sound is a constant in the mid and lower cantons. The sole approach to the Royal Citadel is the **Bridge of Recollection**, a single spiralling stone span carved along its full length with relief panels depicting the 2,000-year history of the elven people. At the heart of the Commons rises the [[Heartstone]], a natural column of white stone older than the city itself.
+The [[#The Shivering Veil|Shivering Veil]] falls from the southern rim and threads the city below in glowing aqueducts, and the [[#The Bridge of Recollection|Bridge of Recollection]] is the only way up to the Royal Citadel.
 
 ## History
 
@@ -60,23 +60,33 @@ No visitor from the Material Plane entered Sumara for a hundred years. The city 
 
 ### The Emerald Ceremony
 
-Some thirty to forty years into the silence, the council faced a hard question: what was happening in the Material Plane? Rumours had filtered through the Fey courts — of a vast empire, of dragons in shadow, of a darkness spreading across [[Valtorra]] — but the elves had chosen safety, and safety had made them blind. After years of debate they authorised a one-time exception: a controlled, heavily warded ritual opening a temporary passage back to the Material Plane for intelligence-gathering alone, the most deliberate crossing the Circle of the Weave had ever attempted. They called it the **Emerald Ceremony**, and it cost enormously — the Circle committed its finest instruments and artifacts to it, and its stores have barely recovered since. A small band of volunteers, among them [[Ayana Syndrosa]], then Meridian of the Weave, crossed through to observe and return. None of them came back. The Ceremony is not spoken of as a failure, but it is not celebrated.
+Thirty-two years into the silence, sixty-eight years ago, the council broke its own prohibition once. Rumours had filtered through the Fey courts of a vast empire and a darkness spreading across [[Valtorra]], and safety had left the elves blind. The [[Emerald Ceremony]] was a one-time crossing-rite, built and powered by the Circle of the Weave at enormous cost, that sent one hundred hooded volunteers back to the Material Plane to watch, gather word, and help where they could. With no Silmara to open the [[World Gates]], the road was one-way. [[Ayana Syndrosa]], then Meridian of the Weave and the Ceremony's architect, went with them. For a lifetime none returned. The Ceremony is not spoken of as a failure, but it is not celebrated.
 
 ## Government
 
-Sumara is ruled by the **Council of the Seven Circles**, an assembly of the seven elven orders that each tend one facet of the city's life. Each Circle occupies a dedicated **Canton** and is led by a **Meridian**, and each Canton's central structure — its **Nexus** — is a citadel capable of lifting from its anchor and drifting above the city, docking again when needed.
+Sumara is ruled by the **Council of the Seven Circles**, an assembly of the seven elven orders that each tend one facet of the city's life. Each Circle occupies a dedicated **Canton** and is led by a **Meridian**.
 
-| Circle                   | Canton     | Domain                                 | Nexus                  | Meridian                        |
-| ------------------------ | ---------- | -------------------------------------- | ---------------------- | ------------------------------- |
-| [[Circle of the Weave]]  | Etherean   | Arcane magic, wards, research          | [[Locus Arcanum]]      | [[Illythia Voss]]               |
-| [[Circle of the Blade]]  | Ironsward  | Military, defence, border patrols      | The Palisade Eternal   | [[Kaelen Vayne]]                |
-| [[Circle of the Dawn]]   | Luminary   | Healing, medicine, restoration         | The Luminarium         | [[Elder Silaqui Amastacia]]     |
-| [[Circle of the Scroll]] | Mnemorium  | Archives, history, prophecy            | The Oraculum           | [[Archivist Elrohir Gemflower]] |
-| [[Circle of the Scales]] | Judicant's | Law, diplomacy, dispute resolution     | The Justicium          | [[Justiciar Naivara Siannodel]] |
-| [[Circle of the Loom]]   | Fundament  | Construction, artifice, infrastructure | The Architecton        | [[Master Artisan Fenian]]       |
-| [[Circle of the Root]]   | Greensward | Druidic stewardship, agriculture       | The Sanctum Canoporium | [[Warden Sylvaris]]             |
+| Circle                   | Canton     | Domain                                 | Meridian                        | Nexus                  |
+| ------------------------ | ---------- | -------------------------------------- | ------------------------------- | ---------------------- |
+| [[Circle of the Weave]]  | Etherean   | Arcane magic, wards, research          | [[Illythia Voss]]               | [[Locus Arcanum]]      |
+| [[Circle of the Scroll]] | Mnemorium  | Archives, history, prophecy            | [[Archivist Elrohir Gemflower]] | [[Oraculum]]           |
+| [[Circle of the Blade]]  | Ironsward  | Military, defence, border patrols      | [[Kaelen Vayne]]                | [[Palisade Eternal]]   |
+| [[Circle of the Dawn]]   | Luminary   | Healing, medicine, restoration         | [[Elder Silaqui Amastacia]]     | [[Luminarium]]         |
+| [[Circle of the Scales]] | Judicant's | Law, diplomacy, dispute resolution     | [[Justiciar Naivara Siannodel]] | [[Justicium]]          |
+| [[Circle of the Loom]]   | Fundament  | Construction, artifice, infrastructure | [[Master Artisan Fenian]]       | [[Architecton]]        |
+| [[Circle of the Root]]   | Greensward | Druidic stewardship, agriculture       | [[Warden Sylvaris]]             | [[Sanctum Canoporium]] |
 
-The full assembly of all seven Meridians is the [[#The Confluence of the Seven|Confluence of the Seven]], called only when a matter of city-wide gravity must be decided — a handful of times in all of Sumara's history, most recently at the Exile. Above them all, in principle, stood the [[Silmara Family|Silmara]] royal line, whose seat was the Royal Citadel; with the line believed lost, the Citadel has stood sealed for a century and [[Kaelen Vayne]] has held the council's practical authority in its place.
+Above them all, in principle, stood the [[Silmara Family|Silmara]] royal line, whose seat was the Royal Citadel; with the line believed lost, the Citadel has stood sealed for a century and [[Kaelen Vayne]] has held the council's practical authority in its place.
+
+### The Nexuses
+
+Each Canton is anchored by a **Nexus**, the citadel-scale seat of its Circle, capable of lifting from its foundation and drifting above the city, docking again at need. Each is described under its Canton in [[#Districts]]. When a Confluence is called, all seven rise together.
+
+### The Confluence of the Seven
+
+The Confluence of the Seven is the point at which the seven Nexus citadels converge — and, by the same name, the council of all seven Meridians that gathers there. It is at once a place and an assembly: to "call a Confluence" is to summon every Meridian of the Circles to council, and the city has done so only a handful of times in all its history, most recently at the Exile.
+
+When a Confluence convenes, the seven Nexuses lift from their cantons and rise together, docking at the peak of the Royal Citadel on a crystalline platform open to the Faewild sky, bridges of solidified light strung between them while the whole city watches from below. No matter is brought before it that could be settled in any single Canton; the Confluence exists for decisions that bind all of Sumara at once. In the century since the Silmara line was lost, its rulings have stood as the highest authority in the city, though by long custom the empty seat of the Royal Citadel is reckoned to sit above even the assembled Seven.
 
 ## The People
 
@@ -99,7 +109,7 @@ Sumara reveres the [[World Tree]], the great cosmic root that binds all planes �
 
 ## Districts
 
-Sumara's quarters are its **Cantons**, each the seat of a Circle, all of them opening onto the shared Heartstone Commons at the city's heart.
+Sumara's quarters are its **Cantons**, each the seat of a Circle, all of them opening onto the shared Heartstone Commons at the city's heart. They are listed here from the Commons outward, then from the rim down to the valley floor.
 
 ### Heartstone Commons
 
@@ -120,17 +130,46 @@ Frequented by every circle, the Fading Stars is the one place where Sumara fully
 
 ### The Etherean Canton — (Weave)
 
-The upper-eastern caldera rim: sky-facing towers raised on natural stone arches and spires of glass prism. The Circle of the Weave maintains the city's magical wards, researches planar phenomena, and trains its arcane casters. Its Meridian is [[Illythia Voss]], a brilliant and open-minded archmage who took over leadership after her predecessor [[Ayana Syndrosa]] left the city forty years ago. The Canton's Nexus is the [[Locus Arcanum]].
+*Upper Canton · Circle: [[Circle of the Weave]] · Meridian: [[Illythia Voss]] · Nexus: [[Locus Arcanum]]*
+
+The upper-eastern caldera rim: sky-facing towers raised on natural stone arches and spires of glass prism. The Circle of the Weave maintains the city's magical wards, researches planar phenomena, and trains its arcane casters. Illythia, a brilliant and open-minded archmage, took over leadership after her predecessor [[Ayana Syndrosa]] left the city with the Emerald Ceremony.
+
+#### Locus Arcanum *(Nexus)*
+
+A perfect sphere of translucent crystal encircled by slowly turning golden orrery rings; interior aglow with blue-violet light and every surface etched with star charts.
 
 #### The Diminished Trove *(magic items — sparse)*
 
 A magic-item shop whose shelves are nearly bare — *"Everything of note went with the Emerald Ceremony. We sent our best."* — leaving a few minor curios and a spell scroll or two.
 
-- Arcanist Levvel *(proprietor)* — elderly and slow-moving, speaks in complete, considered sentences, and will answer lore questions at length for anyone who treats him with respect.
+- [[Arcanist Levvel]] *(proprietor)* — elderly and slow-moving, speaks in complete, considered sentences, and will answer lore questions at length for anyone who treats her with respect.
+
+### The Mnemorium Canton — (Scroll)
+
+*Upper Canton · Circle: [[Circle of the Scroll]] · Meridian: [[Archivist Elrohir Gemflower]] · Nexus: [[Oraculum]]*
+
+The upper northern face, half carved into the cliff and half standing above it: deep stone halls in a perennial dim light, reached by vast magical stone elevators that slide up and down the waterfall cliff. The Circle of the Scroll are Sumara's archivists and lore-keepers. Elrohir is ancient, dry, and absent-minded, more at home among crumbling tomes than living people, and the Canton's halls are run day to day by the head librarian, Aaroun.
+
+#### Oraculum *(Nexus)*
+
+A tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky. It keeps the Circle's rarest and most closely guarded records.
+
+#### Lectorium *(library)*
+
+The [[Lectorium]] is the Circle's great public library, carved into the cliff and running back into the stone as a warren of halls, each given to its own body of knowledge, from the histories of the Material Plane and the [[Chaos Wars]] to the records of the planes beyond. Unlike the Oraculum, it never moves and is open to any reader.
+
+- Aaroun *(head librarian)* — an elderly elven archivist, guarded with sensitive knowledge but helpful once won over.
+- Silvana *(librarian)* — a hunched old faun who guides visitors to the halls they need.
 
 ### The Ironsward Canton — (Blade)
 
-The mid-elevation western terraces: strong, angular, defensible architecture, and the only Canton with visible walls. The Circle of the Blade is the city's military arm — it trains the border guards, patrols the inner bridges, fields the [[Sumara, The Shining City#Skyguard|Skyguard]], and keeps the elven martial traditions. Its Meridian, Commander [[Kaelen Vayne]], a heavily scarred veteran, has been the council's de facto authority for years. The Canton's Nexus is the Palisade Eternal, a squat fortress tower of dark grey stone with a giant elven broadsword mounted vertically on its face.
+*Mid Canton · Circle: [[Circle of the Blade]] · Meridian: [[Kaelen Vayne]] · Nexus: [[Palisade Eternal]]*
+
+The mid-elevation western terraces: strong, angular, defensible architecture, and the only Canton with visible walls. The Circle of the Blade is the city's military arm — it trains the border guards, patrols the inner bridges, fields the [[#Skyguard|Skyguard]], and keeps the elven martial traditions. Kaelen, a heavily scarred veteran, has been the council's de facto authority for years.
+
+#### Palisade Eternal *(Nexus)*
+
+A squat fortress tower of dark grey stone, its face dominated by a giant elven broadsword mounted vertically; arrow slits glow faintly red.
 
 #### Thornweave's Curiosia *(curiosity shop)*
 
@@ -140,19 +179,33 @@ A shop of heirlooms from the Exile, Faewild oddities, maps that no longer lead a
 
 ### The Luminary Canton — (Dawn)
 
-The mid-elevation southern slopes, turned to catch the sun: tiered gardens and greenhouse healing halls, with the Shivering Veil crashing through before it is channelled away. The Circle of the Dawn are the city's physicians, clerics, and alchemists, leaning heavily on the unique flora of the Faewild. Its Meridian is Elder Silaqui Amastacia, a soft-spoken, deeply empathetic cleric who rarely leaves the botanical infirmaries. The Canton's Nexus is the Luminarium, a glass-and-copper conservatory whose living vines trail beneath it like ribbons when it floats. This is the Canton through which a stranger first enters the city.
+*Mid Canton · Circle: [[Circle of the Dawn]] · Meridian: [[Elder Silaqui Amastacia]] · Nexus: [[Luminarium]]*
 
-### The Mnemorium Canton — (Scroll)
+The mid-elevation southern slopes, turned to catch the sun: tiered gardens and greenhouse healing halls, with the Shivering Veil crashing through before it is channelled away. The Circle of the Dawn are the city's physicians, clerics, and alchemists, leaning heavily on the unique flora of the Faewild. Elder Silaqui is a soft-spoken, deeply empathetic cleric who rarely leaves the botanical infirmaries. This is the Canton through which a stranger first enters the city.
 
-The upper northern face, half carved into the cliff and half standing above it: deep stone halls in a perennial dim light. The Circle of the Scroll are Sumara's archivists and lore-keepers, tending deep stone libraries holding centuries of historical records — the Material Plane, the [[Chaos Wars]], and the elven lineage among them. Its Meridian is Archivist Elrohir Gemflower — ancient, dry, and absent-minded, more at home among crumbling tomes than living people — and its halls are run day to day by the head librarian, Aaroun. The Canton's Nexus is the Oraculum, a tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky.
+#### Luminarium *(Nexus)*
+
+An enormous glass-and-copper conservatory with a domed roof; when aloft, living vines trail beneath it like ribbons and it glows warm amber.
 
 ### The Judicant's Canton — (Scales)
 
-A centrally placed mid-elevation Canton of balanced, symmetric architecture with a formal welcome hall. The Circle of the Scales are Sumara's judges and diplomats — they resolve internal disputes, regulate the distribution of resources, and would, in theory, handle diplomacy with the independent Fey courts. Its Meridian is Justiciar Naivara Siannodel, sharp-tongued and fiercely pragmatic, whose rulings are absolute and final. The Canton's Nexus is the Justicium, perfectly bisected into gleaming white marble and polished black stone, with a great set of scales adorning its roofline.
+*Mid Canton · Circle: [[Circle of the Scales]] · Meridian: [[Justiciar Naivara Siannodel]] · Nexus: [[Justicium]]*
+
+A centrally placed mid-elevation Canton of balanced, symmetric architecture with a formal welcome hall. The Circle of the Scales are Sumara's judges and diplomats — they resolve internal disputes, regulate the distribution of resources, and would, in theory, handle diplomacy with the independent Fey courts. Justiciar Naivara is sharp-tongued and fiercely pragmatic, and her rulings are absolute and final.
+
+#### Justicium *(Nexus)*
+
+Perfectly bisected: one half gleaming white marble, one half polished black stone; a great set of scales adorns its roofline.
 
 ### The Fundament Canton — (Loom)
 
-The lower Canton, where the waterfall reaches the valley floor: workshops, aqueducts, and forge-halls under scaffolding and geometric measurement marks. The Circle of the Loom are the city's builders and enchanters, weaving magic into stone and glass to raise and maintain Sumara's physical fabric. Its Meridian is Master Artisan Fenian, a perfectionist who treats the whole city as a single ongoing work of art. The Canton's Nexus is the Architecton, covered in permanent decorative scaffolding and frozen cranes — a master architect's greatest unfinished work.
+*Lower Canton · Circle: [[Circle of the Loom]] · Meridian: [[Master Artisan Fenian]] · Nexus: [[Architecton]]*
+
+The lower Canton, where the waterfall reaches the valley floor: workshops, aqueducts, and forge-halls under scaffolding and geometric measurement marks. The Circle of the Loom are the city's builders and enchanters, weaving magic into stone and glass to raise and maintain Sumara's physical fabric; every Nexus, aqueduct, and bridge of solidified light in Sumara is their work. Fenian is a perfectionist who treats the whole city as a single ongoing work of art.
+
+#### Architecton *(Nexus)*
+
+Covered in permanent decorative scaffolding and cranes frozen mid-swing — a master architect's greatest unfinished work.
 
 #### The Ironweave *(blacksmith — Faewild metals)*
 
@@ -162,7 +215,17 @@ A forge that works exclusively in the rare metals of the Faewild — **Starfall 
 
 ### The Greensward Canton — (Root)
 
-The lowest Canton: bioluminescent terraced farms and druidic groves, where the buildings are barely distinguishable from the living landscape. The Circle of the Root are druids and agriculturalists who harmonise with the volatile magic of the Faewild to grow food and harvest resources safely. Its Meridian, Warden Sylvaris, is a wilder, less formal elf who keeps to the terraces, suspicious of outsiders and the most isolationist voice on the council. The Canton's Nexus is the Sanctum Canoporium, so overgrown with moss, flowering vine, and luminescent fungus that there is no telling where the building ends and the living world begins.
+*Lower Canton · Circle: [[Circle of the Root]] · Meridian: [[Warden Sylvaris]] · Nexus: [[Sanctum Canoporium]]*
+
+The lowest Canton: bioluminescent terraced farms and druidic groves, where the buildings are barely distinguishable from the living landscape. The Circle of the Root are druids and agriculturalists who harmonise with the volatile magic of the Faewild to grow food and harvest resources safely. Sylvaris is a wilder, less formal elf who keeps to the terraces, suspicious of outsiders and the most isolationist voice on the council.
+
+#### Sanctum Canoporium *(Nexus)*
+
+So overgrown with moss, flowering vine, and luminescent fungus that there is no telling where the building ends and the living world begins; soil and trailing roots hang beneath it when it floats.
+
+#### The Emerald Construct *(memorial)*
+
+The towering bronze portal-frame of the [[Emerald Ceremony]], dormant since the day the hundred crossed. Families of those who went still come here to lay flowers and remember names.
 
 ## Landmarks
 
@@ -178,41 +241,19 @@ The [[Vault of Memories]] is the sealed chamber beneath the Royal Citadel, reach
 
 The [[Heartstone]] is the natural column of white stone rising from the caldera floor at the centre of the Commons. The first structure the early elves raised stood at its base, and the stone itself predates the city by unknown centuries.
 
-### The Nexuses
+### The Bridge of Recollection
 
-Each of the seven Cantons is anchored by a **Nexus** — a citadel-scale structure capable of lifting from its foundation and drifting above the city, docking again at need. When the [[#The Confluence of the Seven|Confluence]] is called, all seven rise together.
+The sole approach to the Royal Citadel, a single spiralling stone span carved along its full length with relief panels depicting the 2,000-year history of the elven people.
 
-| Nexus                      | Circle                   | Description                                                                                                                                                                                          |
-| -------------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Locus Arcanum]]          | [[Circle of the Weave]]  | A perfect sphere of translucent crystal encircled by slowly turning golden orrery rings; interior aglow with blue-violet light and every surface etched with star charts.                            |
-| [[Palisade Eternal]]   | [[Circle of the Blade]]  | A squat fortress tower of dark grey stone, its face dominated by a giant elven broadsword mounted vertically; arrow slits glow faintly red.                                                          |
-| [[Luminarium]]         | [[Circle of the Dawn]]   | An enormous glass-and-copper conservatory with a domed roof; when aloft, living vines trail beneath it like ribbons and it glows warm amber.                                                         |
-| [[Oraculum]]           | [[Circle of the Scroll]] | A tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky.                                                                          |
-| [[Justicium]]          | [[Circle of the Scales]] | Perfectly bisected: one half gleaming white marble, one half polished black stone; a great set of scales adorns its roofline.                                                                        |
-| [[Architecton]]        | [[Circle of the Loom]]   | Covered in permanent decorative scaffolding and cranes frozen mid-swing — a master architect's greatest unfinished work.                                                                             |
-| [[Sanctum Canoporium]] | [[Circle of the Root]]   | So overgrown with moss, flowering vine, and luminescent fungus that there is no telling where the building ends and the living world begins; soil and trailing roots hang beneath it when it floats. |
+### The Shivering Veil
 
-### The Confluence of the Seven
-
-The Confluence of the Seven is the point at which the seven Nexus citadels converge — and, by the same name, the council of all seven Meridians that gathers there. It is at once a place and an assembly: to "call a Confluence" is to summon every Meridian of the Circles to council, and the city has done so only a handful of times in all its history, most recently at the Exile.
-
-When a Confluence convenes, the seven Nexuses lift from their cantons and rise together, docking at the peak of the Royal Citadel on a crystalline platform open to the Faewild sky, bridges of solidified light strung between them while the whole city watches from below. No matter is brought before it that could be settled in any single Canton; the Confluence exists for decisions that bind all of Sumara at once. In the century since the Silmara line was lost, its rulings have stood as the highest authority in the city, though by long custom the empty seat of the Royal Citadel is reckoned to sit above even the assembled Seven.
+A great waterfall pouring down from the southern rim — from a distance, a curtain of silver light. It splits around the Luminary Canton before being channelled into glowing blue aqueducts that thread the city below; its sound is a constant in the mid and lower cantons.
 
 ## Factions
 
 ### The Circles
 
-The seven Circles are the ancient orders through which Sumara governs itself, each tending one facet of the city's life and each seated in its own Canton. Their Meridians together form the [[#The Confluence of the Seven|Confluence of the Seven]], the council that holds authority over the city in the absence of the [[Silmara Family|Silmara]] royal line.
-
-| Circle                   | Canton     | Description                                                                                                                                                              |
-| ------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Circle of the Weave]]  | Etherean   | Keeps the city's wards and arcane research; committed its finest artifacts to the lost Emerald Ceremony.                                                                 |
-| [[Circle of the Blade]]  | Ironsward  | Sumara's military order under [[Kaelen Vayne]] — the order that has effectively governed the city in the royal line's absence.                                           |
-| [[Circle of the Dawn]]   | Luminary   | Healers and alchemists; the gentlest of the seven Circles and the keepers of the city's reliance on Faewild flora.                                                       |
-| [[Circle of the Scroll]] | Mnemorium  | Sumara's archivists, tending deep stone libraries with centuries of historical records — the Material Plane, the [[Chaos Wars]], and the [[Silmara Family\|Silmara]] lineage among them.  |
-| [[Circle of the Scales]] | Judicant's | Judges and diplomats; in a century of isolation they have arbitrated every dispute within the city's walls.                                                               |
-| [[Circle of the Loom]]   | Fundament  | Builders and enchanters who weave magic into stone and glass; every Nexus, aqueduct, and bridge of solidified light in Sumara is their work.                             |
-| [[Circle of the Root]]   | Greensward | Druids and agriculturalists under [[Warden Sylvaris]] — the most isolationist voice on the council and the most suspicious of outsiders.                                 |
+The seven Circles are the ancient orders through which Sumara governs itself; see [[#Government]] for each Circle's Canton, Meridian and Nexus, and [[#Districts]] for its seat. Their Meridians together form the [[#The Confluence of the Seven|Confluence of the Seven]].
 
 ### Skyguard
 
@@ -230,7 +271,7 @@ Cresting the [[Shimmering Peaks]], the party saw Sumara for the first time and e
 
 #### [[Session 47 - Confluence of the Seven]]
 
-Ayana led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion forty years in the making gave way to a full briefing on the Empire — and when [[Ryo]] turned his hand to show his signet ring, the revelation that the [[Silmara Family|Silmara]] royal line still lived.
+Ayana led the party cloaked through the Etherean Canton to the [[Locus Arcanum]], home of her old companion [[Illythia Voss]]. A reunion nearly seventy years in the making gave way to a full briefing on the Empire — and when [[Ryo]] turned his hand to show his signet ring, the revelation that the [[Silmara Family|Silmara]] royal line still lived.
 
 #### [[Session 48 - The Vault of Memories]]
 
@@ -247,6 +288,10 @@ Morning broke unusually warm over the [[Royal Citadel]], which had woken to its 
 #### [[Session 51 - The Last Light]]
 
 The party spent their last morning in farewells at the [[Locus Arcanum]], then climbed to the archives of the Circle of the Scroll, where an old archivist told them the oldest history of all — of [[Ryordan Silmara]] and the sundering of the [[World Tree]]. Carried by griffins past the [[Heartstone]] to the waterfall cliffs, they descended toward the threshold of the [[Vale of Eternal Night]].
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+The party returned from the [[Vale of Eternal Night|Vale]] with [[Asha Vayne]] hooded at their side and passed down through the city to the bridge before the [[Royal Citadel]], where the ceremonial guards let [[Ryo]] through with barely a glance; in the Citadel, Asha was reunited with his father [[Kaelen Vayne|Kaelen]]. The party then scattered on errands across the Cantons: [[Eryndor]] and [[Kai]] to [[Arcanist Levvel]]'s Diminished Trove in the Etherean Canton; Kai to the Fundament Canton — home of the city's architects and engineers, who build its aqueducts and the enchantments of its floating structures — and to a tattoo parlour, learning that Sumara keeps no holy water, its only faith being the [[World Tree]], and that metal is a complicated matter for the fae; [[Berberis]] to [[Warden Sylvaris]] in the Greensward; and [[Dondar]] to the [[Locus Arcanum]]. The party learned too that the elves are fae, and that Sumara, not [[Ithilmara]], is their true homeland — they did not flee [[Valtorra]] but withdrew home. The day closed beneath the [[Heartstone]], where [[Ayana Syndrosa|Ayana]] departed through the city's great [[World Gates|World Gate]].
 
 ## Trivia
 

@@ -85,6 +85,10 @@ Marking the apothecary's assistant [[Hugor]] as the informant who had betrayed [
 
 Under cover of darkness in the woods at the forest's edge, the party laid a ruthless ambush for the Imperial soldiers pursuing them, drawing [[Captain Lucius Draegor]] and his squad into a prepared kill zone of pit traps and tripwires and annihilating them. The interrogation that followed named the blacksmith [[Dhorik]] as the man who had sold [[Ryo]] out, and the bodies were left to the wood.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+In the [[Lectorium]] of Sumara, [[Kai]] found a scroll describing an ancient civilisation of grand temples and structures that once stood where the Darkwood grows, before it fell in the [[Chaos Wars]]. He connected it to the [[Emberspire]]. Through his crystal ball, [[Ryo]] confirmed that [[General Korvas|Korvas]] had not yet reached the wood.
+
 ## Trivia
 
 - Lighthaven's children are raised on cautionary folktales about the Darkwood, passed down as a warning to keep clear of its edge — a body of frontier lore as old as the town itself.

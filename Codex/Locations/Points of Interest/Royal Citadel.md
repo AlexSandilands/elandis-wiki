@@ -84,6 +84,10 @@ Morning broke unusually warm over the Citadel, which had woken with its heir: [[
 
 As the party prepared to leave Sumara for [[Caer Nystral, The Dawnless City]], griffin-riders bore them past the Citadel and the Heartstone toward the cliffs, and they spoke of using the Citadel's World Gate to send [[Ayana Syndrosa|Ayana]] home to the Material Plane on their return. They departed without convening the council again, leaving the woken Citadel quiet behind them.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+The party brought [[Asha Vayne]] here to meet his father away from prying eyes. The Citadel holds no throne room — a royal's only seat of station is the neutral place on the council at the Confluence — so they took a room with a long table, an ever-burning fire and great windows over the city, where Asha, inside for the first time, put his feet up on the table. The girl Ellessa stood at its window and gave [[Ryo]] a glimpse of something far older than a child. [[Ayana Syndrosa|Ayana]] and [[Illythia Voss|Illythia]] came down the stair from the council platform with [[Kaelen Vayne|Kaelen]], warded a side room against scrying, and there heard Ryo's account of the Vale; in the main room Kaelen and Asha were reunited. Afterwards the girl ran the halls — bouncing on couches, climbing the tree in the open courtyard, and swinging from a chandelier.
+
 ## Trivia
 
 - The Citadel has no throne room. For a royal seat reckoned to sit above the whole Council of Sumara, its only "throne" is a single empty chair at the Confluence table — reached not by being raised over petitioners, but by a Silmara rising, alone and under their own power, through the heart of their own home.

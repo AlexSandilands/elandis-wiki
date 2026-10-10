@@ -43,7 +43,7 @@ The Circle is led by its Meridian, **[[Archivist Elrohir Gemflower]]** — ancie
 
 ## The Archives
 
-The Circle seats itself in the **Mnemorium Canton**, the upper northern face of the caldera, half carved into the cliff and half standing above it — deep stone halls kept in a perennial dim light to spare the old records. Its Nexus is the **[[Oraculum]]**, a tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky. Below and within run the libraries proper: tier upon tier of shelved scrolls and tomes, some open to any citizen, others — maps and histories the Circle deems dangerous — kept restricted and shown to no one without cause.
+The Circle seats itself in the **Mnemorium Canton**, the upper northern face of the caldera, half carved into the cliff and half standing above it — deep stone halls kept in a perennial dim light to spare the old records. Its Nexus is the **[[Oraculum]]**, a tower of light-drinking indigo stone crowned by a slowly turning crystal lens that throws shifting glyphs across the sky. Below and within run the libraries proper, the [[Lectorium]]: tier upon tier of shelved scrolls and tomes, some open to any citizen, others — maps and histories the Circle deems dangerous — kept restricted and shown to no one without cause.
 
 ## History
 
@@ -57,4 +57,4 @@ At the [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the 
 
 #### [[Session 51 - The Last Light]]
 
-On their last morning in the city the party climbed by griffin to the Circle's archives in the Mnemorium Canton, where the librarian Silvana and the archivist Aaroun guarded knowledge of the [[Vale of Eternal Night]] closely. Coaxed into a search that turned up nearly everything the stacks held, Aaroun at last drew back the curtain on the oldest history of all — [[Ryordan Silmara]] and the sundering of the [[World Tree]] — though he refused to let them copy the restricted map of the Vale.
+On their last morning in the city the party climbed by griffin to the Circle's archives in the [[Lectorium]], where the librarian Silvana and the archivist Aaroun guarded knowledge of the [[Vale of Eternal Night]] closely. Coaxed into a search that turned up nearly everything the stacks held, Aaroun at last drew back the curtain on the oldest history of all — [[Ryordan Silmara]] and the sundering of the [[World Tree]] — though he refused to let them copy the restricted map of the Vale.

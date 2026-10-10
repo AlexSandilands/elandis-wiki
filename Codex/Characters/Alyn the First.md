@@ -62,3 +62,7 @@ Kai and [[Eryndor]] visited [[St. Avelines]] to meet Alyn and Brother Calem. Whe
 #### [[Session 44 - The Elven Archmage]]
 
 During a period of downtime in Val Noren, Kai devoted his time to the Cathedral of St. Avalines, continuing Alyn's instruction in the rites and lore of Selûne alongside the other new acolytes.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+From [[Sumara, The Shining City|Sumara]], [[Kai]] sent Alyn a sending: *"Disciple Alyn, never lose faith, seek Selûne's guidance. A gift is buried beneath the Silver Oak in St. Aveline's."* She replied that her faith did not waver and that many were beginning to learn and follow. Kai had buried a hundred platinum a foot down among the oak's roots, with [[Selûne]]'s sigil carved into its bark.

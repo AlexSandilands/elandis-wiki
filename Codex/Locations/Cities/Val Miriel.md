@@ -230,6 +230,10 @@ With the city locked down under curfew after the unrest, [[Kai]] and [[Dondar]] 
 
 The party left Val Miriel for good through the [[Underrun]], guided by [[Trak Aeris]] of the [[Order of Ravens - Val Miriel|Order of Ravens]]. After a gruelling passage through flooded tunnels, heat-hungry brown mould, and corrosive black puddings, they surfaced in the wintry grasslands north of the city.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+Scrying from [[Sumara, The Shining City|Sumara]], [[Ryo]] saw a city glowing with embers. The rubble barricades that once held only the southern quarter had spread, and the Military Way was lit and heavily fortified. [[Vallania Miriel|Vallania]] reported that things were tense and help was needed soon, and [[Governor Tarlis Evandron|Tarlis]] wrote that matters were getting dire. Ryo asked [[Kaelen Vayne]] to put a stealthy elven strike force to the Council to aid the city.
+
 ## Trivia
 
 - The river-gate and the river-crossing — Valena's Portal and [[Valena's Bridge]] — are named for Valena, a founding-era ancestor of House Miriel, forebear of [[Vallania Miriel]] and her late mother Vallarra.

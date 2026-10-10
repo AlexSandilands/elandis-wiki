@@ -88,6 +88,10 @@ In the battle against [[Ymrageth]] and her coven, the blade behaved strangely: i
 
 On the late watch of a long rest hidden in the jungle of the [[Vale of Eternal Night]], [[Eryndor]] drew the blade and found it responding to his touch: spirals of golden energy running up and down the steel and around his hand. Holding the sword upright between his palms and meditating on it, he felt it awakening — there is more to the Emberblade than he had anticipated, and its true properties have now revealed themselves to him.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Eryndor]] showed the sword to [[Arcanist Levvel]] at the Diminished Trove, on whose advice he had begun channelling his magic through it. She saw at once that it had grown and changed since she last read it — something within it had woken — and, pleased to have helped uncover the mystery, asked whether he had changed his mind about selling. He promised that if he ever did, she would be top of the list.
+
 ## Trivia
 
 - The Emberblade takes both its name and its power from the [[Emberspire]] and the [[Emberlight Vigil]], the festival on whose 457th night it was made.

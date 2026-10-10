@@ -74,6 +74,10 @@ Descending from the [[Royal Citadel]] the morning after [[Ryo]] proved his claim
 
 On their last morning in Sumara, griffin-riders of the mage guard carried the party out over the Heartstone and the [[Royal Citadel]] to the waterfall cliffs at the caldera's rim, where vast stone elevators descend the rock face — the party's final pass over the spire before they turned toward the dark of the [[Vale of Eternal Night]].
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+The stair that spirals up the Heartstone to the [[Royal Citadel]] passes a massive arched stone door partway up. Behind it, as [[Ayana Syndrosa|Ayana]] revealed, lies a vast cavern like the halls of the [[Vault of Memories]], ringed with faintly glowing rune-carved pillars and holding a [[World Gates|World Gate]] far grander than [[Ithilmara]]'s. There [[Ryo]] opened the Gate to send Ayana home to [[Val Noren]].
+
 ## Trivia
 
 - The Heartstone Commons, the Bridge of Recollection, and the [[Royal Citadel]] are all arranged around the spire — the entire layout of Sumara radiates from the single point where the elves first built.

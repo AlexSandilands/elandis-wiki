@@ -72,7 +72,7 @@ When the last of her three coven-sisters fell, Ymrageth played her final trick: 
 * **Reward Obtained:** a crooked black-thorn staff of the woodlands — a trophy taken from a wood-power the crone unmade — claimed by [[Berberis]].
 * **Reward Obtained:** the soul-debt hoard — 3,000 gp in gems worked into the den's walls, each stone payment on one of the crone's bargains.
 * **Reward Obtained:** a scroll case of three scrolls — Seeming, Summon Fey, and Summon Fiend — taken by [[Dondar]].
-* **Reward Obtained:** the Crone's Eye, a crystal ball of smoke-grey crystal — the instrument behind Ymrageth's long watching.
+* **Reward Obtained:** the [[Crone's Eye]], a crystal ball of smoke-grey crystal — the instrument behind Ymrageth's long watching.
 * **Reward Obtained:** the sword and quiver looted from the shop in [[Caer Nystral, The Dawnless City|Caer Nystral]] were also identified — a +1 shortsword, and a quiver holding six +1 arrows and four +2 arrows.
 * The session ended with the group identifying the magical items found in the treasure hoard; the grimoire, gems, and crystal ball remain unallocated.
 

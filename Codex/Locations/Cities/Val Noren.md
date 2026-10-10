@@ -191,6 +191,10 @@ In a coordinated pre-dawn operation, the party infiltrated and silenced both riv
 
 The morning after liberation. Marius received the party in formal audience — rewarding them with twenty thousand gold in platinum, Greater Healing Potions, and a family heirloom [[Renite Steel]] dagger. [[Ayana Syndrosa|Ayana Wynne]] taught [[Dondar]] the Teleportation Circle sigil for Val Noren and [[Glimmerforge]]. [[Kai]] visited the [[Stoneheart]], negotiated permission to teach Selune's rituals to the acolytes, and then purified the Dread General's cursed armour in a vision of the Astral Plane. The refined metal was forged into the Moonlit Aegis by Helda Coalbraid at the Ashen Forge in a divine fugue state.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+From the [[World Gates|World Gate]] beneath the [[Heartstone]] in [[Sumara, The Shining City|Sumara]], [[Ryo]] opened the way onto Val Noren's snowy farmlands — the fields where he had once spent eight hours channelling a spell — and [[Ayana Syndrosa|Ayana]] crossed home invisible to keep watch on [[King Marius Noren|Marius]]. The city's teleportation circle, known to [[Dondar]], figured in the party's reckoning of how they might return from the Material Plane to the Faewild.
+
 ## Trivia
 
 - The prefix *Val-* runs through the names of the continent's six ancient human kingdoms — Val Noren, [[Val Miriel]], Val Luminor, Val Solis, Val Aran, and Val Aerie. It is a relic of the Kingdoms of Old; the most common interpretation is simply "seat" or "hold," making each name a variant of "the hold of its people or its founder."

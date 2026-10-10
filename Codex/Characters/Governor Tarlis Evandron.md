@@ -89,6 +89,10 @@ With [[King Marius Noren]] restored to power in his city, Marius discussed plans
 
 A recovered memory surfaced of [[Vallania Miriel]] presenting the party to her father. In the memory, Tarlis Miriel arrived alone, with no flanking guards — a small but telling detail about the private face of a man who governs by calculation.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+Eryndor's sending stone brought a terse reply from Tarlis to the party's earlier news: *"Good to hear from you. Excellent news. When are they giving us support? Things are getting dire out here."* His daughter [[Vallania Miriel|Vallania]] told the party he was playing both sides, keeping the city in hand alongside [[General Varan Brado|General Brado]] while secretly backing the rebellion, and that he didn't know what she was doing.
+
 ## Trivia
 
 - Tarlis's authority rests entirely on the Miriel name through marriage, a fact his political rivals have never let him forget. In a city named for his dead wife's family, he has spent decades proving he deserves to be there.

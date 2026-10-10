@@ -33,7 +33,7 @@ aliases:
 > Gender | Male |
 > Pronouns | He/Him |
 > Place | [[Sumara, The Shining City\|Sumara]] |
-> Connections | [[Sumara, The Shining City#The Confluence of the Seven|Confluence of the Seven]] |
+> Connections | [[Sumara, The Shining City#The Confluence of the Seven\|Confluence of the Seven]] |
 > Profession | Meridian of the Blade |
 > ###### Status
 > Attribute |  Details |
@@ -69,3 +69,11 @@ Though far away in [[Sumara, The Shining City|Sumara]], Kaelen's lost son surfac
 #### [[Session 55 - The Long Hunt]]
 
 Kaelen's son is on his way home. Freed from the [[Vale of Eternal Night]] and woken as himself with no memory of the last sixty years, [[Asha Vayne|Asha]] rode with the party to the gates of [[Sumara, The Shining City|Sumara]], having offered to ask his father to find a home for the elven girl brought out of the Vale with him. Kaelen does not yet know.
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Ayana Syndrosa|Ayana]] finally talked the old commander down from the council platform into the [[Royal Citadel]], where he greeted [[Ryo]] as an outsider who should never have been allowed to stay and told him the only present he wanted was for Ryo to leave. While he waited, [[Berberis]] brought him a cup of wine and the two talked militias; Kaelen laid out the city's defences — a ceremonial royal guard at the nexuses and the Citadel, the [[Skyguard]] on griffins and wyverns, and the [[Palisade Eternal]] as the seat of martial training. Then Ryo stepped aside from a doorway, the glass fell from Kaelen's hand, and he found his son [[Asha Vayne|Asha]], sixty years lost, sitting at the table. He went ashen, crossed the room and held him — *"I'm so sorry. I thought you were dead."* He rounded on Ryo, demanding to know whether he was playing games with his son, then stopped, laid a hand on his shoulder and apologised. To Ryo's eye, a wall Kaelen had held for years was beginning to crack, and something like respect showed through; when Ryo told him he had protected the city well and would be relied on again, Kaelen bowed from the waist before leaving with Asha. Berberis's parting word — that sometimes a little change is needed to make things happen — drew a quiet *"I think you might be right."*
+
+#### [[Session 57 - On the Eve of Hell]]
+
+Summoned by Kai's sending while catching up with [[Asha Vayne|Asha]], Kaelen received [[Ryo]] and [[Kai]] that night in his private chambers at the [[Palisade Eternal]]. He admitted his long creed of strength through withdrawal from the Material Plane may have been the wrong path, apologised again for calling Ryo an outsider, and laid out the city's strength: soldiers and mages of the Circles of the Blade and the Weave, and the [[Skyguard]]. He told Ryo that the Council meant to strike back into the Material Plane at the right moment, and that *"if you call for us as our leader, we will come."* Noting with approval Ryo's use of "we", he agreed to begin readying Sumara's forces quietly, and to take Ryo's request for a stealthy strike force to [[Val Miriel]] to the Council. He humoured Kai's sketches of spell-enchanted spears and sky-sailing ships, pointing out that skyships are common on [[Seraphon]].

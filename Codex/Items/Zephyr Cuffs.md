@@ -84,7 +84,7 @@ When [[The Bloody Nails]] needed a way down from the [[Shimmering Peaks]] toward
 
 #### [[Session 51 - The Last Light]]
 
-The party collected their five sets in the [[Sumara, The Shining City#The Ironsward Canton — Circle of the Blade|Ironsward]], where [[Skyguard Caeryn]] — the same officer who had clapped them in irons on their arrival — handed the cuffs over grudgingly to settle a debt he owed [[Ayana Syndrosa|Ayana]], on the promise of their swift return. After [[Berberis]] read the weather as calm, the party attuned to the cuffs within a Tiny Hut, climbed to the high peaks, and leapt into open air. The cuffs hauled their arms wide and bore them north at breakneck speed; the [[Shimmering Peaks]] warped away into the distance the instant they crossed the [[Liar's River]] — until a Roc the size of a house stooped out of the sky to hunt them. They angled down, the cuffs flared to set them gently on the ground, and the party broke into a run for the wall of eternal night.
+The party collected their five sets in the [[Sumara, The Shining City#The Ironsward Canton — (Blade)|Ironsward]], where [[Skyguard Caeryn]] — the same officer who had clapped them in irons on their arrival — handed the cuffs over grudgingly to settle a debt he owed [[Ayana Syndrosa|Ayana]], on the promise of their swift return. After [[Berberis]] read the weather as calm, the party attuned to the cuffs within a Tiny Hut, climbed to the high peaks, and leapt into open air. The cuffs hauled their arms wide and bore them north at breakneck speed; the [[Shimmering Peaks]] warped away into the distance the instant they crossed the [[Liar's River]] — until a Roc the size of a house stooped out of the sky to hunt them. They angled down, the cuffs flared to set them gently on the ground, and the party broke into a run for the wall of eternal night.
 
 #### [[Session 52 - The Star-Veiled Queen]]
 
@@ -93,6 +93,10 @@ The cuffs earned the party one more crossing inside the Vale. Following the blac
 #### [[Session 55 - The Long Hunt]]
 
 The cuffs carried the party out of the Hunt's reach. Chased up a mountainside in the [[Vale of Eternal Night]] by a band of armoured centaurs and a monstrous worg, the party charged the bands at the clifftop and leapt into the air as arrows flew — the shots fell short, the worg was left howling on the edge, and hours of gliding carried them most of the way to the Vale's border, buying a full day on their pursuers.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+With the Vale behind them, [[Ryo]] gathered all five pairs and returned them to the [[Skyguard]], as promised.
 
 ## Trivia
 

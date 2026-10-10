@@ -91,6 +91,14 @@ The Vault became a bargaining chip in the Vale. Among the terms [[Mirileth]] set
 
 Word of the Queen's price reached the Vault's keeper. By sending from the Vale's throne room, the party told [[Praetor'Varanous|Praetor]] that [[Mirileth]] holds the soulstone and wants entry to the Vault in exchange. His reply judged admitting her inadvisable — but ultimately the [[Silmara Family|Silmara]]'s decision, and no one else's. The doors that answer only to Silmara blood now wait on [[Ryo]]'s choice.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+The Vault became the subject of the party's hardest decision. Back in [[Sumara, The Shining City|Sumara]] with [[Mirileth|the Star-Veiled Queen]]'s vessel, the girl Ellessa, in tow, [[Ryo]] told [[Ayana Syndrosa|Ayana]] and [[Illythia Voss|Illythia]] that she wanted inside. Ayana was clear that opening it was Ryo's choice alone, and admitted no one knew whether the Vault's magic might answer the girl's own blood. Speculating on what she wants there — something left behind, knowledge she needs, or a curse set in the root to bring the city down a century hence — the party found no way around the bargain: the Queen will not release the stone until she has been inside. They resolved to research the Hells, gear up, and then open the Vault before going straight on to the Hells.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+After a long rest, the party gathered in the lower chambers of the [[Royal Citadel]] before the Vault's dais, the girl Ellessa led by the hand, waiting for [[Ryo]] to open it.
+
 ## Trivia
 
 - The doors answer only to Silmara blood, which is precisely why the Confluence could accept the Vault as unforgeable proof of a royal claim: no spell, tool, or force has ever been known to open them otherwise.

@@ -187,6 +187,7 @@ Every place worth naming, from the world itself down to a single back-alley tave
 - [[Goblin Lair]]
 - [[High Sept]]
 - [[Justicium]]
+- [[Lectorium]]
 - [[Liar's River]]
 - [[Locus Arcanum]]
 - [[Luminarium]]
@@ -269,6 +270,7 @@ Notable artifacts, relics and magic items — the named blades, talismans and cu
 
 ### Very Rare
 
+- [[Crone's Eye]]
 - [[Emberblade]]
 - [[Ymrageth's Grimoire]]
 

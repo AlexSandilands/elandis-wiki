@@ -33,10 +33,4 @@ The Oraculum anchors the Mnemorium Canton, on the upper northern face of Sumara'
 
 ## Seat of the Scroll
 
-The Oraculum is the seat of the [[Circle of the Scroll]] — Sumara's archivists and lore-keepers — and its Meridian, Archivist Elrohir Gemflower, ancient and absent-minded, with its halls run day to day by the head librarian, Aaroun. Within its deep stone libraries lie the most extensive historical archives in the known world: centuries of records covering the Material Plane, the [[Chaos Wars]], and the [[Silmara Family|Silmara]] lineage.
-
-## [[The Bloody Nails|Campaign: The Bloody Nails]]
-
-#### [[Session 51 - The Last Light]]
-
-The party climbed to the archives of the Oraculum, where an old archivist told them the oldest history of all — of [[Ryordan Silmara]] and the sundering of the [[World Tree]].
+The Oraculum is the seat of the [[Circle of the Scroll]] — Sumara's archivists and lore-keepers — and its Meridian, Archivist Elrohir Gemflower, ancient and absent-minded, with its halls run day to day by the head librarian, Aaroun. The Circle keeps the most extensive historical archives in the known world: centuries of records covering the Material Plane, the [[Chaos Wars]], and the [[Silmara Family|Silmara]] lineage. Most of that knowledge lives in the [[Lectorium]], the great library carved into the cliff below, which stays open to scholars whether or not the Nexus is at its anchor. The Oraculum itself holds the Circle's rarest and most closely guarded records.

@@ -114,6 +114,10 @@ Following the liberation of [[Val Noren]], the party departed with the [[Mawbrea
 
 In a private conversation, Ryo noted settling things with Korvas as one of the party's outstanding objectives. As of this session, the General remains at large.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Ryo]] turned his newly attuned crystal ball on Korvas and saw him through a snowstorm: hood up, long red cloak, his great sword over his shoulder, riding at the head of imperial soldiers along the northern coast road of [[Valtorra]]. He was not yet in the [[Darkwood]], nor on the Frostway.
+
 ## Trivia
 
 - Session 36 bears Korvas's name as its title — the session in which his restoration is the central, shattering event of the campaign arc. He shares this distinction with very few characters in the campaign.

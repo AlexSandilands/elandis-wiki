@@ -64,6 +64,10 @@ The party's first attempt to plant Belinda's piton ended in disaster. [[Dondar]]
 
 Forced to abandon magic near the tower, the party devised a mechanical solution — modifying a crossbow bolt to carry the piton and firing it into the masonry, timed to the noise of a festival game so the impact went unheard. At midnight the Spire lit and its golden power surged, and [[Belinda Bubblegum|Belinda]] siphoned a fraction of it through the embedded conduit to forge the [[Emberblade]] in her workshop. The night's harvest also went toward the teleportation rod she had spent years working to build.
 
+#### [[Session 57 - On the Eve of Hell]]
+
+Researching in the [[Lectorium]] of [[Sumara, The Shining City|Sumara]], [[Kai]] found a scroll describing an ancient civilisation of grand temples on the land where the [[Darkwood]] now grows, fallen in the [[Chaos Wars]]. It made him think of the Emberspire, so out of place and covered in anti-magic runes, as possible evidence of it.
+
 ## Trivia
 
 - The name *Lighthaven* describes the town's lifeline rather than its mood — a fog-bound, snow-locked hollow on the edge of a monstrous wood, it is "haven" only because of the light the Emberspire throws against the dark.

@@ -77,6 +77,10 @@ Battered and covered in sludge after a gruelling passage through the flooded tun
 
 At the Confluence of the Seven, [[Eryndor]] produced the amulet and Archivist Elrohir identified it immediately as ancient Underdark work. It surfaced alongside the party's recollection of the four planar rifts they had encountered — among them the Arachnid Queen's cave — drawing a quiet line between the trinket and far stranger things.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+In [[Sumara, The Shining City|Sumara]], [[Eryndor]] brought the amulet to [[Arcanist Levvel]] at the Diminished Trove, uneasy since its Underdark make had been remarked on at the Confluence. With an exceptional reading she found more in it than its known properties: a dormant, latent power that did not feel arcane, as if some greater entity had imbued it, its magic from the deep places. She could not discover what that power does, and told Eryndor to be careful with it.
+
 ## Trivia
 
 - The amulet's name comes from its form and its gifts rather than any inscription — the identity of the "Arachnid Queen" it honours is unknown, and a matter of uneasy speculation among those who have studied it.

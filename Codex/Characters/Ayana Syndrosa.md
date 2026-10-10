@@ -6,7 +6,7 @@ Gender: Female
 Pronouns: She/Her
 Age: ~700
 Languages: Common, Elvish, Sylvan
-Place: "[[Sumara, The Shining City|Sumara]]"
+Place: "[[Val Noren]]"
 Connections:
   - "[[Circle of the Weave]]"
   - "[[Illythia Voss]]"
@@ -41,7 +41,7 @@ aliases:
 > Pronouns | She/Her |
 > Age | ~700 |
 > Languages | Common<br>Elvish<br>Sylvan |
-> Place | [[Sumara, The Shining City\|Sumara]] |
+> Place | [[Val Noren]] |
 > Connections | [[Circle of the Weave\|The Weave]]<br>[[Illythia Voss]]<br>[[King Marius Noren\|Marius Noren]]<br>[[The Bloody Nails]] |
 > Profession | Archmage<br>Meridian of the Weave (former) |
 > ###### Status
@@ -49,7 +49,7 @@ aliases:
 > ---|---|
 > Status | Alive |
 
-**Ayana Syndrosa** is an elven archmage and the former Meridian of the [[Circle of the Weave]] in [[Sumara, The Shining City|Sumara]]. For centuries she was one of the most respected figures in the city, guiding the Circle through an era of isolation — until she gave it all up. Forty years ago, she departed through the [[Emerald Ceremony]], leaving behind her position, her home, and the woman she loved, to investigate a growing darkness on the Material Plane.
+**Ayana Syndrosa** is an elven archmage and the former Meridian of the [[Circle of the Weave]] in [[Sumara, The Shining City|Sumara]]. For centuries she was one of the most respected figures in the city, guiding the Circle through an era of isolation — until she gave it all up. Sixty-eight years ago, she departed through the [[Emerald Ceremony]], leaving behind her position, her home, and the woman she loved, to investigate a growing darkness on the Material Plane.
 
 For decades she lived in secret among humans, adopting the name **Ayana Wynne** and posing as a young advisor to [[King Marius Noren|Marius Noren]] in [[Val Noren]]. It was through Marius that she first crossed paths with [[The Bloody Nails]], and she has travelled alongside them since — eventually returning to Sumara for the first time since her departure.
 
@@ -65,7 +65,7 @@ In Sumara she favours layered robes in deep blues and muted silvers, with faint 
 
 Ayana is measured, deliberate, and deeply principled — though not without a dry sense of humour that surfaces at unexpected moments. She listens more than she speaks, and when she does speak, people tend to stop and pay attention. She has a way of cutting to the heart of things that makes argument feel redundant.
 
-Beneath the composure is someone who feels things intensely. Her decision to leave Sumara cost her everything familiar, and she made it anyway because she believed it was necessary. That willingness to sacrifice — paired with a refusal to ask anyone else to do the same — defines her. It's also her greatest blind spot. She left [[Illythia Voss]] without a proper farewell because she thought a clean break would be kinder. Forty years later, the slap she received upon her return suggested otherwise.
+Beneath the composure is someone who feels things intensely. Her decision to leave Sumara cost her everything familiar, and she made it anyway because she believed it was necessary. That willingness to sacrifice — paired with a refusal to ask anyone else to do the same — defines her. It's also her greatest blind spot. She left [[Illythia Voss]] without a proper farewell because she thought a clean break would be kinder. Nearly seventy years later, the slap she received upon her return suggested otherwise.
 
 ## Biography
 
@@ -121,11 +121,15 @@ After the party's long day in the vault with [[Praetor'Varanous]], a soft blue o
 
 #### [[Session 50 - A New Morning in Sumara]]
 
-When the party climbed to the [[Locus Arcanum]] seeking a way down into the [[Vale of Eternal Night|Vale]], they found Ayana off-duty for the first time in forty years — reclined in a dressing gown with a glass of wine, her hair brushed loose, [[Illythia Voss]] making breakfast nearby. She joked about raiding the Ironsward for griffins to spite [[Kaelen Vayne]], then sent word to a contact and arranged five sets of *Zephyr Cuffs* for the party's descent into the Vale. [[Kai]] served her prestidigitation-flavoured water as *"wine that won't get you drunk,"* and she approved.
+When the party climbed to the [[Locus Arcanum]] seeking a way down into the [[Vale of Eternal Night|Vale]], they found Ayana off-duty for the first time in nearly seventy years — reclined in a dressing gown with a glass of wine, her hair brushed loose, [[Illythia Voss]] making breakfast nearby. She joked about raiding the Ironsward for griffins to spite [[Kaelen Vayne]], then sent word to a contact and arranged five sets of *Zephyr Cuffs* for the party's descent into the Vale. [[Kai]] served her prestidigitation-flavoured water as *"wine that won't get you drunk,"* and she approved.
 
 #### [[Session 51 - The Last Light]]
 
 Over fae [[Joffee|joffee]] in the [[Locus Arcanum]] on the party's last morning in [[Sumara, The Shining City|Sumara]], Ayana confided that she had tried to scry on [[Eirieneth Silmara|Eirieneth]] in the night and met only a blank wall where the woman should have been. She weighed aloud whether the matter should be carried to the [[Sumara, The Shining City#The Confluence of the Seven|Confluence]] at all — Eirieneth had given up her elven name for a quiet human life and might not thank them for dragging her back into it — but [[Eryndor]]'s certainty that his mother would choose freedom over a cell settled her, and she gave her blessing for [[Illythia Voss|Illythia]] to raise it. Asked her age, she admitted to some seven hundred years, her silver hair natural rather than earned. She could not linger long, she said — [[King Marius Noren|Marius]] would be missing her on the Material Plane — but she would wait a few days to see the party safely back from the Vale, and teased [[Kai]] about the very foolish old bargain he had once struck with [[Grinn, The Pale|Grinn]] in the [[Briarshade]].
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+Summoned by [[Kai]]'s message on the party's return from the [[Vale of Eternal Night|Vale]], Ayana talked [[Kaelen Vayne|Kaelen]] down to the [[Royal Citadel]] and hugged [[Ryo]] on arrival. Told he might be scried upon, she and [[Illythia Voss|Illythia]] warded a side room together, and behind it Ryo told them everything — [[Mirileth|the Star-Veiled Queen]]'s true nature, the bargain, and that the girl travelling with them was her vessel and wanted into the [[Vault of Memories]]. Ayana was aghast — *"You brought her here?"* — and took comfort only in [[Grumble, The Anniahilator|Grumble]] having let the girl pass; asked how strong Grumble was, she answered *"How strong is the sun?"* She told Ryo the choice to open the Vault was his alone, scolded the party for making deals with the fae — *"You really are a bunch of children"* — and revealed the [[World Gates|World Gate]] beneath the [[Heartstone]] that could take them to the Hells. Her own work called her back to [[King Marius Noren|Marius]]: in her black leathers and half-moon glasses once more, her ears human again, she watched Ryo open the Gate onto the snowy farmlands of [[Val Noren]], kissed Illythia goodbye, and crossed over invisible, leaving only footprints in the snow and a last *"Thank you, Ryo. It's okay. You can close it now."*
 
 ## Trivia
 

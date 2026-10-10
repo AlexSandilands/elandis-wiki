@@ -83,3 +83,7 @@ She was taken by the Empire while [[Eryndor]] was still a young child, vanishing
 #### [[Session 51 - The Last Light]]
 
 Eirieneth became the subject of the party's last conversation in [[Sumara, The Shining City|Sumara]] when [[Ayana Syndrosa|Ayana]] revealed she had tried to scry on her the night before and could not perceive her at all — only a blank wall where the woman should have been, despite knowing her well. Ayana hesitated over whether to act, warning that Eirieneth had chosen to leave elven society and might be forced back into it if her line were made known; [[Eryndor]] judged she would choose freedom over a cell, and the question of her rescue was left for [[Illythia Voss|Illythia]] to raise at the next [[Sumara, The Shining City#The Confluence of the Seven|Confluence]].
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+The Confluence agreed that something must be done for Eirieneth. [[Illythia Voss]] told the party the Council would unlock the sealed record of the [[Emerald Ceremony]]'s agents to find any stationed in Val Luminor who might know the city and help get her out — the first loosening of those agents' anonymity in a long time. Whether the elves should go further and return to the world in force was left largely to [[Ryo]]. The rescue was weighed and set aside for now while the party turned to the [[Vault of Memories]] and the Hells.

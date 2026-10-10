@@ -39,8 +39,12 @@ The Locus Arcanum is the working heart of the [[Circle of the Weave]]: the place
 
 #### [[Session 47 - Confluence of the Seven]]
 
-[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the Locus Arcanum, the home of her old companion [[Illythia Voss|Illythia]]. A reunion forty years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]] — and when [[Ryo]] turned his hand to show his signet ring, the Locus bore witness to the revelation that the [[Silmara Family|Silmara]] royal line still lived.
+[[Ayana Syndrosa]] led the party cloaked through the Etherean Canton to the Locus Arcanum, the home of her old companion [[Illythia Voss|Illythia]]. A reunion nearly seventy years in the making gave way to a full briefing on the [[Valtorran Empire|Empire]] — and when [[Ryo]] turned his hand to show his signet ring, the Locus bore witness to the revelation that the [[Silmara Family|Silmara]] royal line still lived.
 
 #### [[Session 51 - The Last Light]]
 
 The party spent their last morning in Sumara here, in farewells at the Locus Arcanum, before climbing to the archives of the [[Circle of the Scroll]].
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Illythia Voss]], as Meridian of the Locus Arcanum, revealed that she holds the only record of the [[Emerald Ceremony]]'s anonymous agents, which the Confluence has agreed to unlock. She brought [[Dondar]] here to study the tower's teleportation circle, which he committed to memory in a minute, and at the day's end she sketched a circle of her own in the hall of the [[World Gates|World Gate]] and teleported back here for a drink.

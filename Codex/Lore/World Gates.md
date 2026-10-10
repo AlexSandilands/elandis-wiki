@@ -89,6 +89,14 @@ In the archives of the Circle of the Scroll, an old elven archivist told the par
 
 The Gates surfaced again in the bargain struck in the Vale. [[Mirileth]] observed that [[Ryo]], as a [[Silmara Family|Silmara]], could carry the party to the Hells by World Gate rather than by raw planeshifting — the safe road that wounds nothing — when the time came to destroy the reforming [[Maloreth the Patient|Maloreth]]. The same pact would also see the Queen herself brought through to the [[Vault of Memories]] beneath [[Sumara, The Shining City|Sumara]], binding the Gates once more to the unfolding deal.
 
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Ayana Syndrosa|Ayana]] revealed a World Gate at the base of the [[Heartstone]] in [[Sumara, The Shining City|Sumara]], behind stone doors twenty or thirty feet high: a gateway so vast that dozens, perhaps hundreds, could pass at once, with the same small dais and ring-slot as [[Ithilmara]]'s. She explained that a Gate is steered by the opener's concentration on a place — the more familiar, the surer — and that, pointed right, [[Ryo]] could take the party to the Hells. Rather than aim for the sure target of Ithilmara's gate, Ryo focused on the farmlands of [[Val Noren]], where he had once spent eight hours channelling a spell. The ring tugged at his essence, the runes whirled to life, and the stone split along its seam onto snowy fields exactly where he had aimed; Ayana crossed home, and the Gate ground shut when Ryo withdrew the ring. [[Illythia Voss|Illythia]] noted that the elves would need him to send more through. The party also took stock of the Gates' place in their plans: teleportation circles cannot cross planes, so the only road back to the Faewild from the Material Plane remains a Gate such as Ithilmara's.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Ryo]] tested whether anyone else could drive the Gate beneath the [[Heartstone]]. When [[Eryndor]] floated the ring over by mage hand, the hand vanished above the dais and the ring fell. Set into the slot by Eryndor's own hand, the ring pulled itself into place, but the Gate stayed dormant. In the [[Lectorium]], the party learned that even the old Silmara could never open a World Gate onto any layer of the Hells deeper than Avernus.
+
 ## Trivia
 
 - The signet ring that opens the Gates is the same key that unseals the [[Vault of Memories]] — two doors, one bloodline, one bond made at the roots of the world.

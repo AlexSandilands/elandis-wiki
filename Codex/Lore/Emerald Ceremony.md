@@ -1,7 +1,7 @@
 ---
 Type: Lore
 Category: Event
-Era: "Some three to four decades into the Century of Silence"
+Era: "Sixty-eight years ago, thirty-two years into the Century of Silence"
 Outcome: "One hundred volunteers crossed to the Material Plane; the passage one-way"
 Related:
   - "[[World Gates]]"
@@ -25,7 +25,7 @@ aliases: [The Emerald Ceremony]
 > ---|---|
 > Type | Lore |
 > Category | Event |
-> Era | Three to four decades into the Century of Silence |
+> Era | Sixty-eight years ago, thirty-two years into the Century of Silence |
 > Outcome | One hundred volunteers crossed; the passage one-way |
 > ###### Status
 > Attribute |  Details |
@@ -46,7 +46,7 @@ The Circle of the Weave built and powered the working, and named it for the emer
 
 When the [[Valtorran Empire]] rose and the elves of Valtorra faced extinction, the [[Silmara Family|Silmara]] royal line opened the [[World Gates]] and led their people out of the Material Plane into the safety of the Faewild, sealing themselves away. Safety, over the decades, became blindness. The elves had no eyes left on the world they had fled, and the few rumours that filtered through the Fey courts only sharpened the unease: an empire was swallowing Valtorra, and something darker than an empire might be stirring beneath it.
 
-Some thirty to forty years into the silence the Council of the Seven Circles faced the question it had avoided — whether to keep choosing safety, or to risk learning the truth. The debate ran for years. [[Ayana Syndrosa]], then Meridian of the Weave and the youngest to hold that post in living memory, pushed hardest for action: she did not believe it wise to abandon the Material Plane to the Empire entirely. In the end the Council relented and sanctioned a single, narrow exception to the crossing prohibition — for observation and aid, and nothing more.
+Thirty-two years into the silence, sixty-eight years ago, the Council of the Seven Circles faced the question it had avoided — whether to keep choosing safety, or to risk learning the truth. The debate ran for years. [[Ayana Syndrosa]], then Meridian of the Weave and the youngest to hold that post in living memory, pushed hardest for action: she did not believe it wise to abandon the Material Plane to the Empire entirely. In the end the Council relented and sanctioned a single, narrow exception to the crossing prohibition — for observation and aid, and nothing more.
 
 ### The Working
 
@@ -54,7 +54,15 @@ The rite fell to the Circle of the Weave, keepers of Sumara's wards and students
 
 The working centred on a great construct raised in the Greensward Canton of [[Sumara, The Shining City|Sumara]], among the living trees and warm bioluminescent depths at the city's root — a towering portal-frame of bronze and metal. When it was complete and brought to life it filled with a sheet of luminous emerald light, and the volunteers crossed on foot, walking single-file into the glow. The Circle committed its finest instruments and artifacts to power it, the most deliberate and expensive thing it had ever done; its stores have barely recovered since.
 
-One hundred elves volunteered, drawn from across the seven Circles rather than the Weave alone. Ayana Syndrosa led them, handing leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], and walking through without looking back. The hundred scattered across Valtorra to live as ordinary folk and wait, watch, and aid against the Empire from inside it.
+One hundred elves volunteered, drawn from across the seven Circles rather than the Weave alone. Ayana Syndrosa, the Ceremony's architect, chose to go with them, handing leadership of the Weave to her second-in-command and lover, [[Illythia Voss]], much to Illythia's chagrin, and walking through without looking back. The hundred scattered across Valtorra to live as ordinary folk and wait, watch, and aid against the Empire from inside it.
+
+### The Hooded Hundred
+
+The crossing was built for secrecy as much as for distance. Every volunteer came to the portal cloaked and hooded, and none saw the faces of the others or said goodbye as they passed through. None knew who else had volunteered, nor where any of the rest would be stationed once they reached Valtorra. The design was deliberate: an agent captured and interrogated by the Empire could not betray the others, because they did not know them.
+
+The anonymity reached all the way to the top. Even Ayana Syndrosa, who had championed and designed the Ceremony, crossed hooded and unknown. None of the hundred knew that the Meridian of the Weave walked among them.
+
+Only one record ties the hundred together: a sealed roster of who went and where each was posted. It is kept by the Meridian of the Weave at the [[Locus Arcanum]], and for a lifetime it stayed closed. Opening it at all breaks the network's founding promise, and it can be unsealed only by a vote of the [[Sumara, The Shining City#The Confluence of the Seven|Confluence]]. Even then, names are released one at a time, for a clear purpose, since every name revealed puts the others at risk.
 
 ### Aftermath & Legacy
 
@@ -75,6 +83,14 @@ The name first reached the party — and slipped away again — in the halls of 
 #### [[Session 50 - A New Morning in Sumara]]
 
 In Sumara at last, the party felt the Ceremony's long shadow first-hand. The shelves of the Diminished Trove stood nearly bare, its keeper explaining that the city's finest items had gone with the volunteers; and deep in the Greensward they crossed the canton that had once held the great green portal. Above it all they found Ayana herself off-duty for the first time in a lifetime, home in Sumara again beside Illythia — living proof that the Ceremony's one-way road had, against all expectation, finally been reopened.
+
+#### [[Session 56 - Homecomings and Farewells]]
+
+[[Illythia Voss]] told the party how the Ceremony's agents were sent: cloaked and hooded, anonymous even to one another, unable to say goodbye as they passed through, so that none could betray the rest if captured — [[Ayana Syndrosa|Ayana]] among them. The only record of who they are is held by Illythia at the [[Locus Arcanum]]. For the first time, the Confluence has agreed to loosen the binds on these agents and unlock the record, so that any stationed in Val Luminor might help free [[Eirieneth Silmara|Eirieneth]]. Illythia added that the party may already have crossed paths with such agents on their travels without knowing it.
+
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Illythia Voss|Illythia]] told the party the Confluence had been swayed by signs of the Worldbreaker's return, the rising rebellion and a royal held by the Empress, and had opened the ledger. She released one name: Theradin, deep undercover in the central ranks of Val Luminor society as Tobin Ashe. Other names would be released only with Council approval, since every name revealed endangers the rest. [[Kaelen Vayne|Kaelen]] later offered to contact the agent in [[Val Miriel]] through the ledger, to prepare the way for an elven strike force.
 
 ## Trivia
 

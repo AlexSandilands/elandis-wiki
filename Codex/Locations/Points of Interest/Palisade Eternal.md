@@ -34,3 +34,9 @@ The Palisade Eternal anchors the Ironsward Canton, on the mid-elevation western 
 ## Seat of the Blade
 
 The Palisade Eternal is the military command of Sumara, the seat of the [[Circle of the Blade]] and its Meridian, Commander [[Kaelen Vayne]] — who, in the century-long absence of the royal line, has held the council's practical authority. From here the Circle trains the city's border guards, patrols the inner bridges, fields the [[Skyguard]], and keeps the old elven martial traditions alive.
+
+## [[The Bloody Nails|Campaign: The Bloody Nails]]
+
+#### [[Session 57 - On the Eve of Hell]]
+
+[[Ryo]] and [[Kai]] came here by night at [[Kaelen Vayne|Kaelen]]'s invitation, passing the [[Skyguard]] aviaries and walking beneath the great carved sword. In Kaelen's private chambers, Ryo asked him to begin quietly readying Sumara's forces for war on the Material Plane.
