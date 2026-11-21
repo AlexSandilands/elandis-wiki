@@ -99,6 +99,10 @@ The Vault became the subject of the party's hardest decision. Back in [[Sumara, 
 
 After a long rest, the party gathered in the lower chambers of the [[Royal Citadel]] before the Vault's dais, the girl Ellessa led by the hand, waiting for [[Ryo]] to open it.
 
+#### [[Session 58 - Into Avernus]]
+
+The party returned with the girl Ellessa, who showed them the Vault's quickest road. Partway down the spiral stair she leapt from the open edge, and glowing spiral lines caught her and [[Kai]], who dove after her, and carried them gently down past drifting memories and through chambers from different eras. The others followed; the floor stayed shut for [[Dondar]] until he too jumped from the stair. The girl explained that once the Vault has accepted you this is the fastest way down, and that you can steer where you end up. She had last been accepted about two thousand years ago. In the dragon's hall she was revealed as [[Ellesandra Silmara]], reunited with [[Praetor'Varanous|Praetor]] at the dais, and faded away after their time together.
+
 ## Trivia
 
 - The doors answer only to Silmara blood, which is precisely why the Confluence could accept the Vault as unforgeable proof of a royal claim: no spell, tool, or force has ever been known to open them otherwise.

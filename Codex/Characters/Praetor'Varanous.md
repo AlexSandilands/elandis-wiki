@@ -100,6 +100,10 @@ Though far beneath [[Sumara, The Shining City|Sumara]] and unaware of it, Praeto
 
 Reached by [[Kai]]'s sending from the throne room of the Vale, Praetor heard the party's report — the Queen holds the stone, wants a meeting, and demands entry to the Vault — and answered that it was good they had not come to violence. Told that the Star-Veiled Queen is also [[Ryo]]'s ancestor, he replied that this was *"a piece of the puzzle that fits more perfectly than I expected."* On admitting her to the [[Vault of Memories]] he gave his counsel and then set it aside in the same breath: inadvisable, but ultimately the [[Silmara Family|Silmara]]'s decision. Whether the ruler of the Unseelie Court will be brought to his door now rests with Ryo alone.
 
+#### [[Session 58 - Into Avernus]]
+
+Praetor stood at the glowing basin when the girl Ellessa ran to him with a present, a potion pocketed from a magic shop. Welcoming the party back from the Vale, he drank it in one draught and spent the rest of the visit hiccupping puffs of snow. Then he named her: *"Ellesandra."* *"You got old,"* she said. *"I was always old. You got small."* He told her he had felt her go and waited for her to come back, and held her as she wept. After [[Ellesandra Silmara|Ellesandra]] faded, he apologised to the party for any deception, admitting he had not known her fate, only hoped, and insisted the stone was still essential to the Crimson Shadow's demise. He told [[Ryo]] who she was and to be proud of her. Freeing her from [[Mirileth]] was possible, he said, but raised the question of what the Queen would then do. He told Ryo he had no living relatives besides [[Eryndor]]'s mother, and told [[Kai]] that the devils had played no direct part in the [[Chaos Wars]]. Asked about unenchanted weapons, he warned that many beings in the Hells resist them.
+
 ## Trivia
 
 - The vault's ceiling has an observable response to Praetor'Varanous's internal state — silver light pulses and dims in time with his breathing when he is deep in thought or reaching for a distant memory. Whether he commands it or the vault simply answers, he does not say.

@@ -97,6 +97,10 @@ The Gates surfaced again in the bargain struck in the Vale. [[Mirileth]] observe
 
 [[Ryo]] tested whether anyone else could drive the Gate beneath the [[Heartstone]]. When [[Eryndor]] floated the ring over by mage hand, the hand vanished above the dais and the ring fell. Set into the slot by Eryndor's own hand, the ring pulled itself into place, but the Gate stayed dormant. In the [[Lectorium]], the party learned that even the old Silmara could never open a World Gate onto any layer of the Hells deeper than Avernus.
 
+#### [[Session 58 - Into Avernus]]
+
+Before midday [[Ryo]] opened the Gate beneath the [[Heartstone]] onto Avernus, the first layer of the Hells. The Gate chamber, unguarded once past the Heartstone's bridge, lay thick with dust. The party stepped through into heat and a rust-red waste, and the tear sealed behind them within seconds, with no gate on the far side. Travel from one Gate to another always connects, while any other destination is a chance, much like plane shift. The Hells are the exception: every traveller arrives in Avernus, so no aim is needed. [[Dondar]] wondered whether leaving the ring in the dais would hold a gate open.
+
 ## Trivia
 
 - The signet ring that opens the Gates is the same key that unseals the [[Vault of Memories]] — two doors, one bloodline, one bond made at the roots of the world.

@@ -49,3 +49,7 @@ Recovered from [[Ymrageth|Ymrageth's]] barrow den among the trophies of her hoar
 #### [[Session 57 - On the Eve of Hell]]
 
 [[Kai]] showed the grimoire to [[Illythia Voss|Illythia]], dropping it in fright when he feared it would speak. She opened it with a click of her fingers onto endlessly swirling text, and its real fingers clenched and relaxed. She judged it a spellbook written in a difficult dream script, likely full of powerful and nasty spells: dangerous, but not cursed. She could teach [[Dondar]] to read it, but warned him to study no more than an hour a day, or the script would bring restless nightmares.
+
+#### [[Session 58 - Into Avernus]]
+
+[[Dondar]] spent an hour with the grimoire before the party left for the Hells. Its letters danced away wherever he looked, leaving him dizzy and headachy, but he held on and the book revealed one of its spells, a fourth-level working he can now copy into his own spellbook. The effort left him nauseous at the thought of trying again that day, and the fingers around the book's edges clasped shut as he put it away.

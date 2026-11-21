@@ -98,6 +98,7 @@ The people of Elandis — heroes and villains, rulers and rogues, gods walking a
 - [[Salla the Brave]]
 - [[Sela Ren]]
 - [[Seraphina]]
+- [[Seraxis]]
 - [[Skyguard Caeryn]]
 - [[Tara]]
 - [[Teresa]]
@@ -132,9 +133,11 @@ Every place worth naming, from the world itself down to a single back-alley tave
 ### Planes
 
 - [[Faewild]]
+- [[Nine Hells]]
 
 ### Regions
 
+- [[Avernus]]
 - [[Borealia Forest]]
 - [[Borealia Range]]
 - [[Briarshade]]

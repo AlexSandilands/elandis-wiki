@@ -92,6 +92,14 @@ On the late watch of a long rest hidden in the jungle of the [[Vale of Eternal N
 
 [[Eryndor]] showed the sword to [[Arcanist Levvel]] at the Diminished Trove, on whose advice he had begun channelling his magic through it. She saw at once that it had grown and changed since she last read it — something within it had woken — and, pleased to have helped uncover the mystery, asked whether he had changed his mind about selling. He promised that if he ever did, she would be top of the list.
 
+#### [[Session 58 - Into Avernus]]
+
+In Avernus, fighting beside an erinyes against a hezrou and a flight of vrocks, [[Eryndor]] spent a charge of the blade to send radiant energy spiralling up it into a vrock. Later he burned three charges in a single strike against the hezrou, pinned its arm with the rapier, and finished it with his dagger driven up under its jaw.
+
+#### [[Session 59 - Across the Waste]]
+
+Crossing a battlefield in [[Avernus]], [[Eryndor]] spent a charge to kindle the blade into bright radiance and kept pace with [[Seraxis]], striking down demons in her wake. A diving vrock nearly carried him off before he rolled clear.
+
 ## Trivia
 
 - The Emberblade takes both its name and its power from the [[Emberspire]] and the [[Emberlight Vigil]], the festival on whose 457th night it was made.

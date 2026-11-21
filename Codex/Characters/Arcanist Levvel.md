@@ -54,3 +54,7 @@ The party brought several items to the Diminished Trove for identification. Levv
 #### [[Session 56 - Homecomings and Farewells]]
 
 [[Eryndor]] returned to the Diminished Trove with the girl Ellessa in tow; Levvel raised an eyebrow but asked no questions. Reading the [[Amulet of the Arachnid Queen]] more deeply than before, she found a dormant power in it that did not feel arcane, as if imbued by some greater entity, and whose magic came from the deep places; unable to pierce it, she advised caution. She saw at once that the [[Emberblade]] had grown and woken since she last held it, and asked whether Eryndor had changed his mind about selling — he promised she would be top of the list. She let the child keep a vial from her help-yourself box of mislabelled, expired potions. When [[Kai]] laid the severed arms of the crone [[Ymrageth]] on her bench and asked about harvesting the bones and making the skin into hand wraps, she admitted she had begun to wonder whether a psychopath had walked into her shop, but allowed that latent energy might linger in the tissue; once Kai had preserved the arms by ritual, she took them into her back room for him to collect later.
+
+#### [[Session 58 - Into Avernus]]
+
+Before the party left for the Hells, Levvel sold them the only two potions of fire resistance she had, at 300 gold each; [[Kai]] and [[Eryndor]] took one apiece.

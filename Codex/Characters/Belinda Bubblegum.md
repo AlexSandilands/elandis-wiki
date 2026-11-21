@@ -86,6 +86,10 @@ As preparations for the Vigil continued, the party browsed Belinda's catalogue o
 
 At midnight the festival's golden light flooded [[Lighthaven]], and Belinda set to work inside her workshop alongside [[Dondar]] — who proved an extraordinary collaborator. His instincts for enchantment were exceptional, and together the two channelled the Emberspire's power to forge the **Emberblade**: a rapier of gold and obsidian, its pommel carved in Dondar's own likeness, which he gifted to [[Eryndor]]. [[Kai]] also commissioned a custom-engraved Clockwork Amulet for a hundred gold. The evening was not entirely without incident — Kai's attempt to collect Belinda's sweat in a vial using *Shape Water* did not go unnoticed, and she destroyed it before he could retreat.
 
+#### [[Session 58 - Into Avernus]]
+
+At [[Dondar]]'s request, [[Kai]] sent word to Belinda asking for advice before the party went down into the Hells. She answered from [[Arkangel]], the flying city she had reached with the rod of transportation she crafted in [[Lighthaven]]: *"Great to hear from you. Never been to the hells myself. Don't give out your name for free. Stock up on potions of resistance of fire if you can. Make sure you bring some food and water. You might struggle to find some down there. Good luck. Let me know how it goes. Bring me a present."*
+
 ## Trivia
 
 - Belinda's colour-changing ring — a faceted crystal set in silver that shifts her robes and hair to match — is one of her own designs. She describes it as a demonstration of instantaneous sympathetic enchantment. It is also, she would admit, extremely satisfying to use.

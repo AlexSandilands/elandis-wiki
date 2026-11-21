@@ -84,6 +84,10 @@ On the road to Darmouth, the caravan performer Lilliana Featherfoot sang the par
 
 [[Ayana Syndrosa|Ayana]] laid out the true shape of the history for the party — the Chaos Wars and the Shattering of the planar barriers some twenty-five hundred years ago, the coming of the chromatic dragons, and the arrival of magic in the world — grounding the campfire legend in fact for the first time.
 
+#### [[Session 58 - Into Avernus]]
+
+Asked by [[Kai]] whether the devils had played any part in the Chaos Wars, [[Praetor'Varanous|Praetor]] said they had not. The conflict was confined mainly to the material realm, and the devils were only ancillary, profiting from the souls and bargains of those seeking power. Kai said that changed his view of them.
+
 ## Trivia
 
 - The folk legend's "seven-century war" is a corruption: the Chaos Wars ran roughly five hundred years, not seven. The number *seven* seems to have migrated into the timeline from the Seven who ended the war — who are themselves the gods the tellers now pray to.

@@ -32,7 +32,7 @@ The campaign keeps time by the [[Calendar of Elandis]] — a year of twelve twen
 
 ## The Story So Far
 
-From a shipwreck on Valtorra's southern coast to the dawnless heart of the lightless Vale far to the north, the Bloody Nails have grown from escaped prisoners into a name the Empire has learned to fear. What began as survival became rebellion, and what looked like a war against an Empress has revealed itself as something far older and far darker.
+From a shipwreck on Valtorra's southern coast to the dawnless heart of the lightless Vale and down into the burning wastes of the Hells, the Bloody Nails have grown from escaped prisoners into a name the Empire has learned to fear. What began as survival became rebellion, and what looked like a war against an Empress has revealed itself as something far older and far darker.
 
 ### Part I — Chains and the Long Road (Sessions 1–7)
 
@@ -132,7 +132,14 @@ Before the elven Confluence, Ryo's claim was tested in the Vault of Memories ben
 - [[Session 56 - Homecomings and Farewells|56 — Homecomings and Farewells]]
 - [[Session 57 - On the Eve of Hell|57 — On the Eve of Hell]]
 
-*As of the latest session, the Bloody Nails stand at 10th level in [[Sumara, The Shining City|Sumara]], with Kaelen quietly readying the elven host and [[Val Miriel]] crying out for help. Rested and armed with what the archives could tell them of the Hells, they stand before the door of the [[Vault of Memories]] with the Star-Veiled Queen's vessel at their side. Once it opens, they must go straight down after the archdevil before he can reform.*
+### Part IX — Into the Hells (Sessions 58–59)
+
+The Vault opened, and the girl Ellessa showed the Nails its quickest road, a leap from the stair into a slow fall through drifting memories. In the dragon's hall she ran to [[Praetor'Varanous|Praetor]] with a present and, when he named her, unfurled into [[Ellesandra Silmara|Ellesandra]] herself, reunited with her old friend after two thousand years. The Queen had never been with them; the journey was Ellesandra's alone, a brief respite granted by the deal. She declared the bargain complete, told Ryo that the weight of his line was his to carry by choice, and faded on the wind. Advised by [[Belinda Bubblegum|Belinda]] from distant [[Arkangel]] to guard their names and carry water and fire-wards, the Nails stepped through the [[World Gates|World Gate]] into Avernus, the burning first layer of the Hells. On the road to the river they swore themselves to a wounded erinyes fleeing a pack of demons, and fought beside her until the last demon fell. She kept her oath, though she warned Kai never again to touch her with his holy light. Her name was [[Seraxis]], an outrider of the Third Talon, and she taught them the Hells by example: questions are currency, names are worth a great deal, and the only road to Dis is the Styx, by a ferryman's leave. In the night [[Dondar]] cast a fireball in his sleep and woke screaming his sister's name, then told the others for the first time what the Empire had done to his family. With a soul storm closing in, the Nails cut through the back lines of a battle between devils and demons and reached the river at the Third Talon's camp, where Seraxis offered to lead them in wearing her chains.
+
+- [[Session 58 - Into Avernus|58 — Into Avernus]]
+- [[Session 59 - Across the Waste|59 — Across the Waste]]
+
+*As of the latest session, the Bloody Nails stand at 10th level at the gates of the Third Talon's war camp on the river Styx, with a soul storm less than an hour behind them. The Queen's bargain is complete but the archdevil is not yet loosed. To reach a ferry down to Dis, they must decide whether to trust Seraxis and enter the camp as her chained property, or find another way.*
 
 ## Allies & Adversaries
 
