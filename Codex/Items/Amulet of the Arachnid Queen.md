@@ -81,6 +81,10 @@ At the Confluence of the Seven, [[Eryndor]] produced the amulet and Archivist El
 
 In [[Sumara, The Shining City|Sumara]], [[Eryndor]] brought the amulet to [[Arcanist Levvel]] at the Diminished Trove, uneasy since its Underdark make had been remarked on at the Confluence. With an exceptional reading she found more in it than its known properties: a dormant, latent power that did not feel arcane, as if some greater entity had imbued it, its magic from the deep places. She could not discover what that power does, and told Eryndor to be careful with it.
 
+#### [[Session 60 - Down the Styx]]
+
+On the ferry down the Styx, the tiger-headed Sahrim, agent of the House of Provenance, asked to see the [[Emberblade]], and [[Eryndor]] offered him the amulet to inspect instead. Sahrim judged it unique, *"not just a normal enchantment,"* and plucked the name of [[Nelfandriss the Banished]] from Eryndor's thoughts as its giver. He wanted it for his collection, and Eryndor promised an answer once they reach Dis. Before parting, Sahrim warned him freely that a power lies dormant inside it, one that *"wishes to rear its head, given some trigger."* He could not say whether it was dangerous.
+
 ## Trivia
 
 - The amulet's name comes from its form and its gifts rather than any inscription — the identity of the "Arachnid Queen" it honours is unknown, and a matter of uneasy speculation among those who have studied it.

@@ -87,6 +87,10 @@ Avernus is the threshold of the Hells. No one reaches the deeper layers without 
 
 The party followed the erinyes [[Seraxis]] across the waste toward the Styx, racing a soul storm that was rolling in from the horizon. She hid them behind outcrops as hordes thundered past, and they spent the night in a hidden cave while the war raged close by. From the air, [[Berberis]]'s owl saw battles in every direction, siege engines hurling house-sized boulders through the ranks, and a vast structure far off above a line of crags, hidden in smoke. The next morning a demon horde and a devil legion clashed between the party and the river, and rather than lose hours going around, they cut through the devils' back lines. Spirit blades, spectral wyverns, a burning owl, [[Dondar]] as a war elephant and an awakened hell-tree carried them through. They reached the river at the spiked camp of the Third Talon, Seraxis's company, with the storm less than an hour behind them.
 
+#### [[Session 60 - Down the Styx]]
+
+Collared in [[Seraxis]]'s chains, the party ran the last stretch to the camp of the Third Talon as the soul storm broke. Inside the spiked palisade, faceless iron-masked soldiers drilled as one, lemures hauled a screaming, soul-fed war machine, and wounded devils lay in rows being stitched by the river. Its captain, Ashvere, dropped from the central spire to question Seraxis and accepted the party as a tithe bound for the river. Stripped of their gear, they rode out the storm in hide-wrapped cages over the Styx. Lightning carried screams, and clods of rock rained down, along with a strange warm coin that [[Eryndor]] quietly claimed. When a ferry with a green lamp arrived, Seraxis released them, and they left Avernus down the Styx.
+
 ## Trivia
 
 - The erinyes who met the party swore her oath *"on my name and my wing"* before they knew her name. When she finally gave it, as [[Seraxis]], it came with a warning to be less careless with names in the Hells.

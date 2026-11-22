@@ -62,6 +62,10 @@ The shield is carried by [[Kai]], the cleric whose faith redeemed the metal it w
 
 In the days after Val Noren's liberation, [[Kai]] carried the cursed armour of [[Dread General Gerard Blackmarsh]] into a vision of the Astral Plane and purified it, facing and healing a shadow of himself at Selûne's urging. The cleansed metal was taken to Helda Coalbraid at the [[Ashen Forge]], who forged the Moonlit Aegis in a divine trance; [[Alyn the First]] completed it by setting Kai's own moonstone into the shield, waking its light.
 
+#### [[Session 60 - Down the Styx]]
+
+Aboard the Styx ferry, a fallen knight in black plate recognised the moon on the shield: *"I used to wear one."* When [[Kai]] slid it toward him, he recoiled and begged not to look on it or touch it, and his parting advice was *"Cover that."* Kai inked the symbol out with his illuminator's tattoo. At the Chain Gate he declared the shield as a holy article and signed an oath of non-use, under the name Rike, binding until he leaves Dis. Because of its enchantment, even blocking with it would break the oath and forfeit his soul. The shield went into the party's bag of holding, and [[Ryo]] gave Kai a plain shield in its place.
+
 ## Trivia
 
 - The shield is unusual in carrying the favour of two gods at once — forged under the hand of [[Torgar Earthshaker]], the Stonesworn's smith-god, yet dedicated wholly to [[Selûne]], the moon. In Val Noren, where faith and craft have never been separate things, this is taken as a mark of how fully the metal was redeemed.

@@ -55,3 +55,7 @@ The party encountered their first confirmed Voice in [[Val Noren]], when [[Dread
 #### [[Session 39 - The Stoneheart]]
 
 Marcelle made her final appearance at the [[Stoneheart]] in [[Val Noren]], raining arcane bursts from an upper balcony as the party burst from the crypts below. A critical arrow from [[Ryo]] brought her down against the railing — she did not rise. Her death preceded Blackmarsh's by minutes, ending the party's direct encounters with the Voice of the Empire.
+
+#### [[Session 60 - Down the Styx]]
+
+In the camp of the Third Talon in [[Avernus]], the party found an elderly, grey-bearded man in red robes like [[Marcelle the Broken]]'s, unconscious in a hanging cage over the Styx. His robe bore an emblem of a sun behind a sextant. Devils carried him aboard the party's ferry, where his passage had been paid in advance. [[Berberis]] revived him with water and a goodberry: he had been caged for a couple of weeks. He would answer no questions and asked none, but when Berberis remarked that a Voice rarely ventures out, he guessed the party was from *"the homeland"*. He proposed they stick together for now. At the Chain Gate the manifest named him Lucan Merrow, of the Arcana Luminorium.

@@ -110,6 +110,10 @@ Warned by [[Belinda Bubblegum|Belinda]] to guard their names and carry water and
 
 On the march across [[Avernus]], the erinyes [[Seraxis]] taught the party how the Hells work. Questions and answers are currency, never given away free, and names are worth a great deal. There is no walking to Dis. The only road is the Styx, the river that runs through every circle of the Hells, and travel on it needs permission. Ferries and ferrymen each set a price, and a traveller who strikes a bargain is added to the cargo manifest, which opens the Chain Gate. A bargain with a ferryman is binding, so no one will chase a passenger once they're on the river. As she put it, *"we hold the law highly above all things."*
 
+#### [[Session 60 - Down the Styx]]
+
+The party took passage down the Styx from the Third Talon's dock. An imp clerk set the fare at 500 gold, a soul coin, a memory, a true story the ferryman chooses, or a true name. Every passenger must have a name on the register, so the party paid in gold under false names. The ferry carried a tiger-headed agent of the House of Provenance, a night hag, a devil courier, a fallen knight, and a caged imperial mage. Its provisions were balls of raw flesh and bone. The river vanished into the mountains, through a black void where time could not be judged, and came out at the Chain Gate. Its iron walls rise perhaps a thousand feet, and each link of its chains is the size of the ferry. An erinyes captain read the manifest aloud and demanded that holy articles be declared. They could be confiscated, or kept under a true-name surety, an iron seal, an oath of non-use, a paid licence, or a patron's word. [[Kai]] swore non-use of his shield and holy water, and the ferry passed on into Dis.
+
 ## Trivia
 
 - Asked what the Hells serve to drink, Sumara's archivists could offer a thirsty dwarf little comfort: there is probably not much to be had.
