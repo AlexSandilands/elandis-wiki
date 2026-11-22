@@ -146,7 +146,7 @@ On deck waited [[Sahrim]], a tiger-headed agent of the House of Provenance, who 
 
 * A tiger-headed figure in maroon and gold robes lounged on deck, purring with amusement: *"First time on the ferry, is it?"*
 * The party deflected: they were *"here to see a guy about a dog."*
-* *"You may call me [[Sahrim]]. I am the House of Provenance."* Information is meant to be traded back.
+* *"You may call me [[Sahrim]]."* He is of the House of Provenance, and information is meant to be traded back.
 * He asked to see Ryo's ring. Ryo denied having one with a natural 20 on Deception, but failed a Wisdom save.
 * **Major Beat:** *"No ring under the glove, eh? I see. You're very convincing… From Sumara, is it?"* Ryo held to *"from the Darkwood."*
 * He eyed the [[Emberblade]]'s dwarf-faced hilt. Eryndor offered the [[Amulet of the Arachnid Queen]] to inspect instead.

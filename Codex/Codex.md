@@ -95,6 +95,7 @@ The people of Elandis — heroes and villains, rulers and rogues, gods walking a
 - [[Ratha Silmara]]
 - [[Rhennaya Silmara]]
 - [[Ryordan Silmara]]
+- [[Sahrim]]
 - [[Salla the Brave]]
 - [[Sela Ren]]
 - [[Seraphina]]
